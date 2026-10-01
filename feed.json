@@ -1,5 +1,1686 @@
 {
-  "version": 1,
-  "generatedAt": null,
-  "sheets": []
+  "schemaVersion": 1,
+  "weekOf": "2026-09-28",
+  "generatedAt": "2026-10-01T11:20:22.563Z",
+  "sheets": [
+    {
+      "id": "2026-maire-mariage-et-oqtf",
+      "question": "Un maire officier d'état civil peut-il refuser de célébrer le mariage d'un étranger sous obligation de quitter le territoire français ?",
+      "shortTitle": "Maire, mariage et OQTF",
+      "tag": "Conscience · mariage",
+      "liberties": [
+        "conscience",
+        "egalite",
+        "droit-au-juge",
+        "etrangers"
+      ],
+      "controversial": true,
+      "addedAt": "2026-10-01",
+      "updatedAt": "2026-10-01",
+      "keyEvent": {
+        "label": "Procès correctionnel",
+        "date": "2026-09-30"
+      },
+      "rights": {
+        "summary": "Liberté du mariage, composante de la liberté personnelle protégée par les art. 2 et 4 DDHC (CC, 2003-484 DC) · égalité devant la loi (art. 6 DDHC) · l'officier de l'état civil exerce ses attributions « au nom de l'État » (CC, 2013-353 QPC), non selon sa conscience personnelle, ce qui pose la question d'une éventuelle clause de conscience des maires.",
+        "instruments": [
+          "Code civil, art. 165 (célébration par l'officier de l'état civil) et art. 175-2 (saisine du procureur en cas d'indices sérieux)",
+          "Code pénal, art. 432-1 : « Le fait, par une personne dépositaire de l'autorité publique, agissant dans l'exercice de ses fonctions, de prendre des mesures destinées à faire échec à l'exécution de la loi est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende. »",
+          "Code pénal, art. 432-2 (dix ans et 150 000 € si l'infraction « a été suivie d'effet »)",
+          "CEDH, art. 12 (droit au mariage)"
+        ]
+      },
+      "facts": {
+        "text": "Le 7 juillet 2023, Robert Ménard, maire de Béziers, refuse de célébrer le mariage d'une Française et d'un Algérien sous obligation de quitter le territoire français (OQTF). Poursuivi sur le fondement de l'article 432-1 du Code pénal après avoir refusé une procédure de plaider-coupable, il est jugé le 30 septembre 2026 devant le tribunal correctionnel de Montpellier. Le procureur requiert une amende de 7 500 euros, sans peine d'inéligibilité. Décision attendue le 1er décembre 2026.",
+        "sources": [
+          {
+            "label": "Club des juristes — Procès de Robert Ménard : refus de célébrer le mariage d’un homme sous OQTF",
+            "url": "https://www.leclubdesjuristes.com/en-bref/proces-de-robert-menard-refus-de-celebrer-le-mariage-dun-homme-sous-oqtf-17553/",
+            "date": "2026-10-01",
+            "verified": true
+          },
+          {
+            "label": "Le Monde (Police-Justice) — Au procès de Robert Ménard pour avoir refusé de célébrer le mariage d’un homme…",
+            "url": "https://www.lemonde.fr/societe/article/2026/10/01/au-proces-de-robert-menard-pour-avoir-refuse-le-mariage-d-un-homme-sous-oqtf-une-peine-d-amende-requise_6786162_3224.html",
+            "date": "2026-10-01",
+            "verified": true,
+            "note": "titre et chapeau vérifiés via le flux RSS officiel du Monde"
+          },
+          {
+            "label": "Bladi — Mariage interdit à Béziers : le maire Robert Ménard poursuivi en justice",
+            "url": "https://www.bladi.net/mariage-interdit-beziers-maire-robert-menard-poursuivi-justice,113221.html",
+            "date": "2025-02-20",
+            "verified": true
+          },
+          {
+            "label": "TF1 Info (AFP) — Refus de marier un étranger sous OQTF : une amende de 7.500 euros requise contre Robert Ménard, mais pas d'inéligibilité",
+            "url": "https://www.tf1info.fr/justice-faits-divers/refus-de-marier-un-etranger-sous-oqtf-une-amende-de-7-500-euros-requise-contre-robert-menard-mais-pas-d-ineligibilite-2467315.html",
+            "date": "2026-09-30",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "« J'ai refusé de plaider coupable. […] Je ne suis coupable de rien, responsable de rien. Ce n'est pas moi qui décide de mettre une OQTF sur ce garçon. Ce n'est pas moi qui l'ai renvoyé en Algérie. »",
+          "holder": "Robert Ménard, maire de Béziers",
+          "sources": [
+            {
+              "label": "Bladi — Mariage interdit à Béziers : le maire Robert Ménard poursuivi en justice",
+              "url": "https://www.bladi.net/mariage-interdit-beziers-maire-robert-menard-poursuivi-justice,113221.html",
+              "date": "2025-02-20",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "Le parquet poursuit le maire pour ce refus et requiert une amende de 7 500 euros, sans demander son inéligibilité.",
+          "holder": "Le procureur de la République",
+          "sources": [
+            {
+              "label": "Club des juristes — Procès de Robert Ménard : refus de célébrer le mariage d’un homme sous OQTF",
+              "url": "https://www.leclubdesjuristes.com/en-bref/proces-de-robert-menard-refus-de-celebrer-le-mariage-dun-homme-sous-oqtf-17553/",
+              "date": "2026-10-01",
+              "verified": true
+            },
+            {
+              "label": "Le Monde (Police-Justice) — Au procès de Robert Ménard pour avoir refusé de célébrer le mariage d’un homme…",
+              "url": "https://www.lemonde.fr/societe/article/2026/10/01/au-proces-de-robert-menard-pour-avoir-refuse-le-mariage-d-un-homme-sous-oqtf-une-peine-d-amende-requise_6786162_3224.html",
+              "date": "2026-10-01",
+              "verified": true,
+              "note": "titre et chapeau vérifiés via le flux RSS officiel du Monde"
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC, n° 2013-353 QPC, 18 octobre 2013",
+          "principle": "Pas de « clause de conscience » : l'officier de l'état civil exerce ses attributions au nom de l'État ; l'en priver garantit « le bon fonctionnement et la neutralité du service public de l'état civil » sans atteinte à la liberté de conscience (art. 10 DDHC).",
+          "verified": true,
+          "url": "https://www.conseil-constitutionnel.fr/decision/2013/2013353QPC.htm"
+        },
+        {
+          "reference": "CC, n° 2003-484 DC, 20 novembre 2003 (loi relative à la maîtrise de l'immigration)",
+          "principle": "La liberté du mariage, « composante de la liberté personnelle protégée par les articles 2 et 4 de la Déclaration de 1789, s'oppose à ce que le caractère irrégulier du séjour d'un étranger fasse obstacle, par lui-même, au mariage de l'intéressé » ; en cas d'indices sérieux, l'officier de l'état civil peut saisir le procureur (C. civ., art. 175-2).",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2003/2003484DC.htm",
+          "verified": true
+        }
+      ],
+      "decide": [
+        "L'officier d'état civil peut-il invoquer une conviction personnelle pour refuser un acte que la loi lui impose ?",
+        "Le soupçon de fraude au mariage justifie-t-il un refus unilatéral du maire, ou relève-t-il du seul procureur ?",
+        "Une amende sans inéligibilité suffit-elle à garantir l'effectivité du droit au mariage pour les futurs couples concernés ?"
+      ],
+      "jury": [
+        {
+          "question": "Peut-on parler de « clause de conscience » pour un officier d'état civil, alors que le Conseil constitutionnel l'a écartée en 2013 (n° 2013-353 QPC) pour le mariage pour tous ?"
+        },
+        {
+          "question": "Quelle est la procédure normale en cas de soupçon de mariage frauduleux, et pourquoi le maire ne peut-il s'y substituer ?"
+        },
+        {
+          "question": "Vous représentez le couple évincé : quelles voies de droit pour contraindre la célébration du mariage ?"
+        }
+      ],
+      "listen": []
+    },
+    {
+      "id": "2026-bardella-contre-mediapart",
+      "question": "Un responsable politique peut-il faire condamner un média pour diffamation après la publication de propos privés anciens qu'il conteste ?",
+      "shortTitle": "Bardella contre Mediapart",
+      "tag": "Expression · diffamation politique",
+      "liberties": [
+        "expression",
+        "vie-privee",
+        "droit-au-juge",
+        "egalite"
+      ],
+      "controversial": true,
+      "addedAt": "2026-10-01",
+      "updatedAt": "2026-10-01",
+      "keyEvent": {
+        "label": "Révélations Mediapart",
+        "date": "2026-09-28"
+      },
+      "rights": {
+        "summary": "Liberté d'expression et de la presse (art. 11 DDHC ; art. 10 CEDH) confrontée au droit au respect de la vie privée et à la protection de la réputation (art. 8 CEDH ; art. 9 C. civ.) ; droit au juge pour trancher la qualification de diffamation et l'exception de vérité ; l'exception de vérité est exclue quand l'imputation concerne la vie privée (loi 1881, art. 35, al. 3).",
+        "instruments": [
+          "Loi du 29 juillet 1881, art. 29 (définition : « toute allégation ou imputation d'un fait qui porte atteinte à l'honneur ou à la considération »)",
+          "Loi du 29 juillet 1881, art. 32, al. 1 (diffamation envers un particulier : 12 000 € d'amende)",
+          "Loi du 29 juillet 1881, art. 35 (exception de vérité, sauf vie privée)",
+          "Loi du 29 juillet 1881, art. 55 (offre de preuve dans les dix jours de la citation)",
+          "Loi du 29 juillet 1881, art. 65 (prescription de trois mois)"
+        ]
+      },
+      "facts": {
+        "text": "Le 28 septembre 2026, Mediapart publie une enquête attribuant à Jordan Bardella des propos antisémites et complotistes qu'il aurait écrits dans des conversations privées à l'été 2013, à 17-18 ans, alors jeune adhérent du FN. Le président du RN dément et annonce une plainte pour diffamation, dénonçant une opération menée « par des fanatiques d'extrême gauche » visant à le « tuer politiquement ». Marine Le Pen soutient Bardella à l'Assemblée nationale. Le 30 septembre, Emmanuel Macron juge les propos « gravissimes et inacceptables » et appelle le RN à « clarifier » sa ligne. Pour le Club des juristes, Thomas Besse (Université de Caen Normandie) examine la qualification de diffamation et les défenses ouvertes à Mediapart.",
+        "sources": [
+          {
+            "label": "Club des juristes — Accusations envers Jordan Bardella par Mediapart : la réaction du Rassemblement…",
+            "url": "https://www.leclubdesjuristes.com/en-bref/accusations-envers-jordan-bardella-par-mediapart-la-reaction-du-rassemblement-national-17539/",
+            "date": "2026-09-30",
+            "verified": true
+          },
+          {
+            "label": "Public Sénat — Accusations d’antisémitisme : « La défense de Jordan Bardella est assez…",
+            "url": "https://www.publicsenat.fr/actualites/politique/propos-antisemites-reveles-par-mediapart-la-defense-de-jordan-bardella-est-assez-classique-cest-celle-de-fillon-en-2017-selon-le-communicant-philippe-moreau-chevrolet",
+            "date": "2026-09-29",
+            "verified": true
+          },
+          {
+            "label": "Public Sénat — Propos antisémites révélés par Mediapart : « L’objectif, c’est de tuer ma…",
+            "url": "https://www.publicsenat.fr/actualites/politique/propos-antisemites-reveles-par-mediapart-lobjectif-cest-de-tuer-ma-carriere-politique-denonce-jordan-bardella",
+            "date": "2026-09-29",
+            "verified": true
+          },
+          {
+            "label": "Public Sénat — Emmanuel Macron juge les propos attribués à Jordan Bardella « gravissimes et…",
+            "url": "https://www.publicsenat.fr/actualites/politique/emmanuel-macron-juge-les-propos-attribues-a-jordan-bardella-gravissimes-et-inacceptables-et-appelle-le-rn-a-clarifier",
+            "date": "2026-09-30",
+            "verified": true
+          },
+          {
+            "label": "Club des juristes — Plainte de Bardella contre Mediapart : sur quoi se jouera le procès en…",
+            "url": "https://www.leclubdesjuristes.com/observatoire-de-la-reforme-constitutionnelle/justice-observatoire-de-la-reforme-constitutionnelle/plainte-de-bardella-contre-mediapart-sur-quoi-se-jouera-le-proces-en-diffamation-17558/",
+            "date": "2026-10-01",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "Les propos qui me sont attribués sont faux et relèvent d'une opération destinée à me « tuer politiquement », menée « par des fanatiques d'extrême gauche ».",
+          "holder": "Jordan Bardella",
+          "sources": [
+            {
+              "label": "Public Sénat — Propos antisémites révélés par Mediapart : « L’objectif, c’est de tuer ma…",
+              "url": "https://www.publicsenat.fr/actualites/politique/propos-antisemites-reveles-par-mediapart-lobjectif-cest-de-tuer-ma-carriere-politique-denonce-jordan-bardella",
+              "date": "2026-09-29",
+              "verified": true
+            },
+            {
+              "label": "Public Sénat — Accusations d’antisémitisme : « La défense de Jordan Bardella est assez…",
+              "url": "https://www.publicsenat.fr/actualites/politique/propos-antisemites-reveles-par-mediapart-la-defense-de-jordan-bardella-est-assez-classique-cest-celle-de-fillon-en-2017-selon-le-communicant-philippe-moreau-chevrolet",
+              "date": "2026-09-29",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "Les propos attribués à Bardella sont « gravissimes et inacceptables » et le RN doit clarifier sa ligne.",
+          "holder": "Emmanuel Macron",
+          "sources": [
+            {
+              "label": "Public Sénat — Emmanuel Macron juge les propos attribués à Jordan Bardella « gravissimes et…",
+              "url": "https://www.publicsenat.fr/actualites/politique/emmanuel-macron-juge-les-propos-attribues-a-jordan-bardella-gravissimes-et-inacceptables-et-appelle-le-rn-a-clarifier",
+              "date": "2026-09-30",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "« La défense de Jordan Bardella est assez classique. C'est celle de Fillon en 2017. Elle consiste à nier les accusations, et à déplacer la question vers le terrain politique, en évoquant la piste d'un complot. »",
+          "holder": "Philippe Moreau-Chevrolet, expert en communication politique, enseignant à Sciences Po Paris",
+          "sources": [
+            {
+              "label": "Public Sénat — Accusations d’antisémitisme : « La défense de Jordan Bardella est assez…",
+              "url": "https://www.publicsenat.fr/actualites/politique/propos-antisemites-reveles-par-mediapart-la-defense-de-jordan-bardella-est-assez-classique-cest-celle-de-fillon-en-2017-selon-le-communicant-philippe-moreau-chevrolet",
+              "date": "2026-09-29",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "D",
+          "claim": "L'imputation litigieuse « paraît bien constitutive d'une diffamation publique », mais Mediapart peut se défendre : l'exception de vérité (art. 35) est un moyen de défense « très rarement admis en pratique », la preuve devant être « parfaite, complète et corrélative aux imputations diffamatoires dans toute leur matérialité et leur portée » ; il est « beaucoup plus fréquent » d'obtenir une relaxe au titre de la bonne foi, et l'intérêt général de l'information ne fait « aucun doute » ; l'issue dépendra du caractère suffisant de la base factuelle.",
+          "holder": "Thomas Besse, maître de conférences (Université de Caen Normandie), Club des juristes",
+          "sources": [
+            {
+              "label": "Club des juristes — Plainte de Bardella contre Mediapart : sur quoi se jouera le procès en…",
+              "url": "https://www.leclubdesjuristes.com/observatoire-de-la-reforme-constitutionnelle/justice-observatoire-de-la-reforme-constitutionnelle/plainte-de-bardella-contre-mediapart-sur-quoi-se-jouera-le-proces-en-diffamation-17558/",
+              "date": "2026-10-01",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC, n° 2011-131 QPC, 20 mai 2011",
+          "principle": "Abrogation de l'art. 35, al. 5, de la loi de 1881 : l'interdiction de prouver la vérité de faits de plus de dix ans porte, « par son caractère général et absolu », une atteinte disproportionnée à la liberté d'expression (art. 11 DDHC). Utile ici : les propos datent de 2013.",
+          "verified": true,
+          "url": "https://www.conseil-constitutionnel.fr/decision/2011/2011131QPC.htm"
+        },
+        {
+          "reference": "CEDH, GC, 20 mai 1999, Bladet Tromsø et Stensaas c. Norvège, n° 21980/93",
+          "principle": "L'art. 10 protège les comptes rendus de presse sur des questions d'intérêt général, à condition que les journalistes « agissent de bonne foi de manière à fournir des informations exactes et dignes de crédit dans le respect de la déontologie journalistique » (§ 65) ; violation de l'art. 10 en l'espèce (13 voix contre 4).",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-63020",
+          "verified": true
+        }
+      ],
+      "decide": [
+        "La diffusion de propos privés anciens, tenus hors de l'exercice d'un mandat, relève-t-elle de l'intérêt public justifiant leur publication ?",
+        "L'authenticité des conversations attribuées à Bardella doit-elle être tranchée avant ou pendant le procès en diffamation ?",
+        "La comparaison avec l'affaire Fillon est-elle pertinente pour apprécier la stratégie de défense politique de Bardella ?"
+      ],
+      "jury": [
+        {
+          "question": "Qu'est-ce que l'exception de vérité en matière de diffamation ? Quelles conditions pose la loi du 29 juillet 1881 ?"
+        },
+        {
+          "question": "Quels éléments de preuve un média doit-il produire pour échapper à une condamnation pour diffamation ?"
+        },
+        {
+          "question": "Avocat de Bardella : sur quel fondement et devant quelle juridiction porter plainte contre Mediapart ?"
+        },
+        {
+          "question": "Avocat de Mediapart : comment articuler bonne foi journalistique et intérêt public du débat électoral ?"
+        }
+      ],
+      "listen": [
+        {
+          "title": "Mediapart : Jordan Bardella a déposé une plainte pour diffamation",
+          "source": "L'Heure des Pros (CNews)",
+          "url": "https://podcasts.apple.com/fr/podcast/mediapart-jordan-bardella-a-d%C3%A9pos%C3%A9-une-plainte-pour/id1724721552?i=1000792150285",
+          "type": "podcast",
+          "date": "2026-09-29",
+          "duration": 13,
+          "why": "Pascal Praud revient sur l'intervention de Bardella sur CNews, où il a démenti les accusations et annoncé une plainte pour diffamation (non encore déposée au 1er octobre)."
+        }
+      ]
+    },
+    {
+      "id": "2026-dissolution-de-lfi-en-debat",
+      "question": "Les prises de position d'élus de La France insoumise en faveur du mouvement de blocage des lycées, émaillé de violences, pourraient-elles légalement fonder la dissolution du parti par décret sur le fondement de l'article L. 212-1 du code de la sécurité intérieure ?",
+      "shortTitle": "Dissolution de LFI en débat",
+      "tag": "Association · dissolution de parti",
+      "liberties": [
+        "association",
+        "expression",
+        "reunion",
+        "droit-au-juge",
+        "egalite"
+      ],
+      "controversial": true,
+      "addedAt": "2026-10-01",
+      "updatedAt": "2026-10-01",
+      "keyEvent": {
+        "label": "Déclaration politique",
+        "date": "2026-10-01"
+      },
+      "rights": {
+        "summary": "Liberté d'association, principe fondamental reconnu par les lois de la République (DC 1971) ; art. 11 CEDH (liberté d'association) ; liberté d'expression politique (art. 11 DDHC) ; pluralisme des courants d'idées (art. 4 Constitution) ; droit au juge contre une mesure de dissolution.",
+        "instruments": []
+      },
+      "facts": {
+        "text": "1er oct. 2026 : sur BFMTV-RMC, Bruno Retailleau, candidat LR à la présidentielle et ancien ministre de l'Intérieur, lance « la question de l'interdiction de LFI », qu'il juge « difficile en droit », en accusant le parti d'essayer « d'organiser l'insurrection ». 30 sept. 2026 : le préfet de police de Paris saisit le procureur de Bobigny (art. 40 CPP) pour « provocation à commettre un délit » contre le maire LFI de Saint-Denis, Bally Bagayoko, qui avait déclaré le 29 septembre que « la violence, à un moment donné, peut être légitime ». 1er oct. 2026 : le Premier ministre Sébastien Lecornu convoque une cellule de crise face à l'extension des blocages à plusieurs villes. 29 sept. 2026 : des sociologues alertent sur le risque que l'affrontement politique éclipse les revendications autonomes des lycéens. 30 sept. 2026 : en conférence de presse à Madrid, Emmanuel Macron affirme qu'en « aucun cas des responsables politiques […] ne saurait légitimer une violence au carré », visant implicitement LFI.",
+        "sources": [
+          {
+            "label": "Public Sénat — Colère lycéenne : Bruno Retailleau suggère de dissoudre LFI. Est-ce possible ?",
+            "url": "https://www.publicsenat.fr/actualites/politique/colere-lyceenne-bruno-retailleau-suggere-de-dissoudre-lfi-est-ce-possible",
+            "date": "2026-10-01",
+            "verified": true
+          },
+          {
+            "label": "franceinfo — Le maire de Saint-Denis, Bally Bagayoko, maintient ses \"propos\" sur \"la violence légitime\"…",
+            "url": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/la-violence-a-un-moment-donne-peut-etre-legitime-je-maintiens-ces-propos-declare-le-maire-lfi-de-saint-denis-bally-bagayoko-qui-fait-l-objet-d-un-signalement-la-justice_8217664.html",
+            "date": "2026-10-01",
+            "verified": true
+          },
+          {
+            "label": "Public Sénat — Blocages des lycées : Sébastien Lecornu convoque une cellule de crise à 13…",
+            "url": "https://www.publicsenat.fr/actualites/education/blocus-lyceen-sebastien-lecornu-convoque-une-cellule-de-crise-a-13-heures",
+            "date": "2026-10-01",
+            "verified": true
+          },
+          {
+            "label": "Public Sénat — Blocus des lycées : « Une fois sorti du tube, le dentifrice ne rentre plus »",
+            "url": "https://www.publicsenat.fr/actualites/politique/blocus-des-lycees-une-fois-sorti-du-tube-le-dentifrice-ne-rentre-plus",
+            "date": "2026-09-29",
+            "verified": true
+          },
+          {
+            "label": "Public Sénat — Bonjour chez vous ! — La campagne peut-elle dégénérer ?",
+            "url": "https://www.publicsenat.fr/emission/bonjour-chez-vous/la-campagne-peut-elle-degenerer-e0",
+            "date": "2026-10-01",
+            "verified": true
+          },
+          {
+            "label": "Le JDD — Lycées bloqués : le préfet saisit la justice contre Bally Bagayoko pour «provocation à commettre un délit»",
+            "url": "https://www.lejdd.fr/politique/lycees-bloques-le-prefet-saisit-la-justice-contre-bally-bagayoko-pour-provocation-a-commettre-un-delit-184863",
+            "date": "2026-09-30",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "LFI est « un parti qui est fasciné par la violence, qui appelle à la sédition et même qui essaie d'organiser l'insurrection » ; la question de son « interdiction » doit être posée, même si elle est « difficile en droit ».",
+          "holder": "Bruno Retailleau, candidat LR à la présidentielle, ancien ministre de l'Intérieur",
+          "sources": [
+            {
+              "label": "Public Sénat — Colère lycéenne : Bruno Retailleau suggère de dissoudre LFI. Est-ce possible ?",
+              "url": "https://www.publicsenat.fr/actualites/politique/colere-lyceenne-bruno-retailleau-suggere-de-dissoudre-lfi-est-ce-possible",
+              "date": "2026-10-01",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "Un parti constitué en association peut être dissous par décret en conseil des ministres (art. L. 212-1 CSI), mais une telle dissolution serait « improbable » : il faudrait établir « le lien de causalité entre l'expression des élus et les actes de violence », et l'article 4 de la Constitution protège les partis.",
+          "holder": "Nicolas Hervieu, professeur affilié à l'École de droit de Sciences Po (cité par Public Sénat)",
+          "sources": [
+            {
+              "label": "Public Sénat — Colère lycéenne : Bruno Retailleau suggère de dissoudre LFI. Est-ce possible ?",
+              "url": "https://www.publicsenat.fr/actualites/politique/colere-lyceenne-bruno-retailleau-suggere-de-dissoudre-lfi-est-ce-possible",
+              "date": "2026-10-01",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "Il « maintient » que « la violence, à un moment donné, peut être légitime » mais affirme : « Je ne suis pas en train d'encourager la violence », « je n'incite pas » ; aux lycéens : « Vos revendications sont légitimes » ; il appelle à la « désescalade ».",
+          "holder": "Bally Bagayoko, maire LFI de Saint-Denis",
+          "sources": [
+            {
+              "label": "franceinfo — Le maire de Saint-Denis, Bally Bagayoko, maintient ses \"propos\" sur \"la violence légitime\"…",
+              "url": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/la-violence-a-un-moment-donne-peut-etre-legitime-je-maintiens-ces-propos-declare-le-maire-lfi-de-saint-denis-bally-bagayoko-qui-fait-l-objet-d-un-signalement-la-justice_8217664.html",
+              "date": "2026-10-01",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "D",
+          "claim": "Le mouvement lycéen reste porté par une dynamique propre aux élèves, que l'instrumentalisation politique risque d'éclipser.",
+          "holder": "Valérie Becquet (sociologue) et Robi Morder (historien des mouvements lycéens), cités par Public Sénat",
+          "sources": [
+            {
+              "label": "Public Sénat — Blocus des lycées : « Une fois sorti du tube, le dentifrice ne rentre plus »",
+              "url": "https://www.publicsenat.fr/actualites/politique/blocus-des-lycees-une-fois-sorti-du-tube-le-dentifrice-ne-rentre-plus",
+              "date": "2026-09-29",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC, n° 71-44 DC, 16 juillet 1971",
+          "principle": "La liberté d'association est un principe fondamental reconnu par les lois de la République.",
+          "verified": true,
+          "url": "https://www.conseil-constitutionnel.fr/decision/1971/7144DC.htm"
+        },
+        {
+          "reference": "CEDH, GC, 13 févr. 2003, Refah Partisi (Parti de la prospérité) et autres c. Turquie, n° 41340/98 et a.",
+          "principle": "La dissolution d'un parti n'est compatible avec l'art. 11 que pour des « raisons convaincantes et impératives » et dans « les cas les plus graves » ; en l'espèce, non-violation (projet incompatible avec la démocratie).",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-65493",
+          "verified": true
+        },
+        {
+          "reference": "CE, Sect., 9 novembre 2023, Les Soulèvements de la Terre et a., n° 476384",
+          "principle": "Légitimer publiquement des agissements violents d'une gravité particulière constitue une provocation au sens du 1° de l'art. L. 212-1 CSI ; la dissolution n'est légale que si elle est adaptée, nécessaire et proportionnée (décret annulé en l'espèce).",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2023-11-09/476384",
+          "verified": true
+        },
+        {
+          "reference": "CE, 30 décembre 2024, Association Civitas, n° 489498",
+          "principle": "Un parti politique constitué en association loi 1901 n'est pas exclu par principe du champ de l'art. L. 212-1 CSI (dissolution administrative).",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2024-12-30/489498",
+          "verified": true
+        }
+      ],
+      "decide": [
+        "Le soutien d'un parti à un mouvement social, même violent, peut-il à lui seul caractériser une incitation justifiant sa dissolution ?",
+        "Qui est l'autorité compétente pour dissoudre un parti politique : décret en conseil des ministres, juge administratif, ou le législateur ?",
+        "La distinction entre les revendications lycéennes et leur récupération politique change-t-elle la qualification juridique des faits reprochés à LFI ?"
+      ],
+      "jury": [
+        {
+          "question": "Un parti politique bénéficie-t-il, au regard de l'article 4 de la Constitution, d'une protection particulière contre la dissolution administrative prévue à l'article L. 212-1 du code de la sécurité intérieure ?"
+        },
+        {
+          "question": "Sur quel fondement textuel une dissolution de parti politique pourrait-elle être prononcée en l'espèce, et devant quel juge se formerait le recours ?"
+        },
+        {
+          "question": "Si un décret de dissolution de LFI était pris, quelle stratégie contentieuse et quel juge saisiriez-vous en urgence ?"
+        }
+      ],
+      "listen": [
+        {
+          "title": "Blocage des lycées : «Une forme d'hybridation entre les violences urbaines et l'extrême gauche», note Olivier Vial",
+          "source": "L'invité actu (Europe 1)",
+          "url": "https://podcasts.apple.com/fr/podcast/blocage-des-lyc%C3%A9es-une-forme-dhybridation-entre-les/id1257672458?i=1000792514931",
+          "type": "intervention",
+          "date": "2026-10-01",
+          "duration": 7,
+          "stance": "neutre",
+          "why": "Olivier Vial, directeur du CERU, lit les blocages comme « une forme d'hybridation entre les violences urbaines et l'extrême gauche » : éclairage sur le contexte invoqué à l'appui d'une dissolution."
+        },
+        {
+          "title": "Blocages des lycées : «Les violences ne doivent pas masquer les revendications», exprime Aminata Niakate",
+          "source": "Europe 1 Info - Clélie Mathias",
+          "url": "https://podcasts.apple.com/fr/podcast/blocages-des-lyc%C3%A9es-les-violences-ne-doivent-pas-masquer/id1834943872?i=1000792390888",
+          "type": "podcast",
+          "date": "2026-09-30",
+          "duration": 6,
+          "stance": "neutre",
+          "why": "Donne la parole à Aminata Niakate affirmant que les violences ne doivent pas masquer les revendications légitimes du mouvement lycéen."
+        }
+      ]
+    },
+    {
+      "id": "2026-lbd-et-lyceens-manifestants",
+      "question": "L'usage d'armes de force intermédiaire contre des lycéens mineurs lors de manifestations est-il compatible avec l'interdiction des traitements inhumains ou dégradants et la protection due aux mineurs ?",
+      "shortTitle": "LBD et lycéens manifestants",
+      "tag": "Sûreté · maintien de l'ordre",
+      "liberties": [
+        "surete",
+        "enfant",
+        "reunion",
+        "dignite"
+      ],
+      "controversial": true,
+      "addedAt": "2026-10-01",
+      "updatedAt": "2026-10-01",
+      "keyEvent": {
+        "label": "IGPN saisie",
+        "date": "2026-09-30"
+      },
+      "rights": {
+        "summary": "Droit à la sûreté (art. 2 et 7 DDHC) · interdiction des traitements inhumains ou dégradants (art. 3 CEDH) · protection spécifique des mineurs (Convention internationale des droits de l'enfant) · liberté de manifester (droit d'expression collective des idées, art. 11 DDHC ; art. 11 CEDH) mise en balance avec les nécessités du maintien de l'ordre · usage de la force et des armes : absolue nécessité et proportionnalité (CSI, art. L. 211-9, L. 435-1, R. 211-13).",
+        "instruments": []
+      },
+      "facts": {
+        "text": "Le 28 septembre 2026, devant le lycée professionnel du Château d'Épluches à Saint-Ouen-l'Aumône (Val-d'Oise), un lycéen de 14 ans est touché à la mâchoire, à bout portant, par un tir de lanceur de grenades « Cougar » ; la vidéo de la scène est largement diffusée le 29. Le parquet de Pontoise ouvre deux enquêtes, dont l'une confiée à l'IGPN. Le 30 septembre 2026, devant le lycée Balzac à Tours, un jeune homme est blessé à l'œil et hospitalisé ; la procureure de Tours indique que « les lésions à l'œil sont compatibles avec l'impact d'une balle de défense de type LBD ». L'IGPN est saisie de trois enquêtes (Sevran, Saint-Ouen-l'Aumône, Tours).",
+        "sources": [
+          {
+            "label": "Le Monde (Police-Justice) — Blocage des lycées : l’IGPN saisie de trois enquêtes après des blessures de…",
+            "url": "https://www.lemonde.fr/societe/article/2026/09/30/blocage-des-lycees-l-igpn-saisie-apres-un-possible-tir-de-lbd-a-tours-et-l-hospitalisation-d-un-jeune-homme_6786062_3224.html",
+            "date": "2026-09-30",
+            "verified": true
+          },
+          {
+            "label": "Le Monde (Police-Justice) — La vidéo d’une violence policière envers un lycéen de 14 ans, touché à bout…",
+            "url": "https://www.lemonde.fr/societe/video/2026/09/29/la-video-d-une-violence-policiere-envers-un-lyceen-de-14-ans-touche-a-bout-portant-au-visage_6785609_3224.html",
+            "date": "2026-09-29",
+            "verified": true
+          },
+          {
+            "label": "Actu17 — Blocus des lycées : À Tours, les blessures à l’œil d’un jeune homme « compatibles » avec un tir de LBD",
+            "url": "https://actu17.fr/faits-divers/blocus-des-lycees-un-jeune-homme-blesse-au-visage-a-tours-par-un-possible-tir-de-lbd-l-igpn-saisie.html",
+            "date": "2026-09-30",
+            "verified": true
+          },
+          {
+            "label": "franceinfo — Le maire de Saint-Denis, Bally Bagayoko, maintient ses \"propos\" sur \"la violence légitime\"…",
+            "url": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/la-violence-a-un-moment-donne-peut-etre-legitime-je-maintiens-ces-propos-declare-le-maire-lfi-de-saint-denis-bally-bagayoko-qui-fait-l-objet-d-un-signalement-la-justice_8217664.html",
+            "date": "2026-10-01",
+            "verified": true
+          },
+          {
+            "label": "France 3 Paris Île-de-France — « Il était en sang, il ne pouvait plus rien faire » : à Saint-Ouen-L'Aumône, un policier tire une grenade dans le visage d'un lycéen",
+            "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/val-d-oise/blocage-des-lycees-a-saint-ouen-l-aumone-un-policier-tire-une-grenade-dans-le-visage-d-un-lyceen-3425493.html",
+            "date": "2026-09-30",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "Les lésions oculaires constatées sont « compatibles avec l'impact d'une balle de défense de type LBD », selon les examens médico-légaux.",
+          "holder": "Catherine Sorita-Minard, procureure de la République de Tours",
+          "sources": [
+            {
+              "label": "Le Monde (Police-Justice) — Blocage des lycées : l’IGPN saisie de trois enquêtes après des blessures de…",
+              "url": "https://www.lemonde.fr/societe/article/2026/09/30/blocage-des-lycees-l-igpn-saisie-apres-un-possible-tir-de-lbd-a-tours-et-l-hospitalisation-d-un-jeune-homme_6786062_3224.html",
+              "date": "2026-09-30",
+              "verified": true
+            },
+            {
+              "label": "Actu17 — Blocus des lycées : À Tours, les blessures à l’œil d’un jeune homme « compatibles » avec un tir de LBD",
+              "url": "https://actu17.fr/faits-divers/blocus-des-lycees-un-jeune-homme-blesse-au-visage-a-tours-par-un-possible-tir-de-lbd-l-igpn-saisie.html",
+              "date": "2026-09-30",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "Un lycéen de 14 ans a été touché à bout portant à la mâchoire par un tir de lanceur de grenades « Cougar » ; Le Monde présente la scène comme « une violence policière ».",
+          "holder": "Le Monde (vidéo du 29 septembre 2026)",
+          "sources": [
+            {
+              "label": "Le Monde (Police-Justice) — La vidéo d’une violence policière envers un lycéen de 14 ans, touché à bout…",
+              "url": "https://www.lemonde.fr/societe/video/2026/09/29/la-video-d-une-violence-policiere-envers-un-lyceen-de-14-ans-touche-a-bout-portant-au-visage_6785609_3224.html",
+              "date": "2026-09-29",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "Les forces de l'ordre ont agi avec « discernement, proportionnalité et maîtrise de la force » face à « une montée de la violence assez significative » (625 interpellations et 83 policiers et gendarmes blessés le 30 septembre) ; trois enquêtes ont été confiées à l'IGPN (Sevran, Tours, Saint-Ouen-l'Aumône).",
+          "holder": "Laurent Nuñez, ministre de l'Intérieur",
+          "sources": [
+            {
+              "label": "Le JDD — Lycées bloqués : Laurent Nuñez alerte sur «une extension du mouvement»",
+              "url": "https://www.lejdd.fr/Societe/lycees-bloques-laurent-nunez-alerte-sur-une-extension-du-mouvement-184854",
+              "date": "2026-09-30",
+              "verified": true
+            },
+            {
+              "label": "TF1 Info (AFP) — Lycéens blessés devant des établissements bloqués : la \"police des polices\" saisie de trois enquêtes, annonce Laurent Nuñez",
+              "url": "https://www.tf1info.fr/justice-faits-divers/lyceens-blesses-devant-des-etablissements-bloques-la-police-des-polices-saisie-de-trois-enquetes-annonce-laurent-nunez-2467304.html",
+              "date": "2026-09-30",
+              "verified": true
+            },
+            {
+              "label": "CNEWS — Blocus des lycées : 625 interpellations, 119 élèves et personnels blessés, LFI… Ce qu'il faut retenir des annonces de Laurent Nuñez et Edouard Geffray",
+              "url": "https://www.cnews.fr/france/2026-09-30/blocus-des-lycees-625-interpellations-119-eleves-et-personnels-blesses-lfi-ce",
+              "date": "2026-09-30",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CEDH, 16 nov. 2017, Boukrourou et autres c. France, n° 30059/15",
+          "principle": "Le recours à la force physique lors d'une interpellation, non rendu strictement nécessaire par le comportement de la personne, constitue un traitement dégradant contraire à l'article 3.",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-178690",
+          "verified": true
+        },
+        {
+          "reference": "CE, réf., 1er février 2019, Union départementale de Paris de la CGT et a., n° 427386 (et n° 427390, CGT et a.)",
+          "principle": "Refus d'interdire le LBD de 40 mm en manifestation : son emploi est strictement encadré (nécessité et proportionnalité, art. L. 435-1 et R. 211-13 CSI ; instruction ministérielle des 27 juillet et 2 août 2017 : la tête ne doit jamais être visée) et « n'a donc pas pour objet, par lui-même, de faire obstacle à la liberté de manifester ».",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2019-02-01/427386",
+          "verified": true
+        },
+        {
+          "reference": "CEDH, 16 juillet 2013, Abdullah Yaşa et autres c. Turquie, n° 44827/08",
+          "principle": "Le tir direct et tendu d'une grenade lacrymogène au moyen d'un lanceur, ayant blessé au visage un manifestant de 13 ans, n'est pas une « action policière adéquate » : violation de l'article 3.",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-122368",
+          "verified": true
+        }
+      ],
+      "decide": [
+        "Le cadre juridique actuel du LBD et des lanceurs de grenades offre-t-il des garanties suffisantes pour des mineurs manifestants ?",
+        "La saisine de l'IGPN suffit-elle à garantir l'effectivité du droit au juge pour les victimes mineures ?",
+        "Le maintien de l'ordre face à des blocages lycéens justifie-t-il un usage d'armes de force intermédiaire sur un public mineur ?"
+      ],
+      "jury": [
+        {
+          "question": "Quelle est la différence entre arme « létale » et arme « de force intermédiaire » en droit du maintien de l'ordre ?"
+        },
+        {
+          "question": "Sur quel fondement procédural l'IGPN peut-elle être saisie, et quelle est la portée de ses conclusions pour le juge pénal ?"
+        },
+        {
+          "question": "Vous représentez la famille du lycéen de 14 ans : quelles voies de recours engager, et contre qui ?"
+        },
+        {
+          "question": "Comment le juge apprécie-t-il la légitime défense ou la nécessité de la force invoquée par un policier mis en cause ?"
+        }
+      ],
+      "listen": []
+    },
+    {
+      "id": "2026-loi-integrale-et-prise-en-charge-des-auteurs",
+      "question": "La loi intégrale contre les violences sexuelles et sexistes doit-elle inclure un volet sur la prise en charge des auteurs pour protéger les victimes ?",
+      "shortTitle": "Loi intégrale et prise en charge des auteurs",
+      "tag": "Dignité · violences sexuelles",
+      "liberties": [
+        "dignite",
+        "egalite",
+        "droit-au-juge",
+        "sante"
+      ],
+      "controversial": true,
+      "addedAt": "2026-10-01",
+      "updatedAt": "2026-10-01",
+      "keyEvent": {
+        "label": "Débats Assemblée nationale",
+        "date": "2026-10-01"
+      },
+      "rights": {
+        "summary": "Dignité de la personne (Préambule 1946, al. 1 ; CC, n° 94-343/344 DC) · égalité devant la loi et la justice (art. 6 et 16 DDHC) · droit au juge et à un procès équitable (art. 16 DDHC ; art. 6 § 1 CEDH) · protection de la santé (al. 11 Préambule 1946). La controverse porte sur l'articulation entre protection des victimes et prévention de la récidive par la prise en charge des auteurs.",
+        "instruments": [
+          "Proposition de loi n° 3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (déposée le 11 août 2026 par Céline Thiébault-Martinez et près de 250 députés de plusieurs groupes ; texte de la commission spéciale n° 3190 déposé le 23 septembre 2026 ; procédure accélérée engagée le 25 septembre 2026 ; séance publique à partir du jeudi 1er octobre 2026), examinée avec la proposition de loi organique n° 3107 visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales"
+        ]
+      },
+      "facts": {
+        "text": "Les débats sur la proposition de loi « apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants » (n° 3106) se sont ouverts à l'Assemblée nationale le jeudi 1er octobre 2026. Le texte entend répondre à la victimisation secondaire subie par des plaignantes confrontées à des propos déplacés et des lenteurs de procédure. Depuis 2025, un groupe de travail du tribunal de Paris teste des mesures pour limiter cette double peine, via l'information des victimes et la formation des magistrats. Dans une tribune au Monde du 29 septembre 2026, la fédération Citoyens & Justice juge que l'absence de volet sur l'accompagnement des auteurs constitue un « angle mort » menaçant l'ambition de la loi.",
+        "sources": [
+          {
+            "label": "Le Monde (Police-Justice) — Abordée par la loi intégrale, la victimisation secondaire ou quand la justice…",
+            "url": "https://www.lemonde.fr/societe/article/2026/10/01/violences-sexuelles-et-sexistes-la-victimisation-secondaire-ou-quand-la-justice-malmene-des-femmes-agressees_6786436_3224.html",
+            "date": "2026-10-01",
+            "verified": true
+          },
+          {
+            "label": "Le Monde (Police-Justice) — Pour lutter contre la victimisation secondaire des femmes, le plan d’action…",
+            "url": "https://www.lemonde.fr/societe/article/2026/10/01/pour-lutter-contre-la-victimisation-secondaire-le-plan-d-action-precurseur-du-tribunal-de-paris-se-veut-avec-un_6786462_3224.html",
+            "date": "2026-10-01",
+            "verified": true
+          },
+          {
+            "label": "Le Monde (Débats, tribune) — Violences sexistes et sexuelles : « Une loi qui protège les victimes sans… »",
+            "url": "https://www.lemonde.fr/idees/article/2026/09/29/violences-sexistes-et-sexuelles-une-loi-qui-protege-les-victimes-sans-jamais-s-attaquer-a-la-prise-en-charge-des-auteurs-n-est-pas-une-loi-integrale_6785681_3232.html",
+            "date": "2026-09-29",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "« Une loi qui protège les victimes sans jamais s'attaquer à la prise en charge des auteurs n'est pas une loi intégrale ».",
+          "holder": "Stéphane Landreau (directeur général) et Marielle Thuau (présidente), fédération Citoyens & Justice",
+          "sources": [
+            {
+              "label": "Le Monde (Débats, tribune) — Violences sexistes et sexuelles : « Une loi qui protège les victimes sans… »",
+              "url": "https://www.lemonde.fr/idees/article/2026/09/29/violences-sexistes-et-sexuelles-une-loi-qui-protege-les-victimes-sans-jamais-s-attaquer-a-la-prise-en-charge-des-auteurs-n-est-pas-une-loi-integrale_6785681_3232.html",
+              "date": "2026-09-29",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "La loi intégrale doit mieux protéger les victimes dans leur parcours judiciaire : elle inscrit la prévention de la « victimisation secondaire » dans l'article préliminaire du code de procédure pénale et la définit (art. 11 et 11 bis du texte de la commission).",
+          "holder": "Commission spéciale de l'Assemblée nationale (rapporteure générale : Céline Thiébault-Martinez, PS, autrice de la PPL n° 3106)",
+          "sources": [
+            {
+              "label": "Assemblée nationale — Rapport n° 3190, tome I (commission spéciale)",
+              "url": "https://www.assemblee-nationale.fr/dyn/opendata/RAPPANR5L17B3190-tI.html",
+              "date": "2026-09-23",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "Sans attendre la loi, des mesures concrètes contre la victimisation secondaire (information des victimes, formation des magistrats) sont déjà mises en œuvre au tribunal de Paris : preuve qu'une partie de la réponse relève de l'organisation et des pratiques judiciaires.",
+          "holder": "Tribunal judiciaire de Paris (groupe de travail sur la victimisation secondaire créé en 2025 à l'initiative de la procureure Laure Beccuau)",
+          "sources": [
+            {
+              "label": "Le Monde (Police-Justice) — Pour lutter contre la victimisation secondaire des femmes, le plan d’action…",
+              "url": "https://www.lemonde.fr/societe/article/2026/10/01/pour-lutter-contre-la-victimisation-secondaire-le-plan-d-action-precurseur-du-tribunal-de-paris-se-veut-avec-un_6786462_3224.html",
+              "date": "2026-10-01",
+              "verified": true
+            },
+            {
+              "label": "franceinfo — Périscolaire : \"Un véritable tsunami judiciaire\" pour le parquet de Paris, qui veut \"accompagner les victimes tout au long de la procédure judiciaire\"",
+              "url": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/periscolaire-un-veritable-tsunami-judiciaire-pour-le-parquet-de-paris-qui-veut-accompagner-les-victimes-tout-au-long-de-la-procedure-judiciaire_8185937.html",
+              "date": "2026-09-10",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CEDH, 26 mars 1985, X et Y c. Pays-Bas, n° 8978/80",
+          "principle": "Art. 8 : l'absence de voie pénale contre l'auteur d'abus sexuels sur une personne vulnérable méconnaît l'obligation positive de l'État ; seule une législation pénale assure ici une protection effective",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-62162",
+          "verified": true,
+          "note": "vérifié sur HUDOC"
+        },
+        {
+          "reference": "CEDH, 4 déc. 2003, M.C. c. Bulgarie, n° 39272/98",
+          "principle": "Art. 3 et 8 : obligation positive d'incriminer et de réprimer effectivement tout acte sexuel non consenti, même sans résistance physique de la victime, et de mener une enquête effective",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-66079",
+          "verified": true,
+          "note": "vérifié sur HUDOC"
+        },
+        {
+          "reference": "CEDH, 27 mai 2021, J.L. c. Italie, n° 5671/16",
+          "principle": "Art. 8 : les autorités judiciaires doivent éviter de reproduire des stéréotypes sexistes et d'exposer les victimes à une victimisation secondaire par des propos culpabilisants et moralisateurs",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-210299",
+          "verified": true,
+          "note": "vérifié sur HUDOC"
+        },
+        {
+          "reference": "CEDH, 24 avr. 2025, L. et autres c. France, n° 46949/21, 24989/22 et 39759/22",
+          "principle": "Art. 3 et 8 (et 14 pour L.) : la France a manqué à son obligation de réprimer effectivement le viol dénoncé par des adolescentes et a exposé une requérante à une victimisation secondaire (motifs culpabilisants et stéréotypés de la chambre de l'instruction)",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-242789",
+          "verified": true,
+          "note": "vérifié sur HUDOC"
+        }
+      ],
+      "decide": [
+        "Faut-il conditionner l'efficacité de la protection des victimes à un traitement des auteurs, ou ces deux objectifs sont-ils dissociables ?",
+        "La victimisation secondaire relève-t-elle davantage de réformes de procédure (formation, information) que d'un nouveau volet législatif sur les auteurs ?",
+        "Le silence de la loi sur l'accompagnement social et thérapeutique des auteurs (le texte se limite à rendre obligatoire le stage de responsabilisation, art. 15 bis) affaiblit-il juridiquement sa portée, ou s'agit-il d'un choix de politique pénale assumé ?"
+      ],
+      "jury": [
+        {
+          "question": "Qu'entend-on juridiquement par « victimisation secondaire » et quels textes la consacrent ?"
+        },
+        {
+          "question": "Quelles obligations positives la CEDH impose-t-elle à l'État en matière de protection des victimes de violences sexuelles ?"
+        },
+        {
+          "question": "Comment plaideriez-vous l'insuffisance d'une loi qui omettrait le traitement des auteurs, devant quelle juridiction ?"
+        },
+        {
+          "question": "La prise en charge des auteurs relève-t-elle du droit pénal, du droit de la santé publique, ou des deux ?"
+        }
+      ],
+      "listen": [
+        {
+          "title": "La « loi intégrale » contre les violences sexistes et sexuelles, une révolution législative ? - Crochet du droit - Saison 6, ép. 4",
+          "source": "Crochet du droit",
+          "url": "https://podcasts.apple.com/fr/podcast/la-loi-int%C3%A9grale-contre-les-violences-sexistes-et-sexuelles/id1649760910?i=1000792366028",
+          "type": "podcast",
+          "date": "2026-09-30",
+          "duration": 7,
+          "stance": "juridique",
+          "why": "Décrypte juridiquement le contenu de la proposition de loi intégrale et ses enjeux."
+        },
+        {
+          "title": "Loi intégrale contre les violences sexistes et sexuelles : l’espoir et les doutes",
+          "source": "À l'air libre (Mediapart)",
+          "url": "https://podcasts.apple.com/fr/podcast/loi-int%C3%A9grale-contre-les-violences-sexistes-et-sexuelles/id1786371717?i=1000788905813",
+          "type": "débat",
+          "date": "2026-09-10",
+          "duration": 104,
+          "stance": "neutre",
+          "why": "Débat sur les espoirs et doutes autour de la loi intégrale avec des invitées aux positions différentes."
+        },
+        {
+          "title": "Lutte contre les violences sexistes et sexuelles : doit-on se passer de la prison ?",
+          "source": "Questions du soir : le débat (France Culture)",
+          "url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/lutte-contre-les-violences-sexistes-et-sexuelles-doit-on-se-passer-de-la-prison-3982292",
+          "type": "débat",
+          "date": "2026-08-26",
+          "duration": 43,
+          "stance": "neutre",
+          "why": "Débat contradictoire (avocate de victimes, criminologue abolitionniste, historien) sur la place de la prison et des réponses non carcérales face aux VSS, en lien direct avec la loi intégrale : éclaire l'enjeu de la prise en charge des auteurs."
+        }
+      ]
+    },
+    {
+      "id": "2026-aide-a-mourir-etablissements",
+      "question": "Un établissement de santé privé peut-il refuser de pratiquer l'aide à mourir dans ses murs ?",
+      "shortTitle": "Établissement privé et aide à mourir",
+      "tag": "Conscience · fin de vie",
+      "liberties": [
+        "conscience",
+        "association",
+        "entreprendre",
+        "dignite",
+        "sante"
+      ],
+      "controversial": true,
+      "addedAt": "2026-09-28",
+      "updatedAt": "2026-10-01",
+      "keyEvent": {
+        "label": "CC",
+        "date": "2026-08-14"
+      },
+      "rights": {
+        "summary": "Liberté de conscience (art. 10 DDHC ; al. 5 Préambule 1946) · liberté d'association · liberté d'entreprendre (art. 4 DDHC) · sauvegarde de la dignité · CEDH art. 2 et 8.",
+        "instruments": [
+          "Loi n° 2026-794 du 18 août 2026 relative au droit à l'aide à mourir (JO n° 192 du 19 août 2026)."
+        ]
+      },
+      "facts": {
+        "text": "Le Conseil constitutionnel valide la loi le 14 août 2026 avec trois réserves : clause de conscience étendue aux pharmaciens ; prise en compte obligatoire, par le médecin, des observations du protecteur d'un majeur protégé (tutelle ou curatelle) ; un établissement privé peut refuser l'acte s'il est « manifestement contraire aux missions statutaires ou au projet de l'établissement », et seulement « lorsque d'autres établissements sont en mesure de répondre aux besoins locaux ». Loi publiée au JO le 19 août 2026.",
+        "sources": [
+          {
+            "label": "CC, n° 2026-910 DC",
+            "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026910DC.htm",
+            "date": "2026-08-14",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "La décision « parachève un débat démocratique exemplaire ».",
+          "holder": "L'Élysée",
+          "sources": [
+            {
+              "label": "franceinfo",
+              "url": "https://www.franceinfo.fr/societe/euthanasie/aide-a-mourir-le-conseil-constitutionnel-valide-la-loi-avec-quelques-reserves-emmanuel-macron-salue-une-decision-qui-paracheve-un-debat-democratique-exemplaire_8147588.html",
+              "date": "2026-08-14",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "La conscience est individuelle, pas institutionnelle : la réserve crée une « clause d'établissement » contraire à la jurisprudence IVG de 2001.",
+          "holder": "R. Letteron (Sorbonne)",
+          "sources": [
+            {
+              "label": "Liberté, Libertés chéries",
+              "url": "https://libertescheries.blogspot.com/2026/08/aide-mourir-le-conseil-constitutionnel.html",
+              "date": "2026-08-17",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "Les établissements à projet doivent pouvoir refuser l'acte.",
+          "holder": "Contributions extérieures (dont Fondation Lejeune) et saisines",
+          "sources": [
+            {
+              "label": "Liberté, Libertés chéries (citation de seconde main)",
+              "url": "https://libertescheries.blogspot.com/2026/08/aide-mourir-le-conseil-constitutionnel.html",
+              "date": "2026-08-17",
+              "verified": true,
+              "note": "contributions extérieures non lues"
+            },
+            {
+              "label": "CC, n° 2026-910 DC, §177-178 (griefs des saisines)",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026910DC.htm",
+              "date": "2026-08-14",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "D",
+          "claim": "Les trois réserves « rejoignent les alertes portées par la SFAP », mais ses autres griefs (pas d'accès préalable effectif aux soins palliatifs, délai de deux jours, « un seul médecin décide ») ont été écartés.",
+          "holder": "SFAP (soins palliatifs)",
+          "sources": [
+            {
+              "label": "SFAP, communiqué (PDF)",
+              "url": "https://www.sfap.org/app/uploads/2026/08/CP-SFAP-CC-1408.pdf",
+              "date": "2026-08-14",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC, n° 2001-446 DC, 27 juin 2001",
+          "principle": "IVG : liberté de conscience (art. 10 DDHC, al. 5 Préambule 1946) ; le chef de service ne peut plus s'opposer aux IVG dans son service mais garde le droit de ne pas en pratiquer",
+          "verified": true,
+          "url": "https://www.conseil-constitutionnel.fr/decision/2001/2001446DC.htm"
+        },
+        {
+          "reference": "CC, n° 2013-353 QPC, 18 oct. 2013",
+          "principle": "Pas de clause de conscience pour les maires (mariage)",
+          "verified": true,
+          "url": "https://www.conseil-constitutionnel.fr/decision/2013/2013353QPC.htm"
+        },
+        {
+          "reference": "CC, n° 2017-632 QPC, 2 juin 2017",
+          "principle": "Arrêt des traitements, marge du législateur",
+          "verified": true,
+          "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017632QPC.htm"
+        },
+        {
+          "reference": "CEDH, 4 oct. 2022, Mortier c. Belgique, n° 78017/17",
+          "principle": "L'art. 2 n'interdit pas en soi la dépénalisation de l'euthanasie si des garanties suffisantes l'encadrent ; violation procédurale (contrôle a posteriori insuffisant)",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-219559",
+          "verified": true
+        }
+      ],
+      "decide": [
+        "Une personne morale peut-elle avoir une « conscience » ? Si non, sur quel fondement l'établissement refuse-t-il ?",
+        "La condition « lorsque d'autres établissements sont en mesure de répondre aux besoins locaux » protège-t-elle assez le patient en zone rurale ?",
+        "Faut-il traiter l'aide à mourir comme l'IVG, ou le parallèle est-il faux ?"
+      ],
+      "jury": [
+        {
+          "question": "Qu'est-ce qu'une réserve d'interprétation ? Quelle autorité a-t-elle ?"
+        },
+        {
+          "question": "La loi est-elle compatible avec l'art. 2 CEDH ? Citez Mortier."
+        },
+        {
+          "question": "Avocat d'un patient refusé par une clinique : quel recours, devant quel juge ?"
+        }
+      ],
+      "listen": [
+        {
+          "title": "Aide à mourir : que va changer la loi ?",
+          "source": "Sens Public (Public Sénat)",
+          "url": "https://podcasts.apple.com/fr/podcast/aide-%C3%A0-mourir-que-va-changer-la-loi/id1770784447?i=1000775056907",
+          "type": "débat",
+          "date": "2026-07-01",
+          "duration": 42,
+          "stance": "neutre",
+          "why": "Ce que contient le texte avant le vote final : qui administre, quelles conditions. Base des faits."
+        },
+        {
+          "title": "«Droit de l'aide à mourir», l'inquiétude des établissements catholiques",
+          "source": "Radio Vatican (voix de l'Église)",
+          "url": "https://podcasts.apple.com/fr/podcast/droit-de-laide-%C3%A0-mourir-linqui%C3%A9tude-des/id1756097996?i=1000777848500",
+          "type": "reportage",
+          "date": "2026-07-22",
+          "duration": 5,
+          "stance": "contre",
+          "why": "La position des établissements à projet, au cœur de la réserve du Conseil. Voix de l'Église, à présenter comme telle."
+        },
+        {
+          "title": "Droit à l'aide à mourir : décryptage d'une loi historique",
+          "source": "Code source (Le Parisien)",
+          "url": "https://podcasts.apple.com/fr/podcast/droit-%C3%A0-laide-%C3%A0-mourir-d%C3%A9cryptage-dune-loi-historique/id1460276302?i=1000777241631",
+          "type": "podcast",
+          "date": "2026-07-17",
+          "duration": 24,
+          "stance": "neutre",
+          "why": "Le parcours du texte (rejeté 3 fois au Sénat, adopté 291 contre 241). Décryptage neutre."
+        }
+      ]
+    },
+    {
+      "id": "2026-reseaux-sociaux-moins-15-ans",
+      "question": "Peut-on interdire les réseaux sociaux aux moins de 15 ans ?",
+      "shortTitle": "Réseaux sociaux et moins de 15 ans",
+      "tag": "Expression · mineurs",
+      "liberties": [
+        "expression",
+        "vie-privee",
+        "enfant"
+      ],
+      "controversial": true,
+      "addedAt": "2026-09-28",
+      "updatedAt": "2026-10-01",
+      "keyEvent": {
+        "label": "CC",
+        "date": "2026-08-14"
+      },
+      "rights": {
+        "summary": "Liberté de communication (art. 11 DDHC) · vie privée (art. 2 DDHC) · intérêt supérieur de l'enfant (al. 10 et 11 Préambule 1946) · Convention internationale des droits de l'enfant (art. 13, 17).",
+        "instruments": [
+          "Règlement européen DSA (2022/2065).",
+          "Loi n° 2026-813 du 24 août 2026 visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (issue de la PPL n° 2107 de L. Miller ; art. 1er censuré)."
+        ]
+      },
+      "facts": {
+        "text": "Proposition de loi de Laure Miller (EPR), adoptée définitivement le 21 juillet 2026 après commission mixte paritaire, saisie par LFI et le PS. Le 14 août 2026, le Conseil constitutionnel censure l'article 1 (interdiction et vérification d'âge) comme atteinte disproportionnée ; l'interdiction du portable au lycée reste. Le président demande au Premier ministre une « rédaction juridiquement robuste » « dans les meilleurs délais » ; sa détermination à aboutir « d'ici au printemps 2027 » est réaffirmée.",
+        "sources": [
+          {
+            "label": "CC, n° 2026-911 DC, communiqué",
+            "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-911-dc-du-14-aout-2026-communique-de-presse",
+            "date": "2026-08-14",
+            "verified": true
+          },
+          {
+            "label": "AN, PPL n° 2107",
+            "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2107_proposition-loi",
+            "date": "2025-11-18",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "Protéger les enfants justifie une règle nette.",
+          "holder": "Autrice et majorité du texte",
+          "sources": [
+            {
+              "label": "AN, compte rendu de séance",
+              "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-lundi-26-janvier-2026",
+              "date": "2026-01-26",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "Une interdiction générale est disproportionnée : elle vise des services dont les risques « ne sont pas établis », ne permet « aucune appréciation particulière du risque pour le mineur » (âge, maturité) et ne prévoit pas que les parents puissent « lever l'interdiction ».",
+          "holder": "Le Conseil constitutionnel",
+          "sources": [
+            {
+              "label": "CC, n° 2026-911 DC, §13-16",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026911DC.htm",
+              "date": "2026-08-14",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "Texte mal préparé et, en l'état, inapplicable (avis circonstancié de la Commission européenne du 7 juillet 2026, rendu dans la procédure de notification des règles techniques) ; le législateur « a bénéficié de différents avis et a refusé d'en tenir compte », dont l'avis du Conseil d'État du 8 janvier 2026.",
+          "holder": "R. Letteron (Sorbonne)",
+          "sources": [
+            {
+              "label": "Liberté, Libertés chéries",
+              "url": "https://libertescheries.blogspot.com/2026/08/reseaux-sociaux-et-mineurs-il-est.html",
+              "date": "2026-08-21",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "D",
+          "claim": "Il faut recommencer, mieux : une version compatible avec la décision et le droit européen.",
+          "holder": "L'Élysée",
+          "sources": [
+            {
+              "label": "Euronews",
+              "url": "https://fr.euronews.com/2026/08/14/reseaux-sociaux-aide-a-mourir-urgence-agricole-les-decisions-du-conseil-constitutionnel",
+              "date": "2026-08-14",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC, n° 2009-580 DC, 10 juin 2009",
+          "principle": "Hadopi : accès à internet protégé par l'art. 11",
+          "verified": true,
+          "url": "https://www.conseil-constitutionnel.fr/decision/2009/2009580DC.htm"
+        },
+        {
+          "reference": "CC, n° 2011-625 DC, 10 mars 2011",
+          "principle": "Loppsi 2 : blocage administratif, sans autorisation préalable du juge, des sites diffusant des images pédopornographiques jugé conforme (art. 4)",
+          "verified": true,
+          "url": "https://www.conseil-constitutionnel.fr/decision/2011/2011625DC.htm"
+        },
+        {
+          "reference": "CE, avis n° 410309, ass. gén., 8 janv. 2026, sur la PPL n° 2107",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2107_avis-conseil-etat",
+          "verified": true,
+          "principle": "Interdiction « générale et absolue » non justifiée ; obligations à ne pas faire peser sur les plateformes (DSA) ; autorisation parentale suggérée"
+        }
+      ],
+      "decide": [
+        "La protection de l'enfant doit-elle passer par l'interdiction ou par la régulation des plateformes (DSA) ?",
+        "Quel âge et quels services viserais-tu pour que la loi passe le contrôle de proportionnalité ?",
+        "La vérification d'âge porte-t-elle une atteinte à la vie privée de tous les utilisateurs ?"
+      ],
+      "jury": [
+        {
+          "question": "Expliquez le triple test « adapté, nécessaire, proportionné »."
+        },
+        {
+          "question": "Un État membre peut-il légiférer sur un sujet couvert par le DSA ?"
+        },
+        {
+          "question": "Proposition ou projet de loi : qu'est-ce qui change en amont (étude d'impact, avis du Conseil d'État, art. 39 al. 5 C.) ? Le contrôle du Conseil constitutionnel est-il différent ?"
+        }
+      ],
+      "listen": [
+        {
+          "title": "L'interdiction des réseaux sociaux aux moins de 15 ans face au Conseil constitutionnel",
+          "source": "Crochet du droit",
+          "url": "https://podcasts.apple.com/fr/podcast/linterdiction-des-r%C3%A9seaux-sociaux-aux-moins-de-15/id1649760910?i=1000790012724",
+          "type": "intervention",
+          "date": "2026-09-16",
+          "duration": 6,
+          "stance": "juridique",
+          "why": "La censure du 14 août et la suite : selon le résumé, la France a soumis un texte à la Commission européenne le 14 sept. Angle juridique."
+        },
+        {
+          "title": "Majorité numérique : interdire VS protéger",
+          "source": "POL/N (D. Sabattier)",
+          "url": "https://podcasts.apple.com/fr/podcast/majorit%C3%A9-num%C3%A9rique-interdire-vs-prot%C3%A9ger/id1722594195?i=1000790591227",
+          "type": "débat",
+          "date": "2026-09-18",
+          "duration": 41,
+          "stance": "neutre",
+          "why": "Un représentant de la Commission européenne (DSA) face à Bruno Studer, ancien député : la question « un État peut-il légiférer sous le DSA ? » du jury."
+        },
+        {
+          "title": "Amine Benyamina - La France veut couper les réseaux sociaux aux moins de 15 ans",
+          "source": "C dans l'air (France 5)",
+          "url": "https://podcasts.apple.com/fr/podcast/amine-benyamina-la-france-veut-couper-les-r%C3%A9seaux-sociaux/id1438726711?i=1000777826647",
+          "type": "intervention",
+          "date": "2026-07-22",
+          "duration": 12,
+          "stance": "neutre",
+          "why": "Le regard d'un psychiatre-addictologue, président de la Fédération française d'addictologie et coprésident de la commission Écrans (rapport remis en avril 2024), au lendemain de l'accord en commission mixte paritaire."
+        }
+      ]
+    },
+    {
+      "id": "2026-couvre-feu-mineurs-oradour",
+      "question": "Un maire peut-il imposer un couvre-feu aux mineurs pour des nuisances nocturnes ?",
+      "shortTitle": "Couvre-feu des mineurs",
+      "tag": "Aller et venir",
+      "liberties": [
+        "aller-et-venir",
+        "enfant"
+      ],
+      "controversial": true,
+      "addedAt": "2026-09-28",
+      "updatedAt": "2026-10-01",
+      "keyEvent": {
+        "label": "CE, ord.",
+        "date": "2026-08-26"
+      },
+      "rights": {
+        "summary": "Liberté d'aller et venir (art. 2 et 4 DDHC) · pouvoir de police du maire (CGCT, art. L. 2212-1 et s.).",
+        "instruments": [
+          "Code de la sécurité intérieure, art. L. 132-8 (mesures préfectorales pour les moins de 13 ans)."
+        ]
+      },
+      "facts": {
+        "text": "Oradour-sur-Glane : un premier arrêté couvre la période du 21 juillet au 16 août 2026 (mineurs de moins de 18 ans non accompagnés, 23 h – 6 h, toute la commune) ; un second arrêté du 11 août 2026 reprend la mesure du 17 au 31 août. Le juge des référés du tribunal administratif de Limoges rejette le référé-liberté de l'association Vigie Liberté (ord. n° 2602065 du 19 août 2026) ; le juge des référés du Conseil d'État, en appel, suspend l'arrêté du 11 août le 26 août 2026 : il ne peut « être regardé comme imposant des restrictions nécessaires, adaptées à l'objectif pris en compte et proportionnées ».",
+        "sources": [
+          {
+            "label": "CE, ord., n° 518980",
+            "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-08-26/518980",
+            "date": "2026-08-26",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "Le maire doit pouvoir répondre aux nuisances (bruit nocturne répété, soutien des habitants).",
+          "holder": "Le maire d'Oradour-sur-Glane",
+          "sources": [
+            {
+              "label": "Actu-Juridique (O. Dufour)",
+              "url": "https://www.actu-juridique.fr/libertes-publiques-ddh/le-maire-doradour-sur-glane-defend-son-arrete-de-couvre-feu-pour-les-mineurs-devant-le-conseil-detat/",
+              "date": "2026-08-25",
+              "verified": true
+            },
+            {
+              "label": "CE, ord., 26 août 2026, n° 518980, pt 5",
+              "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-08-26/518980",
+              "date": "2026-08-26",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "L'arrêté prive tous les mineurs de la commune de leur liberté d'aller et venir à partir de 23 h, sans « aucun élément permettant de démontrer l'existence de circonstances locales particulières » : l'atteinte est « manifestement disproportionnée ».",
+          "holder": "Vigie Liberté (requérante)",
+          "sources": [
+            {
+              "label": "CE, ord., 26 août 2026, n° 518980 (moyens de la requérante)",
+              "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-08-26/518980",
+              "date": "2026-08-26",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "La popularité ne fait pas la légalité.",
+          "holder": "R. Letteron (Sorbonne)",
+          "sources": [
+            {
+              "label": "Liberté, Libertés chéries",
+              "url": "https://libertescheries.blogspot.com/2026/08/couvre-feu-des-mineurs-la-popularite-ne.html",
+              "date": "2026-08-30",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "D",
+          "claim": "Un couvre-feu ciblé peut être légal : le juge a validé des arrêtés appuyés sur des statistiques de délinquance (Béziers, Nice, Saint-Ouen-sur-Seine).",
+          "holder": "Jurisprudence administrative",
+          "sources": [
+            {
+              "label": "CE, 10e-9e ch. réunies, 9 oct. 2025, LDH (Saint-Ouen-sur-Seine), n° 507078, Tables",
+              "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-10-09/507078",
+              "date": "2025-10-09",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CE, ord., 9 juil. 2001, Préfet du Loiret, n° 235638",
+          "principle": "Orléans : couvre-feu admis s'il est ciblé",
+          "verified": true
+        },
+        {
+          "reference": "CE, 19 mai 1933, Benjamin, n° 17413 et 17520",
+          "principle": "Nécessité et proportionnalité des mesures de police",
+          "verified": true
+        },
+        {
+          "reference": "CE, ord., 26 août 2026, n° 518980",
+          "principle": "Oradour-sur-Glane : arrêté suspendu",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-08-26/518980",
+          "verified": true
+        }
+      ],
+      "decide": [
+        "Un bruit nocturne répété justifie-t-il une restriction de liberté pour tous les mineurs d'une commune ?",
+        "Quelles preuves exigerais-tu d'un maire avant d'admettre un couvre-feu ?",
+        "Le mineur a-t-il la même liberté d'aller et venir que l'adulte ?"
+      ],
+      "jury": [
+        {
+          "question": "Référé-liberté (L. 521-2 CJA) ou référé-suspension : lequel et pourquoi ?"
+        },
+        {
+          "question": "Qu'apporte l'arrêt Benjamin ?"
+        },
+        {
+          "question": "Police administrative et police judiciaire : faites la différence."
+        }
+      ]
+    },
+    {
+      "id": "2026-appel-au-boycott",
+      "question": "L'appel au boycott des produits d'un pays est-il une opinion protégée ou une provocation à la discrimination ?",
+      "shortTitle": "Appel au boycott",
+      "tag": "Expression · discrimination",
+      "liberties": [
+        "expression",
+        "egalite"
+      ],
+      "controversial": true,
+      "addedAt": "2026-09-28",
+      "updatedAt": "2026-10-01",
+      "keyEvent": {
+        "label": "Cass. crim.",
+        "date": "2026-09-08"
+      },
+      "rights": {
+        "summary": "Liberté d'expression (art. 11 DDHC ; art. 10 CEDH) · provocation à la discrimination (loi du 29 juillet 1881, art. 24).",
+        "instruments": [
+          "Code pénal, art. 225-2 (entrave à l'activité économique)."
+        ]
+      },
+      "facts": {
+        "text": "Campagne d'Olivia Zémor (EuroPalestine) contre des médicaments génériques d'un laboratoire israélien. Non-lieu confirmé par la chambre de l'instruction de Paris (12 févr. 2025). Le 8 septembre 2026 (n° 25-82.048, F-D), la chambre criminelle rejette le pourvoi d'Avocats sans frontières : même si l'entrave à l'activité économique (art. 225-2 C. pén.) pouvait être caractérisée, des poursuites porteraient une atteinte disproportionnée à la liberté d'expression, l'action s'inscrivant dans un débat d'intérêt général (formule reprise de Baldassi). Selon R. Letteron, l'arrêt élargit la notion de débat d'intérêt général.",
+        "sources": [
+          {
+            "label": "Liberté, Libertés chéries",
+            "url": "https://libertescheries.blogspot.com/2026/09/lappel-au-boycott-des-produits.html",
+            "date": "2026-09-17",
+            "verified": true
+          },
+          {
+            "label": "Cass. crim., 8 sept. 2026, n° 25-82.048, F-D",
+            "url": "https://juricaf.org/arret/FRANCE-COURDECASSATION-20260908-C2600940",
+            "date": "2026-09-08",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "Le boycott est un instrument du débat public : la décision le reconnaît comme action politique, pas seulement toléré.",
+          "holder": "R. Letteron (Sorbonne)",
+          "sources": [
+            {
+              "label": "Liberté, Libertés chéries",
+              "url": "https://libertescheries.blogspot.com/2026/09/lappel-au-boycott-des-produits.html",
+              "date": "2026-09-17",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "L'entrave n'exige pas que la vente soit empêchée : le logo « Boycott Israël », les messages visant les produits du laboratoire « à raison de sa nationalité israélienne » (« Teva j'en veux pas ») et les autocollants barrant l'inscription « Teva » suffisent à la caractériser (moyen du pourvoi).",
+          "holder": "Avocats sans frontières (partie civile, auteur du pourvoi)",
+          "sources": [
+            {
+              "label": "Cass. crim., 8 sept. 2026, n° 25-82.048, F-D",
+              "url": "https://juricaf.org/arret/FRANCE-COURDECASSATION-20260908-C2600940",
+              "date": "2026-09-08",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "La CEDH protège l'appel au boycott s'il reste dans le débat d'intérêt général.",
+          "holder": "CEDH (condamnation de la France)",
+          "sources": [
+            {
+              "label": "CEDH, 11 juin 2020, Baldassi et autres c. France, n° 15271/16",
+              "url": "https://hudoc.echr.coe.int/fre?i=001-202756",
+              "date": "2020-06-11",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "D",
+          "claim": "Baldassi ne remet pas en cause la répression : les appels au boycott resteront poursuivis s'ils caractérisent, in concreto, « un appel à la haine ou à la discrimination et non une simple opinion politique ».",
+          "holder": "Ministère de la Justice (dépêche DACG du 20 oct. 2020)",
+          "sources": [
+            {
+              "label": "Rép. min. QE n° 35917, JO AN 16 mars 2021, p. 2356",
+              "url": "https://questions.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE35917.pdf",
+              "date": "2021-03-16",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "Cass. crim., 20 oct. 2015, n° 14-80.020, Bull. crim. n° 227",
+          "principle": "Rejet des pourvois de militants BDS condamnés pour provocation à la discrimination (art. 24 al. 8 loi 1881) ; arrêt à l'origine de Baldassi",
+          "url": "https://juricaf.org/arret/FRANCE-COURDECASSATION-20151020-1480020",
+          "verified": true
+        },
+        {
+          "reference": "CEDH, 5e sect., 11 juin 2020, Baldassi et autres c. France, n° 15271/16 et 6 autres",
+          "principle": "Appel au boycott protégé par l'art. 10 (« modalité d'expression d'opinions protestataires ») ; condamnation sans motifs pertinents et suffisants = violation",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-202756",
+          "verified": true
+        },
+        {
+          "reference": "Cass. crim., 17 oct. 2023, n° 22-83.197, publié au Bulletin",
+          "principle": "Après Baldassi : l'appel au boycott (Teva, Lyon) s'inscrivant dans un débat d'intérêt général n'est pas une provocation à la discrimination",
+          "url": "https://juricaf.org/arret/FRANCE-COURDECASSATION-20231017-2283197",
+          "verified": true
+        },
+        {
+          "reference": "Cass. crim., 8 sept. 2026, n° 25-82.048, F-D",
+          "principle": "Non-lieu (Zémor) confirmé : même si l'entrave (art. 225-2 C. pén.) pouvait être caractérisée, des poursuites seraient une atteinte disproportionnée à l'art. 10 CEDH",
+          "url": "https://juricaf.org/arret/FRANCE-COURDECASSATION-20260908-C2600940",
+          "verified": true
+        }
+      ],
+      "decide": [
+        "Où passe la frontière entre critiquer la politique d'un État et viser un groupe national ?",
+        "Le consommateur a-t-il un « droit » de choisir politiquement ce qu'il achète ?",
+        "Le juge pénal doit-il apprécier le contexte politique du boycott ?"
+      ],
+      "jury": [
+        {
+          "question": "Qu'est-ce qu'un « débat d'intérêt général » pour la CEDH ?"
+        },
+        {
+          "question": "Quel effet a un arrêt de condamnation de la CEDH en droit français ?"
+        },
+        {
+          "question": "Vous défendez la partie civile : quels arguments vous restent ?"
+        }
+      ]
+    },
+    {
+      "id": "2026-etat-alerte-securite-nationale",
+      "question": "Faut-il un « état d'alerte de sécurité nationale » entre le droit commun et l'état d'urgence ?",
+      "shortTitle": "État d'alerte de sécurité nationale",
+      "tag": "Régimes d'exception",
+      "liberties": [
+        "regimes-exception",
+        "environnement",
+        "vie-privee"
+      ],
+      "controversial": true,
+      "addedAt": "2026-09-28",
+      "updatedAt": "2026-10-01",
+      "keyEvent": {
+        "label": "CC",
+        "date": "2026-08-06"
+      },
+      "rights": {
+        "summary": "Régimes d'exception (Constitution, art. 16 et 36 ; loi du 3 avril 1955) · participation aux décisions environnementales (Charte de l'environnement, art. 7) · vie privée (art. 2 DDHC) · séparation des pouvoirs (art. 16 DDHC).",
+        "instruments": [
+          "Loi n° 2026-791 du 16 août 2026 actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (adoptée définitivement le 1er juillet 2026 ; JO n° 191 du 18 août 2026)."
+        ]
+      },
+      "facts": {
+        "text": "La loi d'actualisation de la programmation militaire 2024-2030, adoptée le 1er juillet 2026, crée un état d'alerte déclenché par décret en conseil des ministres en cas de « menace grave et actuelle » ; il permet, par décret en conseil des ministres, de déroger à des normes réglementaires (urbanisme et environnement, transports, communications électroniques, temps de travail…) et d'accélérer les travaux d'infrastructures militaires (dispense de formalités d'urbanisme, d'évaluation environnementale et de participation du public) ; sa prorogation au-delà de deux mois doit être autorisée par la loi. Le Conseil constitutionnel le juge conforme le 6 août 2026.",
+        "sources": [
+          {
+            "label": "CC, n° 2026-907 DC",
+            "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026907DC.htm",
+            "date": "2026-08-06",
+            "verified": true
+          },
+          {
+            "label": "AN, dossier législatif",
+            "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_actualisation_loi_programmation_militaire_annees_2024_2030_diverses_dispositions_defense",
+            "date": "2026-07-01",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "La guerre hybride exige un outil intermédiaire.",
+          "holder": "Le Gouvernement (Revue nationale stratégique 2025)",
+          "sources": [
+            {
+              "label": "LCP",
+              "url": "https://lcp.fr/actualites/etat-d-alerte-de-securite-nationale-ce-qui-pourrait-changer-en-cas-de-crise-435497",
+              "date": "2026-04-22",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "Un régime que la Constitution « n'exclut pas » : la menace doit être « établie au regard d'éléments matériels suffisamment caractérisés » et le décret est contestable devant le Conseil d'État ; les dérogations autorisées par décret (art. L. 2143-4) ne portent que sur des normes réglementaires.",
+          "holder": "Le Conseil constitutionnel",
+          "sources": [
+            {
+              "label": "CC, n° 2026-907 DC",
+              "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026907DC.htm",
+              "date": "2026-08-06",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "Un nouvel état d'exception « qui ne dit pas son nom » : critères flous, contrôle parlementaire plus faible que pour l'état d'urgence.",
+          "holder": "R. Letteron (Sorbonne)",
+          "sources": [
+            {
+              "label": "Liberté, Libertés chéries",
+              "url": "https://libertescheries.blogspot.com/2026/08/un-nouvel-etat-dexception-qui-ne-dit.html",
+              "date": "2026-08-10",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "D",
+          "claim": "Le droit de l'environnement est sacrifié et la surveillance passe par simple décret.",
+          "holder": "Reporterre ; Actu-Juridique",
+          "sources": [
+            {
+              "label": "Reporterre",
+              "url": "https://reporterre.net/La-pente-est-glissante-un-regime-d-exception-pourrait-sacrifier-le-droit-de-l-environnement-au-profit-de-l-armee",
+              "date": "2026-05-04",
+              "verified": true
+            },
+            {
+              "label": "Actu-Juridique (tribune de P.-E. Burghardt, avocat)",
+              "url": "https://www.actu-juridique.fr/libertes-publiques-ddh/actualisation-de-la-loi-de-programmation-militaire-surveillance-de-masse-et-tracage-individuel-par-simple-decret/",
+              "date": "2026-08-20",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC, n° 2015-527 QPC, 22 déc. 2015",
+          "principle": "Assignations à résidence sous l'état d'urgence",
+          "verified": true,
+          "url": "https://www.conseil-constitutionnel.fr/decision/2015/2015527QPC.htm"
+        },
+        {
+          "reference": "CC, n° 2020-800 DC, 11 mai 2020",
+          "principle": "État d'urgence sanitaire",
+          "verified": true,
+          "url": "https://www.conseil-constitutionnel.fr/decision/2020/2020800DC.htm"
+        },
+        {
+          "reference": "CC, n° 2026-907 DC, 6 août 2026",
+          "principle": "État d'alerte jugé conforme",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026907DC.htm",
+          "verified": true
+        }
+      ],
+      "decide": [
+        "Mieux vaut-il un régime d'exception prévu d'avance, ou l'absence de régime qui oblige à légiférer dans l'urgence ?",
+        "Deux mois sans vote du Parlement, est-ce acceptable ?",
+        "Le juge administratif est-il un contrôle suffisant ?"
+      ],
+      "jury": [
+        {
+          "question": "Comparez l'art. 16, l'état de siège et l'état d'urgence."
+        },
+        {
+          "question": "Art. 15 CEDH : la France doit-elle notifier une dérogation ?"
+        },
+        {
+          "question": "Qu'est-ce que la « normalisation de l'exception » ?"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "llc",
+      "name": "Liberté, Libertés chéries (R. Letteron)",
+      "kind": "Blog universitaire",
+      "url": "https://libertescheries.blogspot.com/feeds/posts/default?alt=rss",
+      "access": "ok",
+      "reuse": "Droit d'auteur : titre, lien, date, courte citation (CPI, art. L. 122-5) et résumé maison. Point de vue d'autrice : toujours croiser.",
+      "rhythm": "~2 billets/sem."
+    },
+    {
+      "id": "cc",
+      "name": "Conseil constitutionnel",
+      "kind": "Décisions, QPC",
+      "url": "https://www.conseil-constitutionnel.fr/flux/rss.xml",
+      "access": "ok",
+      "reuse": "Décisions publiques, citables. Conditions de l'open data à relire.",
+      "rhythm": "QPC chaque semaine"
+    },
+    {
+      "id": "ce",
+      "name": "Conseil d'État",
+      "kind": "Actualités, jurisprudence, avis",
+      "url": "https://www.conseil-etat.fr/rss/actualites-rss",
+      "access": "verify",
+      "reuse": "Open data des décisions : Licence Ouverte 2.0.",
+      "rhythm": "Quotidien"
+    },
+    {
+      "id": "cedh",
+      "name": "CEDH (HUDOC)",
+      "kind": "Arrêts, défendeur France",
+      "url": "https://www.echr.coe.int",
+      "access": "verify",
+      "reuse": "Conditions de réutilisation non lues : lier et résumer.",
+      "rhythm": "Mardi et jeudi"
+    },
+    {
+      "id": "an",
+      "name": "Assemblée nationale",
+      "kind": "Documents parlementaires",
+      "url": "https://www.assemblee-nationale.fr",
+      "access": "ok",
+      "reuse": "Documents et comptes rendus publics ; open data en Licence Ouverte.",
+      "rhythm": "Quotidien en session"
+    },
+    {
+      "id": "senat",
+      "name": "Sénat",
+      "kind": "Rapports",
+      "url": "https://www.senat.fr/rss/rapports.rss",
+      "access": "ok",
+      "reuse": "Documents publics ; open data en Licence Ouverte.",
+      "rhythm": "Quotidien en session"
+    },
+    {
+      "id": "cncdh",
+      "name": "CNCDH",
+      "kind": "Avis",
+      "url": "https://www.cncdh.fr/rss.xml",
+      "access": "ok",
+      "reuse": "Avis publics : lier et citer.",
+      "rhythm": "Mensuel"
+    },
+    {
+      "id": "ddd",
+      "name": "Défenseur des droits",
+      "kind": "Décisions, rapports",
+      "url": "https://www.defenseurdesdroits.fr/rss.xml",
+      "access": "ok",
+      "reuse": "Décisions et rapports publics.",
+      "rhythm": "Hebdo"
+    },
+    {
+      "id": "rdlf",
+      "name": "Revue des droits et libertés fondamentaux",
+      "kind": "Revue en ligne",
+      "url": "https://www.revuedlf.com/feed/",
+      "access": "ok",
+      "reuse": "Lier, citer court.",
+      "rhythm": "Hebdo"
+    },
+    {
+      "id": "cdj",
+      "name": "Club des juristes",
+      "kind": "Analyses",
+      "url": "https://www.leclubdesjuristes.com/feed/",
+      "access": "ok",
+      "reuse": "Droit d'auteur : lien et résumé.",
+      "rhythm": "Quotidien"
+    },
+    {
+      "id": "aj",
+      "name": "Actu-Juridique (Lextenso)",
+      "kind": "Rubrique Libertés publiques",
+      "url": "https://www.actu-juridique.fr/feed/",
+      "access": "ok",
+      "reuse": "Droit d'auteur : lien et résumé.",
+      "rhythm": "Quotidien"
+    },
+    {
+      "id": "presse",
+      "name": "Presse (Le Monde, Police-Justice…)",
+      "kind": "Rubriques RSS",
+      "access": "ok",
+      "reuse": "Titre, lien et date seulement ; articles souvent payants.",
+      "rhythm": "Quotidien"
+    },
+    {
+      "id": "vie-publique",
+      "name": "vie-publique.fr",
+      "kind": "Site public (DILA)",
+      "url": "https://www.vie-publique.fr",
+      "access": "verify",
+      "reuse": "Adresse du flux non trouvée ; conditions à relire.",
+      "rhythm": "Quotidien"
+    },
+    {
+      "id": "tv",
+      "name": "Débats télévisés",
+      "kind": "Pas de transcriptions ouvertes",
+      "access": "no",
+      "reuse": "Ne pas transcrire d'émissions. Substituts : comptes rendus AN/Sénat, articles LCP.",
+      "rhythm": "—"
+    },
+    {
+      "id": "dalloz",
+      "name": "Dalloz Actualité",
+      "kind": "Payant, flux refusé",
+      "access": "no",
+      "reuse": "Usage personnel via la fac seulement.",
+      "rhythm": "—"
+    }
+  ]
 }
