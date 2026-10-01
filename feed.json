@@ -1672,5 +1672,1291 @@
       "reuse": "Usage personnel via la fac seulement.",
       "rhythm": "—"
     }
+  ],
+  "themes": [
+    {
+      "id": "g1-garde-a-vue-et-enquete-penale",
+      "code": "G1",
+      "family": "G",
+      "title": "Garde à vue et enquête pénale",
+      "question": "L'enquête pénale garantit-elle les droits dès le premier acte de contrainte ?",
+      "summary": "Plusieurs décisions récentes de la Cour de cassation, du Conseil constitutionnel et de la CJUE sont venues préciser les garanties applicables à chaque étape de l'enquête (audition libre, menottage, géolocalisation, données biométriques), ce qui maintient la question permanente de l'effectivité des droits dès le premier acte de contrainte au cœur de l'actualité du grand oral.",
+      "keyTexts": [
+        {
+          "label": "loi du 14 avr. 2011",
+          "note": "instaure le droit à l'assistance d'un avocat dès le début de la garde à vue",
+          "verified": true,
+          "verifyNote": "vérifié (passe 1)"
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC n° 2010-14/22 QPC, 30 juil. 2010",
+          "principle": "déclare le régime de la garde à vue contraire à la Constitution faute d'assistance effective d'un avocat",
+          "verified": true,
+          "note": "vérifié (passe 1)"
+        },
+        {
+          "reference": "CEDH, Brusco c. France, 14 oct. 2010, n° 1466/07",
+          "principle": "constate une violation de l'article 6 pour défaut d'assistance d'un avocat et de notification du droit au silence",
+          "verified": true,
+          "note": "vérifié (passe 1)"
+        }
+      ],
+      "developments": [
+        {
+          "date": "2026-06-30",
+          "text": "La Cour de cassation (chambre criminelle) a jugé régulière, sur le fondement de l'article L. 272-1 du code de la sécurité intérieure (accès des forces de l'ordre aux parties communes des immeubles d'habitation), l'introduction des enquêteurs dans le parking commun d'un immeuble pour poser un dispositif de géolocalisation en temps réel, « nonobstant l'absence d'autorisation spécialement donnée à cette fin par le procureur de la République sur le fondement de l'article 230-34 du code de procédure pénale », dès lors qu'ils n'ont pas accompli d'autres actes que ceux autorisés par la loi, de sorte qu'il a été satisfait à la réserve d'interprétation de la décision n° 2023-1059 QPC du 14 septembre 2023.",
+          "source": {
+            "label": "Cass. Crim., 30 juin 2026, n° 25-88.208 (B)",
+            "url": "https://www.courdecassation.fr/decision/6a435461cdc6046d474c8c3c",
+            "date": "2026-06-30",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-04-14",
+          "text": "La Cour de cassation (chambre criminelle) a jugé que les personnes qualifiées requises en application de l'article 77-1 du code de procédure pénale ne peuvent poser directement des questions au gardé à vue, sous peine de nullité d'ordre public au regard de l'article 63-4-3 du même code.",
+          "source": {
+            "label": "Cass. Crim., 14 avr. 2026, n° 25-87.000 (B)",
+            "url": "https://www.courdecassation.fr/decision/69e07be6cdc6046d476a353e",
+            "date": "2026-04-14",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-04-03",
+          "text": "Le Conseil constitutionnel a déclaré contraire à la Constitution le premier alinéa de l'article 706-112-1 du code de procédure pénale (rédaction de la loi n° 2020-1672 du 24 décembre 2020) : il n'imposait pas d'aviser le tuteur, le curateur ou le mandataire spécial du majeur protégé en cas de prolongation de la garde à vue ou d'audition sur d'autres faits, ce qui méconnaît les droits de la défense (art. 16 DDHC). L'abrogation est reportée au 31 octobre 2027. Jusqu'à cette date, ou jusqu'à une loi nouvelle, l'OPJ ou l'APJ doit aviser le tuteur, le curateur ou le mandataire spécial dans ces deux hypothèses, et l'informer qu'il peut faire désigner un avocat et demander un examen médical (§ 15).",
+          "source": {
+            "label": "n° 2026-1191 QPC, M. Bruno M.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053915387",
+            "date": "2026-04-03",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-03-19",
+          "text": "La CJUE, saisie d'un renvoi préjudiciel par la cour d'appel de Paris (affaire C-371/24), a jugé que la police ne peut collecter de façon systématique les données biométriques (empreintes, photographies) de tout suspect ; une nécessité absolue doit être motivée au cas par cas, sous peine d'invalider la sanction pénale du refus de s'y soumettre.",
+          "source": {
+            "label": "C-371/24, Comdribus",
+            "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260039fr.pdf",
+            "date": "2026-03-19",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-01-27",
+          "text": "La Cour de cassation (chambre criminelle) a jugé que les données enregistrées au fichier TAJ lors d'une garde à vue ensuite annulée peuvent être exploitées dans une autre procédure.",
+          "source": {
+            "label": "Cass. Crim., 27 janv. 2026, n° 25-85.550 (B)",
+            "url": "https://www.courdecassation.fr/decision/69786db4cdc6046d47d707b1",
+            "date": "2026-01-27",
+            "verified": true
+          }
+        },
+        {
+          "date": "2025-12-02",
+          "text": "La Cour de cassation (chambre criminelle) a refusé de transmettre une QPC sur l'article 803 du code de procédure pénale relatif au menottage : le juge doit contrôler la nécessité et la proportionnalité du menottage ou des entraves, et la méconnaissance de ce texte peut entraîner la nullité de l'acte si l'atteinte à la dignité en a irrémédiablement vicié le déroulement.",
+          "source": {
+            "label": "Cass. Crim., 2 déc. 2025, n° 25-86.014 (B)",
+            "url": "https://www.courdecassation.fr/decision/6932865072f940f4b6c69285",
+            "date": "2025-12-02",
+            "verified": true
+          }
+        },
+        {
+          "date": "2025-11-25",
+          "text": "La Cour de cassation (chambre criminelle) a jugé que les droits prévus à l'article 61-1 du code de procédure pénale, relatifs à l'audition libre, doivent être notifiés à toute personne soupçonnée, y compris au représentant d'une personne morale entendu en enquête préliminaire.",
+          "source": {
+            "label": "Cass. Crim., 25 nov. 2025, n° 25-80.319 (B)",
+            "url": "https://www.courdecassation.fr/decision/69254c39bbc24b0cc5e085f7",
+            "date": "2025-11-25",
+            "verified": true
+          }
+        }
+      ],
+      "axes": [
+        "L'assistance de l'avocat dès le premier acte de contrainte garantit-elle l'effectivité des droits de la défense ?",
+        "Le régime de l'audition libre offre-t-il des garanties équivalentes à celles de la garde à vue ?",
+        "Les techniques spéciales d'enquête (biométrie, géolocalisation, vidéoprotection) sont-elles suffisamment encadrées par le contrôle judiciaire ?",
+        "Les causes de nullité de l'acte d'enquête permettent-elles une protection effective des droits de la personne poursuivie ?"
+      ],
+      "relatedSheets": [],
+      "updatedAt": "2026-06-30"
+    },
+    {
+      "id": "g2-droit-de-se-taire-et-droits-de-la-defense",
+      "code": "G2",
+      "family": "G",
+      "title": "Droit de se taire et droits de la défense",
+      "question": "Le droit de ne pas s'auto-incriminer doit-il être notifié à chaque étape ?",
+      "summary": "La question de la notification du droit de se taire revient de façon récurrente devant le Conseil constitutionnel. Il a été saisi par QPC à propos de plusieurs procédures de sanction administrative (commission du contrôle de la réglementation du CNC, DGCCRF, AMF, CRE) et de la composition pénale. Ce contentieux porte sur le moment et les modalités de cette notification. Pour les magistrats, la question est désormais législative : une proposition de loi organique adoptée par le Sénat le 12 février 2026 tire les conséquences de la décision n° 2024-1097 QPC. Les solutions varient selon que l'information relève du domaine légal ou réglementaire et selon l'autorité en cause, ce qui nourrit le débat sur une éventuelle généralisation de l'obligation.",
+      "keyTexts": [
+        {
+          "label": "DDHC art. 9 et 16",
+          "note": "présomption d'innocence (art. 9) et garantie des droits (art. 16)",
+          "verified": true,
+          "verifyNote": "vérifié (passe 1)"
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CEDH, gde ch., John Murray c. Royaume-Uni, 8 févr. 1996, n° 18731/91",
+          "principle": "Des conséquences peuvent être tirées du silence de l'accusé sans violer l'article 6 § 1 et § 2, sous garanties (non-violation). En revanche, le refus d'accès à un avocat pendant les 48 premières heures de garde à vue viole l'article 6 § 1 combiné avec le § 3 c).",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-62539",
+          "verified": true,
+          "note": "vérifié sur HUDOC (passe 1)"
+        }
+      ],
+      "developments": [
+        {
+          "date": "2026-08-06",
+          "text": "Le Conseil constitutionnel a déclaré partiellement non conformes les dispositions du code de l'énergie relatives à la procédure de sanction devant la CRE, faute d'information sur le droit de se taire, avec abrogation reportée au 31 octobre 2027 et réserve transitoire ; il a prononcé un non-lieu et une conformité partielle pour le surplus (n° 2026-1219 QPC, 6 août 2026).",
+          "source": {
+            "label": "n° 2026-1219 QPC, Sté Danske Commodities",
+            "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054633605",
+            "date": "2026-08-06",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-07-10",
+          "text": "Le Conseil constitutionnel a déclaré conformes à la Constitution les mots « il notifie les griefs aux personnes concernées » de l'article L. 621-15, I, du code monétaire et financier (procédure de sanction de l'AMF). Il précise qu'« en tout état de cause, ni ces dispositions ni les dispositions réglementaires prises […] pour leur application ne sauraient permettre à l'Autorité des marchés financiers, lorsqu'elle notifie les griefs, d'inviter la personne mise en cause à présenter des observations sans l'avoir informée de son droit de se taire » (n° 2026-1213 QPC, 10 juil. 2026).",
+          "source": {
+            "label": "n° 2026-1213 QPC, Sté Altaroc Partners et autres",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054617300",
+            "date": "2026-07-10",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-06-02",
+          "text": "Le Conseil constitutionnel a déclaré conformes à la Constitution les mots « et en l'invitant à présenter, dans un délai précisé par le décret mentionné à l'article L. 522-10, ses observations écrites et, le cas échéant, ses observations orales » du premier alinéa de l'article L. 522-5 du code de la consommation (procédure de sanction de la DGCCRF). La procédure de sanction devant une autorité administrative de l'État qui n'est ni une AAI ni une API « ne relève pas du domaine de la loi mais, sous le contrôle du juge compétent, du domaine réglementaire ». Le grief tiré de l'absence d'information sur le droit de se taire est donc écarté (n° 2026-1201 QPC, 2 juin 2026).",
+          "source": {
+            "label": "n° 2026-1201 QPC, Sté Corsica Ferries",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054293149",
+            "date": "2026-06-02",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-03-27",
+          "text": "Le Conseil constitutionnel a déclaré non conformes, de date à date jusqu'au 30 décembre 2021, les dispositions relatives à la composition pénale faute de notification du droit de se taire, puis conformes ensuite ; il a aussi déclaré non conforme l'usage des déclarations faites lors de la composition pénale en cas d'échec de celle-ci (art. 41-2 CPP), les effets étant fixés aux paragraphes 27 et 28 (n° 2026-1188 QPC, 27 mars 2026).",
+          "source": {
+            "label": "n° 2026-1188 QPC, M. Pierre C.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053915384",
+            "date": "2026-03-27",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-03-20",
+          "text": "Le Conseil constitutionnel a jugé n'y avoir lieu à statuer sur la QPC relative à la procédure de sanction devant la commission du contrôle de la réglementation du Centre national du cinéma et de l'image animée (art. L. 423-1 et L. 423-10 du code du cinéma et de l'image animée) et au droit de se taire. Cette procédure « relève, sous le contrôle du juge compétent, du domaine réglementaire », de sorte que les dispositions contestées « ne peuvent être regardées comme des dispositions législatives au sens de l'article 61-1 » (n° 2025-1187 QPC, 20 mars 2026).",
+          "source": {
+            "label": "n° 2025-1187 QPC, Sté Les Films d'un jour et autres",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053915382",
+            "date": "2026-03-20",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-02-12",
+          "text": "Le Sénat a adopté en première lecture, selon la procédure accélérée, une proposition de loi organique modifiant l'ordonnance statutaire de 1958 qui, pour tirer les conséquences de la QPC n° 2024-1097 du 26 juin 2024, prévoit que le magistrat visé par une procédure disciplinaire soit informé de son droit de se taire. Le texte a été transmis à l'Assemblée nationale (n° 2479) le 12 février 2026.",
+          "source": {
+            "label": "PPLO portant renforcement de la chaîne pénale criminelle et diverses dispositions de modernisation du corps judiciaire (texte n° 58 adopté par le Sénat le 12 févr. 2026)",
+            "url": "https://www.senat.fr/dossier-legislatif/ppl25-071.html",
+            "date": "2026-02-12",
+            "verified": true,
+            "note": "Transmise à l'AN (n° 2479) le 12 févr. 2026."
+          }
+        },
+        {
+          "date": "2025-12-05",
+          "text": "Le Conseil constitutionnel a déclaré conformes à la Constitution les mots « en cas de maladie ou d'empêchement reconnus justifiés » de la seconde phrase de l'article 54 de l'ordonnance du 22 décembre 1958, qui ne permettent au magistrat du siège poursuivi devant le CSM de se faire représenter que dans ces cas (n° 2025-1176 QPC, 5 déc. 2025).",
+          "source": {
+            "label": "n° 2025-1176 QPC, Mme Florence B.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053000370",
+            "date": "2025-12-05",
+            "verified": true
+          }
+        },
+        {
+          "date": "2025-11-25",
+          "text": "La Cour de cassation a jugé que les droits de l'article 61-1 du code de procédure pénale (audition libre) doivent être notifiés à toute personne soupçonnée, y compris au représentant d'une personne morale entendu en enquête préliminaire (Cass. crim., 25 nov. 2025, n° 25-80.319).",
+          "source": {
+            "label": "Cass. Crim., 25 nov. 2025, n° 25-80.319 (B)",
+            "url": "https://www.courdecassation.fr/decision/69254c39bbc24b0cc5e085f7",
+            "date": "2025-11-25",
+            "verified": true
+          }
+        }
+      ],
+      "axes": [
+        "Le droit de se taire doit-il être notifié à chaque étape de la procédure, y compris disciplinaire ?",
+        "La notification du droit de se taire doit-elle s'imposer de façon uniforme devant toutes les autorités de sanction administrative ?",
+        "L'absence de notification du droit de se taire entraîne-t-elle nécessairement la nullité de la procédure ?",
+        "Le refus de communiquer un code de déchiffrement relève-t-il du droit de ne pas s'auto-incriminer ?"
+      ],
+      "positions": [],
+      "relatedSheets": [],
+      "updatedAt": "2026-08-06"
+    },
+    {
+      "id": "g3-detention-provisoire",
+      "code": "G3",
+      "family": "G",
+      "title": "Détention provisoire",
+      "question": "La détention provisoire reste-t-elle l'exception ?",
+      "summary": "Plusieurs décisions récentes de la Cour de cassation et du Conseil constitutionnel, ainsi qu'un avis du Conseil d'État, portent sur les délais de prolongation, la motivation des décisions de détention provisoire et le régime applicable aux mineurs. Ce contentieux touche notamment la visioconférence pour les demandes de mise en liberté et l'absence de base légale lors de la transition du code de la justice pénale des mineurs, ce qui renouvelle la question du caractère exceptionnel de la détention provisoire.",
+      "keyTexts": [
+        {
+          "label": "Constitution art. 66",
+          "note": "garantit la liberté individuelle, protégée par l'autorité judiciaire",
+          "verified": true,
+          "verifyNote": "vérifié (passe 1)"
+        },
+        {
+          "label": "DDHC art. 9",
+          "note": "pose la présomption d'innocence",
+          "verified": true,
+          "verifyNote": "vérifié (passe 1)"
+        },
+        {
+          "label": "CEDH art. 5 § 3",
+          "note": "droit d'être jugé dans un délai raisonnable ou libéré",
+          "verified": true,
+          "verifyNote": "vérifié (passe 1)"
+        }
+      ],
+      "caseLaw": [],
+      "developments": [
+        {
+          "date": "2026-09-30",
+          "text": "Par un arrêt du 30 septembre 2026 (n° 26-84.377, B), la Cour de cassation casse sans renvoi l'arrêt qui avait prolongé à titre exceptionnel, le 1er juillet 2026, la détention d'un mineur accusé, alors qu'aucune loi n'avait encore remplacé l'article L. 434-9 du code de la justice pénale des mineurs abrogé à cette date (le nouvel article L. 434-9 n'est issu que de la loi n° 2026-651 du 23 juillet 2026). L'arrêt est jugé « privé de fondement légal », la Cour constate une détention sans titre et ordonne la mise en liberté sous contrôle judiciaire (art. 803-7 CPP).",
+          "source": {
+            "label": "Cass. Crim., 30 sept. 2026, n° 26-84.377 (B)",
+            "url": "https://www.courdecassation.fr/decision/6abe4635c27382d0995dfc0d",
+            "date": "2026-09-30",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-08-26",
+          "text": "La Cour de cassation juge que la décision de maintien en détention d'un mineur renvoyé devant la cour d'assises des mineurs, prise avant l'abrogation de l'article L. 434-9 du code de la justice pénale des mineurs (décision n° 2025-1143 QPC du 27 juin 2025, abrogation au 1er juillet 2026), « ne peut être contestée sur le fondement de celle-ci sans remettre en cause l'autorité de chose jugée de la décision du Conseil constitutionnel ». Elle rejette le pourvoi (Cass. crim., 26 août 2026, n° 26-83.562, B).",
+          "source": {
+            "label": "Cass. Crim., 26 août 2026, n° 26-83.562 (B)",
+            "url": "https://www.courdecassation.fr/decision/6a904e97195da062e0191e4c",
+            "date": "2026-08-26",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-04-30",
+          "text": "Le Conseil constitutionnel juge l'article 464-2, IV, du code de procédure pénale conforme à la Constitution sous réserve que l'exécution provisoire du mandat de dépôt à effet différé fasse l'objet d'une motivation spéciale sur sa proportionnalité.",
+          "source": {
+            "label": "n° 2026-1195 QPC, M. Yves R.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054103363",
+            "date": "2026-04-30",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-04-17",
+          "text": "Le Conseil constitutionnel déclare contraire à la Constitution le renvoi opéré par l'article L. 531-2 du code de la justice pénale des mineurs aux délais de l'article 380-3-1 du code de procédure pénale (« un an », « six mois », « Cette prolongation peut être renouvelée une fois »), qui encadrent la comparution de l'accusé détenu devant la cour d'assises statuant en appel. L'abrogation est reportée au 31 octobre 2027. Il déclare conforme, sous la réserve du § 12, le renvoi opéré par l'article L. 231-7 du même code aux mots « ou s'il comparaît détenu devant la cour d'assises » de l'article 367 du code de procédure pénale. Au nom du principe fondamental reconnu par les lois de la République en matière de justice des mineurs, la cour d'assises des mineurs doit vérifier que le maintien en détention « n'excède pas la rigueur nécessaire » ou, s'il y a lieu, prononcer une autre mesure de sûreté adaptée à la situation du mineur.",
+          "source": {
+            "label": "n° 2026-1194 QPC, M. Sawran S.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053915390",
+            "date": "2026-04-17",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-04-10",
+          "text": "Le Conseil constitutionnel déclare contraires à la Constitution certains mots de la seconde phrase du quatrième alinéa de l'article 706-71 du code de procédure pénale (rédaction de la loi n° 2025-532 du 13 juin 2025). En ne prévoyant pas que l'accusé maintenu en détention dans l'attente de sa comparution devant la cour d'assises puisse s'opposer à la visioconférence lorsqu'il est statué sur sa demande de mise en liberté (art. 148-1 CPP), ces dispositions portent « une atteinte excessive aux droits de la défense ». L'abrogation est reportée au 31 octobre 2027. À titre transitoire, la faculté d'opposition s'applique, dans les mêmes conditions, à ces demandes de mise en liberté (§ 14).",
+          "source": {
+            "label": "n° 2026-1192 QPC, M. Sofiane S.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053915388",
+            "date": "2026-04-10",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-01-29",
+          "text": "Le Conseil d'État (assemblée générale, avis du 29 janvier 2026 rendu à la demande du Gouvernement) estime possible, sur le fondement de l'article 37-1 de la Constitution, une expérimentation en matière pénale permettant de prononcer des peines d'emprisonnement inférieures à un mois et des mandats de dépôt pour de courtes peines. Il rappelle l'article 9 de la Déclaration de 1789 et les exigences de la Convention européenne des droits de l'homme (art. 6, 7 et 14). Il précise toutefois qu'il ne pourra en vérifier la constitutionnalité et la conventionnalité qu'au vu d'un projet de loi accompagné de son étude d'impact (point 10).",
+          "source": {
+            "label": "Avis CE (demande du Gouvernement) sur l'expérimentation des courtes peines",
+            "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-relatif-a-l-experimentation-des-courtes-peines",
+            "date": "2026-01-29",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-01-06",
+          "text": "La Cour de cassation casse un arrêt qui n'explique pas l'absence de tout interrogatoire au fond depuis plus d'un an, au regard de l'exigence de durée raisonnable de la détention provisoire posée par l'article 5 § 3 de la Convention européenne des droits de l'homme.",
+          "source": {
+            "label": "Cass. Crim., 6 janv. 2026, n° 25-86.842 (B)",
+            "url": "https://www.courdecassation.fr/decision/695f6d3fcdc6046d47991138",
+            "date": "2026-01-06",
+            "verified": true
+          }
+        },
+        {
+          "date": "2025-12-09",
+          "text": "La Cour de cassation juge que l'article 145-1-1 du code de procédure pénale, issu de la loi n° 2025-532 du 13 juin 2025, s'applique immédiatement : en matière de bande organisée punie de dix ans d'emprisonnement, la prolongation de la détention provisoire ne peut être inférieure à six mois, même sur le seul appel du mis en examen.",
+          "source": {
+            "label": "Cass. Crim., 9 déc. 2025, n° 25-86.411 (B)",
+            "url": "https://www.courdecassation.fr/decision/693a85113e607b3c21140a16",
+            "date": "2025-12-09",
+            "verified": true
+          }
+        }
+      ],
+      "axes": [
+        "La détention provisoire demeure-t-elle encadrée par des délais effectifs ?",
+        "L'exigence de motivation garantit-elle le caractère exceptionnel de la détention provisoire ?",
+        "Le régime de la détention provisoire respecte-t-il la dignité des personnes détenues, notamment mineures ?",
+        "L'extension des procédures dérogatoires, telles que la visioconférence ou l'expérimentation des courtes peines, remet-elle en cause le principe d'exception de la détention provisoire ?"
+      ],
+      "positions": [
+        {
+          "id": "A",
+          "claim": "Estime possible, sur le fondement de l'article 37-1 de la Constitution, l'expérimentation de peines d'emprisonnement inférieures à un mois et de mandats de dépôt pour courtes peines. Il réserve cependant son contrôle de constitutionnalité et de conventionnalité au futur projet de loi et à son étude d'impact, et exige des critères objectifs et rationnels ainsi qu'une vigilance particulière sur l'égalité devant la loi pénale.",
+          "holder": "Conseil d'État",
+          "sources": [
+            {
+              "label": "Avis CE (demande du Gouvernement) sur l'expérimentation des courtes peines",
+              "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-relatif-a-l-experimentation-des-courtes-peines",
+              "date": "2026-01-29",
+              "verified": true,
+              "note": "attribution vérifiée (passe 2)"
+            }
+          ]
+        }
+      ],
+      "relatedSheets": [],
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "g4-g5-proces-equitable-visioconference-delais",
+      "code": "G4·G5",
+      "family": "G",
+      "title": "Procès équitable, visioconférence, délais et prescription",
+      "question": "Le procès pénal peut-il se dématérialiser et s'accélérer sans perdre en équité ?",
+      "summary": "La question revient parce que plusieurs décisions récentes de la Cour de cassation et du Conseil constitutionnel ont précisé les limites du recours à la visioconférence et du jeu de la prescription en matière pénale, tandis que la loi du 23 juillet 2026 sur la justice criminelle a été partiellement censurée par le Conseil constitutionnel. Sur le projet de loi, le Conseil d'État a estimé la procédure de jugement des crimes reconnus compatible avec le procès équitable, la présomption d'innocence et l'égalité devant la justice (avis du 12 mars 2026). La Défenseure des droits (avis du 3 avril 2026) et la CNCDH (avis du 28 mai 2026) ont au contraire signalé des risques pour l'équité du procès et les droits fondamentaux.",
+      "keyTexts": [
+        {
+          "label": "CEDH art. 6",
+          "note": "droit à un procès équitable, public, dans un délai raisonnable",
+          "verified": true,
+          "verifyNote": "vérifié (passe 1)"
+        },
+        {
+          "label": "loi du 27 févr. 2017 (prescription)",
+          "note": "réforme des délais de prescription de l'action publique",
+          "verified": true,
+          "verifyNote": "vérifié (passe 1)"
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC n° 2020-872 QPC, 15 janv. 2021, M. Krzystof B.",
+          "verified": true,
+          "note": "vérifié sur conseil-constitutionnel.fr (passe 1)",
+          "principle": "Déclare contraire à la Constitution le premier alinéa de l'article 5 de l'ordonnance n° 2020-303 du 25 mars 2020 (état d'urgence sanitaire), qui permettait de recourir à la visioconférence « devant l'ensemble des juridictions pénales, autres que les juridictions criminelles, sans qu'il soit nécessaire de recueillir l'accord des parties ». Ce texte portait « une atteinte aux droits de la défense que ne pouvait justifier le contexte sanitaire particulier résultant de l'épidémie de covid-19 ». Les effets ne sont pas reportés, mais les mesures prises sur son fondement ne peuvent être contestées (§ 12-13).",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2021/2020872QPC.htm"
+        }
+      ],
+      "developments": [
+        {
+          "date": "2026-08-19",
+          "text": "Le juge des référés du Conseil d'État (ord. 19 août 2026, n° 518639) a rejeté, selon la procédure de l'article L. 522-3 CJA (sans instruction ni audience), l'appel formé par l'association Avocats pour la défense des étrangers de Pau et le Syndicat des avocats de France contre l'ordonnance du juge des référés-liberté du TA de Pau du 24 juillet 2026. L'appel portait sur les vidéo-audiences tenues depuis l'annexe de justice du CRA d'Hendaye. Le juge relève que ce dispositif, auquel « il peut être recouru de manière systématique », n'est pas manifestement incompatible avec l'article 6 CEDH. Il ajoute que la jauge de la salle (18 personnes, dont 6 pour le public) ne caractérise pas une « atteinte grave et manifestement illégale au droit de bénéficier d'une audience publique ».",
+          "source": {
+            "label": "JRCE, ord. 19 août 2026, n° 518639, ADE de Pau et SAF (CRA d'Hendaye)",
+            "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-08-19/518639",
+            "date": "2026-08-19",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-07-23",
+          "text": "La loi n° 2026-651 du 23 juillet 2026 sur la justice criminelle et le respect des victimes (JO du 24 juillet) instaure notamment une procédure de jugement des crimes reconnus. Elle permet de limiter l'appel de l'accusé ou du ministère public « aux peines complémentaires, à certaines d'entre elles ou à leurs modalités d'application » (art. 380-2-1 B CPP) et étend la liste des infractions concernées par le FNAEG (art. 706-55 CPP). Elle crée aussi un article 10-1-1 du code de procédure pénale, qui organise l'information de la victime et de l'auteur ayant reconnu les faits sur leur droit de se voir proposer une mesure de justice restaurative, à tous les stades de la procédure (art. 2 de la loi). Saisi par des députés, le Conseil constitutionnel (n° 2026-909 DC du 23 juillet 2026) a censuré notamment le recours à la généalogie génétique (art. 5) et le statut de psychologue de police judiciaire (art. 8). Il a validé le reste des dispositions contestées, certaines sous réserves (art. 276-1 CPP ; art. L. 125-2 COJ).",
+          "source": {
+            "label": "Loi n° 2026-651 du 23 juil. 2026 (JO 24/07) ; CC n° 2026-909 DC du 23 juil. 2026",
+            "url": "https://www.legifrance.gouv.fr/eli/loi/2026/7/23/2026-651/jo/texte",
+            "date": "2026-07-23",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-06-12",
+          "text": "Le Conseil constitutionnel a déclaré, le 12 juin 2026 (n° 2026-1204/1205 QPC), l'article 65-2 de la loi de 1881 non conforme à la Constitution, faute de conciliation équilibrée entre la réouverture du délai de prescription de la diffamation et la liberté d'expression.",
+          "source": {
+            "label": "n° 2026-1204/1205 QPC, M. Patrick H. et autre",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054293152",
+            "date": "2026-06-12",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-04-10",
+          "text": "Le Conseil constitutionnel a déclaré contraires à la Constitution, le 10 avril 2026 (n° 2026-1192 QPC), certains mots de la seconde phrase du quatrième alinéa de l'article 706-71 du code de procédure pénale (rédaction de la loi n° 2025-532 du 13 juin 2025), faute de permettre à l'accusé détenu dans l'attente de son jugement par la cour d'assises de s'opposer à la visioconférence lorsqu'il est statué sur sa demande de mise en liberté (art. 148-1 CPP). L'abrogation est reportée au 31 octobre 2027. À titre transitoire, la faculté d'opposition est étendue à ces demandes (§ 14).",
+          "source": {
+            "label": "n° 2026-1192 QPC, M. Sofiane S.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053915388",
+            "date": "2026-04-10",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-03-03",
+          "text": "La Cour de cassation (chambre criminelle) a cassé, le 3 mars 2026 (n° 25-87.987), pour composition irrégulière, l'arrêt de la chambre de l'instruction du tribunal supérieur d'appel de Saint-Pierre-et-Miquelon présidée par visioconférence depuis la cour d'appel de Paris par un magistrat délégué (art. LO 513-8 COJ), aucun texte ne prévoyant ce mode d'intervention.",
+          "source": {
+            "label": "Cass. Crim., 3 mars 2026, n° 25-87.987 (B)",
+            "url": "https://www.courdecassation.fr/decision/69a94d34cdc6046d47939e84",
+            "date": "2026-03-03",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-01-16",
+          "text": "L'Assemblée plénière de la Cour de cassation a jugé, le 16 janvier 2026 (n° 25-80.258), que la dissimulation du corps de la victime d'un meurtre ne suspend la prescription que si elle s'accompagne de circonstances rendant impossible toute suspicion d'infraction ; elle a cassé sans renvoi en retenant la prescription acquise.",
+          "source": {
+            "label": "Cass. Ass. plén., 16 janv. 2026, n° 25-80.258 (B+R)",
+            "url": "https://www.courdecassation.fr/decision/6969deb2cdc6046d477d2cdb",
+            "date": "2026-01-16",
+            "verified": true
+          }
+        },
+        {
+          "date": "2025-12-10",
+          "text": "La Cour de cassation (chambre criminelle) a jugé, le 10 décembre 2025 (n° 25-86.521), que la juridiction de jugement statuant sur une demande de mise en liberté peut recourir à la visioconférence sans l'accord du prévenu, cet accord n'étant requis que lorsqu'elle statue au fond.",
+          "source": {
+            "label": "Cass. Crim., 10 déc. 2025, n° 25-86.521 (B)",
+            "url": "https://www.courdecassation.fr/decision/694189e7c69a34cd2071de08",
+            "date": "2025-12-10",
+            "verified": true
+          }
+        }
+      ],
+      "axes": [
+        "La visioconférence dans la procédure pénale permet-elle de garantir les droits de la défense sans l'accord de la personne poursuivie ?",
+        "La publicité des débats doit-elle céder devant des impératifs de sécurité ou de gestion matérielle de la justice ?",
+        "Jusqu'où la prescription de l'action publique peut-elle être suspendue ou rouverte sans porter atteinte à la sécurité juridique et à la liberté d'expression ?",
+        "Le délai raisonnable de jugement peut-il être concilié avec l'accélération des procédures criminelles ?"
+      ],
+      "positions": [
+        {
+          "id": "A",
+          "claim": "estime que la procédure de « jugement des crimes reconnus » ne porte pas atteinte au principe de la publicité des débats ni à la séparation des autorités de poursuite et de jugement, et qu'elle ne méconnaît pas le droit à un procès équitable, la présomption d'innocence et l'égalité devant la justice ; il juge le projet conforme aux conditions posées par le Conseil constitutionnel à la présence de juges non professionnels, minoritaires, au sein d'une formation collégiale.",
+          "holder": "Conseil d'État",
+          "sources": [
+            {
+              "label": "Avis CE (AG), 12 mars 2026, PJL sur la justice criminelle et le respect des victimes",
+              "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-relatif-a-un-projet-de-loi-sur-la-justice-criminelle-et-le-respect-des-victimes",
+              "date": "2026-03-12",
+              "verified": true,
+              "note": "attribution vérifiée (passe 2)"
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "avertit qu'une justice plus rapide ne doit pas devenir une justice appauvrie et pointe des risques pour l'équité du procès dans le PJL justice criminelle et respect des victimes.",
+          "holder": "DDD",
+          "sources": [
+            {
+              "label": "DDD, avis au Parlement (audition du 01/04)",
+              "url": "https://www.defenseurdesdroits.fr/projet-de-loi-sur-la-justice-criminelle-et-le-respect-des-victimes-lavis-au-parlement-de-la-1106",
+              "date": "2026-04-03",
+              "verified": true,
+              "note": "attribution vérifiée (passe 2)"
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "relève des risques pour les droits fondamentaux dans le PJL justice criminelle tel qu'adopté par le Sénat le 14 avril 2026.",
+          "holder": "CNCDH",
+          "sources": [
+            {
+              "label": "CNCDH, avis",
+              "url": "https://www.cncdh.fr/publications/avis-relatif-au-projet-de-loi-sur-la-justice-criminelle-et-le-respect-des-victimes-tel",
+              "date": "2026-05-28",
+              "verified": true,
+              "note": "attribution vérifiée (passe 2)"
+            }
+          ]
+        }
+      ],
+      "relatedSheets": [],
+      "updatedAt": "2026-08-19"
+    },
+    {
+      "id": "g6-peines-necessite-individualisation-execution",
+      "code": "G6",
+      "family": "G",
+      "title": "Peines : nécessité, individualisation, exécution",
+      "question": "Le juge doit-il toujours pouvoir individualiser la peine ?",
+      "summary": "La question de l'individualisation de la peine demeure posée par plusieurs décisions QPC récentes. Le Conseil constitutionnel censure une peine automatique (la confiscation obligatoire en matière de trafic de stupéfiants, au nom de l'individualisation des peines). Il censure aussi, sur d'autres fondements de l'article 8 DDHC, l'aggravation non définie de la suspension prononcée par l'AFLD (légalité), le cumul de poursuites CNIL/Arcep/DGCCRF (nécessité) et la condamnation du tiers saisi au paiement des sommes dues (proportionnalité). Il n'admet l'exécution provisoire de certaines sanctions pénales et du mandat de dépôt à effet différé que sous réserve d'une motivation spéciale de sa proportionnalité. Le Contrôleur général des lieux de privation de liberté alerte dans le même temps sur une surpopulation carcérale record.",
+      "keyTexts": [
+        {
+          "label": "DDHC art. 8",
+          "note": "garantit la nécessité et la proportionnalité des peines",
+          "verified": true,
+          "verifyNote": "vérifié sur conseil-constitutionnel.fr (passes 1-2)"
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC n° 2005-520 DC, 22 juill. 2005 (loi précisant le déroulement de l'audience d'homologation de la CRPC)",
+          "principle": "Non contraire à la Constitution : la loi ne méconnaît ni l'égalité devant la justice, ni les droits de la défense, ni \"le principe d'individualisation des peines qui découle de l'article 8\" DDHC.",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2005/2005520DC.htm",
+          "verified": true,
+          "note": "vérifié sur conseil-constitutionnel.fr (passe 1)"
+        },
+        {
+          "reference": "CC n° 2007-554 DC, 9 août 2007 (peines planchers)",
+          "verified": true,
+          "note": "vérifié sur conseil-constitutionnel.fr (passes 1-2)",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007554DC.htm"
+        }
+      ],
+      "developments": [
+        {
+          "date": "2026-08-14",
+          "text": "Le Conseil constitutionnel déclare contraire à la Constitution le 4° de l'article 39 de la loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens. Cette disposition, qui complétait l'article 723-3 CPP, aurait interdit toute permission de sortir aux condamnés affectés dans un quartier de lutte contre la criminalité organisée, affectation qui relève de la seule décision du ministre de la justice. L'interdiction \"ne procède pas d'une appréciation par la juridiction de jugement des circonstances propres à l'espèce\", et \"ni cette juridiction ni aucune juridiction de l'application des peines ne peut déroger à cette interdiction ou en moduler les effets\". Elle méconnaît l'article 66 de la Constitution et les principes de séparation des pouvoirs et d'individualisation des peines (§ 360, 365-369).",
+          "source": {
+            "label": "n° 2026-915 DC, Loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public…",
+            "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026915DC.htm",
+            "date": "2026-08-14",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-07-03",
+          "text": "Le Conseil constitutionnel déclare non conforme, pour méconnaissance du principe de légalité des délits et des peines (art. 8 DDHC), l'aggravation de la durée de suspension prononcée par l'AFLD (art. L. 232-23-3-10, V, du code du sport, rédaction de l'ordonnance du 21 avril 2021). Le législateur a institué une cause légale d'aggravation de la peine sans définir les circonstances qui la justifient. Les effets de la décision sont fixés aux § 12-13.",
+          "source": {
+            "label": "n° 2026-1212 QPC, M. Valeriu M.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054398788",
+            "date": "2026-07-03",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-07-02",
+          "text": "Le Contrôleur général des lieux de privation de liberté publie au Journal officiel du 2 juillet 2026 un avis relatif à la surpopulation carcérale. Il relève 88 829 détenus pour 63 237 places opérationnelles au 1er juin 2026, dont 7 608 dormant sur un matelas au sol. Il constate qu'aucune mesure d'envergure nationale n'a été prise depuis son précédent avis sur la surpopulation et la régulation carcérale (Journal officiel du 14 septembre 2023) et réitère sa recommandation d'un mécanisme contraignant de régulation carcérale.",
+          "source": {
+            "label": "CGLPL, avis (JO 02/07/2026)",
+            "url": "https://www.cglpl.fr/publications/avis-relatif-a-la-surpopulation-carcerale",
+            "date": "2026-07-02",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-06-25",
+          "text": "Le Conseil constitutionnel déclare non conformes, pour méconnaissance du principe de nécessité des peines, les dispositions de l'article L. 34-5 CPCE (6e, 8e et avant-dernier alinéas) qui permettent à la CNIL, à l'Arcep et à la DGCCRF de réprimer les mêmes manquements à l'interdiction de prospection directe sans consentement (automates d'appel, télécopieur, courriels). L'abrogation est reportée au 31 octobre 2027 (§ 19). D'ici là, aucune poursuite ne peut être engagée ou continuée devant l'une de ces autorités lorsque des premières poursuites ont déjà été engagées, ou une sanction définitive prononcée, devant une autre pour les mêmes faits et contre la même personne (§ 20).",
+          "source": {
+            "label": "n° 2026-1210 QPC, Sté Orange",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054398786",
+            "date": "2026-06-25",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-06-05",
+          "text": "Le Conseil constitutionnel déclare non conforme, pour méconnaissance du principe de proportionnalité des peines (art. 8 DDHC), la condamnation du tiers saisi au paiement des sommes dues (art. L. 262 du livre des procédures fiscales), les effets de la décision étant fixés aux § 13-14.",
+          "source": {
+            "label": "n° 2026-1203 QPC, Sté Maison Tirel",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054293151",
+            "date": "2026-06-05",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-04-30",
+          "text": "Le Conseil constitutionnel juge conforme, sous réserve d'une motivation spéciale de la proportionnalité, l'exécution provisoire du mandat de dépôt à effet différé (art. 464-2 IV CPP, § 8).",
+          "source": {
+            "label": "n° 2026-1195 QPC, M. Yves R.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054103363",
+            "date": "2026-04-30",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-03-13",
+          "text": "Le Conseil constitutionnel déclare non conforme, pour méconnaissance de l'individualisation des peines, la confiscation obligatoire en matière de trafic de stupéfiants (art. 222-49 al. 1 du code pénal), avec abrogation immédiate (§ 10).",
+          "source": {
+            "label": "n° 2025-1185 QPC, M. Mostafa B.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053678977",
+            "date": "2026-03-13",
+            "verified": true
+          }
+        },
+        {
+          "date": "2025-12-05",
+          "text": "Le Conseil constitutionnel juge conforme, sous réserve, l'exécution provisoire des sanctions pénales prononcées en application des articles 131-4-1 à 131-11 et 132-25 à 132-70 du code pénal (art. 471 al. 4 CPP) : le juge doit motiver spécialement la proportionnalité de cette exécution au regard des droits en cause, de la personnalité et de la situation du condamné (§ 13), réserve applicable aux seules affaires dont la juridiction de jugement est saisie après la publication de la décision (§ 14).",
+          "source": {
+            "label": "n° 2025-1175 QPC, M. Bernard P.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053000369",
+            "date": "2025-12-05",
+            "verified": true
+          }
+        }
+      ],
+      "axes": [
+        "Les peines automatiques sont-elles compatibles avec l'exigence d'individualisation des peines ?",
+        "La confiscation obligatoire peut-elle échapper au contrôle du juge sur la proportionnalité de la peine ?",
+        "L'exécution provisoire d'une peine peut-elle être ordonnée sans appréciation individualisée de la situation du condamné ?",
+        "Le juge doit-il toujours pouvoir individualiser la peine, y compris face à des mesures automatiques ou des sanctions cumulées ?"
+      ],
+      "positions": [
+        {
+          "id": "A",
+          "claim": "Le Contrôleur général des lieux de privation de liberté constate une surpopulation carcérale record (88 829 détenus pour 63 237 places opérationnelles au 1er juin 2026 ; 7 608 détenus dormant sur un matelas au sol). Il relève qu'aucune mesure d'envergure nationale n'a été prise depuis son précédent avis sur la surpopulation et la régulation carcérale (Journal officiel du 14 septembre 2023) et demande d'inscrire dans la loi un mécanisme contraignant de régulation carcérale.",
+          "holder": "CGLPL",
+          "sources": [
+            {
+              "label": "CGLPL, avis (JO 02/07/2026)",
+              "url": "https://www.cglpl.fr/publications/avis-relatif-a-la-surpopulation-carcerale",
+              "date": "2026-07-02",
+              "verified": true,
+              "note": "attribution vérifiée (passe 2)"
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "Le Conseil d'État (assemblée générale, avis du 29 janvier 2026) estime qu'aucun principe constitutionnel ne fait obstacle à une expérimentation pénale fondée sur l'art. 37-1 de la Constitution. Il juge possibles le rétablissement des peines d'emprisonnement de moins d'un mois et le prononcé de mandats de dépôt ou d'arrêt quel que soit le quantum, au regard notamment de l'art. 9 DDHC et de l'art. 13 CEDH. Il exige toutefois une vigilance particulière sur l'égalité, la légalité, la nécessité et l'individualisation des peines et la non-rétroactivité, et réserve son appréciation définitive à l'examen d'un projet de loi accompagné de son étude d'impact.",
+          "holder": "Conseil d'État",
+          "sources": [
+            {
+              "label": "Avis CE (demande du Gouvernement) sur l'expérimentation des courtes peines",
+              "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-relatif-a-l-experimentation-des-courtes-peines",
+              "date": "2026-01-29",
+              "verified": true,
+              "note": "attribution vérifiée (passe 2)"
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "La Défenseure des droits voit dans le projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens \"une juxtaposition de mesures susceptibles de porter atteinte aux libertés fondamentales\". Elle rappelle au législateur \"les principes de clarté, de nécessité et de proportionnalité des mesures\" et alerte sur l'extension de l'amende forfaitaire délictuelle à de nouveaux délits.",
+          "holder": "DDD",
+          "sources": [
+            {
+              "label": "Défenseure des droits, avis 26-04 du 16 juin 2026 (communiqué publié le 22 juin 2026)",
+              "url": "https://www.defenseurdesdroits.fr/avis-sur-le-projet-de-loi-visant-offrir-des-reponses-immediates-aux-phenomenes-troublant-lordre",
+              "date": "2026-06-16",
+              "verified": true,
+              "note": "attribution vérifiée (passe 2)"
+            }
+          ]
+        }
+      ],
+      "relatedSheets": [],
+      "updatedAt": "2026-08-14"
+    },
+    {
+      "id": "g7-g8-antiterrorisme-et-mesures-de-surete",
+      "code": "G7·G8",
+      "family": "G",
+      "title": "Antiterrorisme et mesures de sûreté",
+      "question": "La dangerosité peut-elle fonder une privation de liberté sans infraction ?",
+      "summary": "Le débat sur la privation de liberté fondée sur la dangerosité, sans infraction nouvelle, reste organisé autour de la rétention de sûreté, des mesures visant les sortants de détention condamnés pour terrorisme et des juridictions spécialisées. Les évolutions récentes portent sur l'extension de la rétention administrative, la création d'une rétention de sûreté terroriste sous réserve de non-rétroactivité, et le contrôle juridictionnel des mesures de surveillance individuelles.",
+      "keyTexts": [],
+      "caseLaw": [
+        {
+          "reference": "CC n° 2008-562 DC, 21 févr. 2008",
+          "principle": "La rétention de sûreté \"n'est ni une peine, ni une sanction ayant le caractère d'une punition\" : le grief tiré de l'art. 8 DDHC est inopérant. Toutefois, \"eu égard à sa nature privative de liberté, à la durée de cette privation, à son caractère renouvelable sans limite et au fait qu'elle est prononcée après une condamnation par une juridiction\", elle \"ne saurait être appliquée à des personnes condamnées avant la publication de la loi ou faisant l'objet d'une condamnation postérieure à cette date pour des faits commis antérieurement\" (cons. 9-10 ; censure de l'application rétroactive).",
+          "verified": true,
+          "note": "vérifié sur conseil-constitutionnel.fr (passe 1)",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2008/2008562DC.htm"
+        },
+        {
+          "reference": "CC n° 86-213 DC, 3 sept. 1986",
+          "principle": "Valide la compétence d'une cour d'assises spécialement composée de magistrats professionnels, sans jury populaire, pour juger les crimes terroristes.",
+          "verified": true,
+          "note": "vérifié sur conseil-constitutionnel.fr (passes 1-2)",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1986/86213DC.htm"
+        },
+        {
+          "reference": "CC n° 2020-805 DC, 7 août 2020",
+          "principle": "Censure l'article 1er de la loi, qui créait la mesure de sûreté de l'art. 706-25-15 CPP applicable aux auteurs d'infractions terroristes à leur sortie de détention, et par voie de conséquence ses art. 2 et 4. Cette mesure, \"ni une peine ni une sanction ayant le caractère d'une punition\", doit respecter le principe selon lequel la liberté personnelle ne saurait être entravée par une rigueur qui ne soit nécessaire (art. 2, 4 et 9 DDHC). Or elle porte à la liberté d'aller et de venir, au droit au respect de la vie privée et au droit de mener une vie familiale normale une atteinte non adaptée, non nécessaire et non proportionnée (§ 9-20).",
+          "verified": true,
+          "note": "vérifié sur conseil-constitutionnel.fr (passe 1)",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2020/2020805DC.htm"
+        }
+      ],
+      "developments": [
+        {
+          "date": "2026-09-09",
+          "text": "La chambre criminelle de la Cour de cassation (9 septembre 2026, n° 24-82.682, publié au Bulletin) casse par voie de retranchement, sans renvoi, l'arrêt civil de la cour d'assises de Paris spécialement composée du 4 mars 2024. Devant cette cour, la partie civile peut seulement \"agir pour corroborer l'action publique\". L'action civile tendant à l'indemnisation, y compris pour les infractions de droit commun connexes jointes, relève de la juridiction civile, \"le tribunal judiciaire de Paris disposant d'une compétence exclusive\".",
+          "source": {
+            "label": "Cass. Crim., 9 sept. 2026, n° 24-82.682 (B)",
+            "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000054929323",
+            "date": "2026-09-09",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-07-27",
+          "text": "La loi n° 2026-667 du 27 juillet 2026 visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (JORF n° 0174 du 28 juillet 2026) a été promulguée après la décision n° 2026-906 DC du 23 juillet 2026. Elle étend à de nouveaux étrangers condamnés les cas où la rétention administrative peut être prolongée au-delà de 90 jours, jusqu'à 180, voire 210 jours (art. L. 742-6 CESEDA). Elle crée une rétention de sûreté terroriste (art. 706-25-23 s. CPP) et permet au préfet d'imposer un examen psychiatrique (art. L. 229-7 CSI).",
+          "source": {
+            "label": "Loi n° 2026-667 du 27 juil. 2026 (JO 28/07)",
+            "url": "https://www.legifrance.gouv.fr/eli/loi/2026/7/27/2026-667/jo/texte",
+            "date": "2026-07-27",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Le Conseil constitutionnel a déclaré conforme à la Constitution, sous plusieurs réserves et sans aucune censure, la loi renforçant la sécurité, la rétention administrative et la prévention des risques d'attentat : réserve de non-rétroactivité pour la nouvelle rétention de sûreté terroriste, réserves sur l'impartialité du psychiatre, la motivation et la durée de l'injonction préfectorale d'examen psychiatrique, et réserve sur la transmission au préfet d'informations relatives aux soins sans consentement.",
+          "source": {
+            "label": "n° 2026-906 DC, Loi visant à renforcer la sécurité, la rétention administrative et la …",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054617305",
+            "date": "2026-07-23",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-06-18",
+          "text": "Le juge des référés du Conseil d'État, statuant sur le fondement de l'article L. 521-2 du code de justice administrative, a rejeté l'appel du ministre de l'intérieur et maintenu la suspension d'une mesure individuelle de contrôle administratif et de surveillance visant une mineure, faute de menace d'une particulière gravité actuelle.",
+          "source": {
+            "label": "JRCE (L. 521-2), n° 516360, Ministre de l'intérieur c/ Mme H… et M. I… (MICAS visant une …",
+            "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-06-18/516360",
+            "date": "2026-06-18",
+            "verified": true
+          }
+        },
+        {
+          "date": "2025-12-18",
+          "text": "Le Conseil d'État, saisi pour avis par le Premier ministre le 27 novembre 2025 sur des amendements tirant les conséquences de la censure n° 2025-895 DC, a indiqué que l'allongement de la rétention à 180 ou 210 jours ne peut atteindre l'objectif poursuivi que si elle repose sur le caractère exceptionnel de la prolongation et n'est possible qu'à l'égard d'une personne ayant déjà fait l'objet d'une condamnation pénale définitive pour des faits d'une certaine gravité. Le Conseil d'État suggère de retenir les atteintes aux personnes punies d'au moins trois ans d'emprisonnement. Il revient alors à l'administration d'établir devant le juge une menace d'une particulière gravité, réelle, actuelle et en lien avec la condamnation (point 5).",
+          "source": {
+            "label": "Avis CE, saisine du Premier ministre du 27 nov. 2025 : amendements tirant les …",
+            "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-portant-sur-des-amendements-visant-a-remedier-a-la-censure-par-le-conseil-constitutionnel-de-dispositions-relatives-a-la-retention",
+            "date": "2025-12-18",
+            "verified": true
+          }
+        },
+        {
+          "date": "2025-12-02",
+          "text": "La Cour de cassation (chambre criminelle) a rejeté le pourvoi contre une condamnation à huit mois d'emprisonnement pour apologie publique d'actes de terrorisme, jugeant cette peine non disproportionnée au regard de l'article 10 de la Convention européenne des droits de l'homme compte tenu de circonstances exceptionnelles, et a précisé que l'article 46 § 1 de la Convention ne crée pas de droits invocables par un particulier.",
+          "source": {
+            "label": "Cass. Crim. (plénière de chambre), 2 déc. 2025, n° 24-80.893 (B)",
+            "url": "https://www.courdecassation.fr/decision/692e885715321910675a84d5",
+            "date": "2025-12-02",
+            "verified": true
+          }
+        }
+      ],
+      "axes": [
+        "La dangerosité d'une personne peut-elle justifier une privation de liberté en l'absence d'infraction actuelle ?",
+        "La rétention de sûreté peut-elle être prolongée sans méconnaître l'interdiction d'une application rétroactive ?",
+        "Les mesures de sûreté applicables aux sortants de détention condamnés pour terrorisme respectent-elles le principe de proportionnalité ?",
+        "La compétence d'une juridiction spécialisée pour juger les actes de terrorisme affecte-t-elle les droits de la défense ou de la partie civile ?"
+      ],
+      "positions": [
+        {
+          "id": "A",
+          "claim": "L'allongement de la rétention au-delà de 90 jours (jusqu'à 180 ou 210 jours) n'est admissible au regard de l'article 66 de la Constitution que s'il reste exceptionnel et réservé aux étrangers définitivement condamnés pour des faits d'une certaine gravité (atteintes aux personnes punies d'au moins trois ans), l'administration devant établir une menace d'une particulière gravité, réelle et actuelle.",
+          "holder": "Conseil d'État",
+          "sources": [
+            {
+              "label": "Avis CE, saisine du Premier ministre du 27 nov. 2025 : amendements tirant les …",
+              "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-portant-sur-des-amendements-visant-a-remedier-a-la-censure-par-le-conseil-constitutionnel-de-dispositions-relatives-a-la-retention",
+              "date": "2025-12-18",
+              "verified": true,
+              "note": "attribution vérifiée (passe 2)"
+            }
+          ]
+        }
+      ],
+      "relatedSheets": [],
+      "updatedAt": "2026-09-09"
+    },
+    {
+      "id": "g9-criminalite-organisee-narcotrafic-et-procedures",
+      "code": "G9",
+      "family": "G",
+      "title": "Criminalité organisée, narcotrafic et procédures dérogatoires",
+      "question": "Jusqu'où les procédures dérogatoires peuvent-elles s'étendre ?",
+      "summary": "La question des limites des procédures dérogatoires en matière de criminalité organisée reste posée par la censure d'une peine automatique de confiscation, l'encadrement de la détention provisoire et de la sonorisation, ainsi que par les contrôles juridictionnels et ceux du Contrôleur général des lieux de privation de liberté sur les nouveaux quartiers de lutte contre la criminalité organisée.",
+      "keyTexts": [
+        {
+          "label": "Loi n° 2025-532 du 13 juin 2025 visant à sortir la France du piège du narcotrafic",
+          "verified": true,
+          "verifyNote": "intitulé vérifié (2025-885 DC ; Cass. crim., 9 déc. 2025, n° 25-86.411)"
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC n° 2004-492 DC, 2 mars 2004",
+          "verified": true,
+          "note": "vérifié sur conseil-constitutionnel.fr (passes 1-2)",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2004/2004492DC.htm"
+        },
+        {
+          "reference": "CC n° 2025-885 DC, 12 juin 2025 (loi visant à sortir la France du piège du narcotrafic : non-conformité partielle, notamment art. 5, 15 et 19, et réserves)",
+          "verified": true,
+          "note": "vérifié sur conseil-constitutionnel.fr (passe 1)",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025885DC.htm"
+        }
+      ],
+      "developments": [
+        {
+          "date": "2026-09-03",
+          "text": "Le juge des référés du Conseil d'État, statuant sur le fondement de l'article L. 521-2 du code de justice administrative, a rejeté l'appel du garde des sceaux et maintenu l'injonction du tribunal administratif de Caen de faire cesser les comportements contraires à la déontologie des agents envers les détenus au quartier de lutte contre la criminalité organisée d'Alençon-Condé-sur-Sarthe ; l'appel incident de l'OIP a également été rejeté.",
+          "source": {
+            "label": "JRCE (L. 521-2), n° 518418, Garde des sceaux c/ OIP-SF et autres (QLCO …",
+            "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-09-03/518418",
+            "date": "2026-09-03",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-08-14",
+          "text": "Saisi de la loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens, le Conseil constitutionnel censure le 4° de son article 39, qui aurait interdit de manière systématique toute permission de sortir aux condamnés affectés, sur décision du ministre de la justice, dans un quartier de lutte contre la criminalité organisée (art. 66 de la Constitution, séparation des pouvoirs, individualisation des peines ; § 365-369). Il juge en revanche conformes les dispositions de l'article 706-88-3 CPP (premier alinéa) qui permettent, \"à titre exceptionnel\", une prolongation supplémentaire de vingt-quatre heures de la garde à vue pour les infractions de l'article 706-73-1 CPP, portant sa durée maximale à soixante-douze heures (§ 374-381).",
+          "source": {
+            "label": "n° 2026-915 DC, Loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public…",
+            "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026915DC.htm",
+            "date": "2026-08-14",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-07-09",
+          "text": "Le Contrôleur général des lieux de privation de liberté a publié au Journal officiel du 9 juillet 2026, selon la procédure d'urgence (art. 9 de la loi du 30 octobre 2007), des recommandations relatives au centre pénitentiaire d'Alençon-Condé-sur-Sarthe. Lors de la visite de son quartier de lutte contre la criminalité organisée (4-7 mai 2026), il a constaté des violences commises sur des détenus par des membres du personnel : fouilles humiliantes ou brutales, usage disproportionné de la force, brimades, propos contraires à la loi et à la déontologie.",
+          "source": {
+            "label": "CGLPL, recommandations en urgence (JO 09/07/2026)",
+            "url": "https://www.cglpl.fr/publications/recommandations-en-urgence-relatives-au-centre-penitentiaire-dalencon-conde-sur-sarthe-orne",
+            "date": "2026-07-09",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-05-20",
+          "text": "Le Conseil d'État a jugé que le placement en quartier de lutte contre la criminalité organisée (QLCO) ne fait pas présumer l'urgence en référé-suspension.",
+          "source": {
+            "label": "CE, CHR 10-9, n° 508920, M. B… (B)",
+            "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-05-20/508920",
+            "date": "2026-05-20",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-04-14",
+          "text": "La chambre criminelle de la Cour de cassation casse partiellement l'arrêt de la chambre de l'instruction d'Amiens du 26 septembre 2025, en ses dispositions ayant rejeté la nullité d'une sonorisation, avec renvoi devant la chambre de l'instruction de Douai. Elle juge que le maintien du dispositif de sonorisation au-delà de la durée autorisée, suivi d'une nouvelle mesure, porte nécessairement atteinte au droit au respect de la vie privée. Il n'en va autrement qu'en cas de contraintes techniques ou de sécurité faisant obstacle au retrait, à condition que le dispositif ait été désactivé et que cette désactivation ressorte des pièces de la procédure.",
+          "source": {
+            "label": "Cass. Crim., 14 avr. 2026, n° 25-87.105 (B)",
+            "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000053915887",
+            "date": "2026-04-14",
+            "verified": true,
+            "note": "vérifié sur Légifrance (passe 3) : \"Publié au bulletin\", F-B"
+          }
+        },
+        {
+          "date": "2026-03-13",
+          "text": "Le Conseil constitutionnel a jugé non conforme à la Constitution la peine complémentaire obligatoire de confiscation prévue en matière de trafic de stupéfiants (article 222-49, alinéa 1er, du code pénal), au regard du principe d'individualisation des peines, et a prononcé une abrogation immédiate.",
+          "source": {
+            "label": "n° 2025-1185 QPC, M. Mostafa B.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053678977",
+            "date": "2026-03-13",
+            "verified": true
+          }
+        },
+        {
+          "date": "2025-12-09",
+          "text": "La Cour de cassation, chambre criminelle, a jugé que l'article 145-1-1 du code de procédure pénale (issu de la loi n° 2025-532 du 13 juin 2025) s'applique immédiatement : en matière de bande organisée (peine encourue de dix ans), la prolongation de la détention provisoire ne peut être inférieure à six mois, même sur le seul appel du mis en examen.",
+          "source": {
+            "label": "Cass. Crim., 9 déc. 2025, n° 25-86.411 (B)",
+            "url": "https://www.courdecassation.fr/decision/693a85113e607b3c21140a16",
+            "date": "2025-12-09",
+            "verified": true
+          }
+        }
+      ],
+      "axes": [
+        "Le dossier coffre permet-il de concilier efficacité répressive et droits de la défense ?",
+        "Le statut des repentis doit-il être renforcé face à la criminalité organisée ?",
+        "Les quartiers de lutte contre la criminalité organisée garantissent-ils le respect des droits fondamentaux des détenus ?",
+        "Jusqu'où les procédures dérogatoires applicables à la criminalité organisée peuvent-elles s'étendre ?"
+      ],
+      "positions": [
+        {
+          "id": "A",
+          "claim": "Le CGLPL, saisissant en urgence le ministre de la justice, constate au QLCO d'Alençon-Condé-sur-Sarthe des violences commises par des personnels sur des détenus (fouilles humiliantes ou brutales, usage disproportionné de la force, brimades). Il rappelle que l'administration doit protéger les détenus de toute forme de violence et estime qu'une inspection doit clarifier les responsabilités et prévenir la réitération de ces agissements.",
+          "holder": "CGLPL",
+          "sources": [
+            {
+              "label": "CGLPL, recommandations en urgence (JO 09/07/2026)",
+              "url": "https://www.cglpl.fr/publications/recommandations-en-urgence-relatives-au-centre-penitentiaire-dalencon-conde-sur-sarthe-orne",
+              "date": "2026-07-09",
+              "verified": true,
+              "note": "attribution vérifiée (passe 2)"
+            }
+          ]
+        }
+      ],
+      "relatedSheets": [],
+      "updatedAt": "2026-09-03"
+    },
+    {
+      "id": "g10-presomption-d-innocence",
+      "code": "G10",
+      "family": "G",
+      "title": "Présomption d'innocence",
+      "question": "La présomption d'innocence protège-t-elle aussi contre la condamnation médiatique ?",
+      "summary": "La question de la présomption d'innocence face à la médiatisation revient au grand oral car plusieurs textes et avis récents touchent à l'exécution provisoire des peines, à la notification du droit de se taire et à la compatibilité de nouvelles procédures criminelles avec le procès équitable. Ces évolutions renouvellent le débat sur les garanties entourant une personne mise en cause avant toute condamnation définitive.",
+      "keyTexts": [
+        {
+          "label": "DDHC art. 9",
+          "note": "« Tout homme étant présumé innocent jusqu'à ce qu'il ait été déclaré coupable »",
+          "verified": true,
+          "verifyNote": "vérifié sur conseil-constitutionnel.fr (passe 2)"
+        },
+        {
+          "label": "C. civ. art. 9-1",
+          "note": "« Chacun a droit au respect de la présomption d'innocence. »",
+          "verified": true,
+          "verifyNote": "1re phrase vérifiée sur Légifrance (passe 2)"
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CEDH, 10 févr. 1995, Allenet de Ribemont c. France, n° 15175/89",
+          "principle": "Des déclarations publiques d'agents de l'État affirmant la culpabilité avant condamnation violent l'art. 6 § 2.",
+          "verified": true,
+          "note": "HUDOC : violation de l'art. 6-2 et de l'art. 6-1",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-62470"
+        }
+      ],
+      "developments": [
+        {
+          "date": "2026-03-27",
+          "text": "Le Conseil constitutionnel a jugé que les dispositions de l'article 41-2 du code de procédure pénale relatives à l'information de la personne lors de la proposition de composition pénale (« est informée », « de l'auteur des faits »), faute de prévoir la notification du droit de se taire, « étaient contraires à la Constitution jusqu'au 30 décembre 2021 » et sont conformes « à compter du 31 décembre 2021 », date à laquelle l'article préliminaire du CPP, modifié par la loi du 22 décembre 2021, impose cette notification. Il a en revanche déclaré contraires à la Constitution la septième phrase du 28e alinéa et le début du 29e alinéa de l'article 41-2, faute pour la loi d'interdire, en cas d'échec de la composition pénale, la transmission du procès-verbal à la juridiction de jugement et l'usage devant elle des déclarations faites auparavant. Les dispositions censurées n'étant plus en vigueur, les mesures de composition pénale déjà prises ne peuvent être contestées sur le fondement de cette inconstitutionnalité (§ 27-28).",
+          "source": {
+            "label": "n° 2026-1188 QPC, M. Pierre C.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053915384",
+            "date": "2026-03-27",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-03-12",
+          "text": "Le Conseil d'État (assemblée générale) a rendu un avis sur le projet de loi sur la justice criminelle et le respect des victimes. Il juge que la procédure de « jugement des crimes reconnus » ne porte pas atteinte au principe de publicité des débats (point 10), ne méconnaît pas le droit à un procès équitable et ne porte atteinte ni à la présomption d'innocence ni à l'égalité devant la justice (point 13). Il estime que la cour criminelle départementale, qui peut comprendre au plus deux assesseurs non professionnels, satisfait aux conditions posées par le Conseil constitutionnel à la présence de juges non professionnels dans une formation collégiale.",
+          "source": {
+            "label": "Avis CE (AG), 12 mars 2026, PJL sur la justice criminelle et le respect des victimes",
+            "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-relatif-a-un-projet-de-loi-sur-la-justice-criminelle-et-le-respect-des-victimes",
+            "date": "2026-03-12",
+            "verified": true
+          }
+        },
+        {
+          "date": "2025-12-05",
+          "text": "Le Conseil constitutionnel a jugé conforme à la Constitution, sous réserve, le quatrième alinéa de l'article 471 du code de procédure pénale, qui permet au tribunal correctionnel de déclarer exécutoires par provision les peines alternatives et complémentaires (art. 131-4-1 à 131-11 C. pén.) ainsi que les mesures de personnalisation de la peine (art. 132-25 à 132-70). L'exécution provisoire s'attachant à une sanction prononcée après que la culpabilité a été légalement établie, elle « n'est pas incompatible avec le principe de la présomption d'innocence » (§ 7). Au nom du principe d'individualisation des peines, le juge doit toutefois motiver spécialement le caractère proportionné de l'atteinte qu'elle peut porter à un droit ou une liberté constitutionnellement garanti, au regard des circonstances de l'infraction, de la personnalité de son auteur et de sa situation matérielle, familiale et sociale (§ 13). Cette réserve ne vaut que pour les affaires dont la juridiction est saisie après la publication de la décision (§ 14).",
+          "source": {
+            "label": "n° 2025-1175 QPC, M. Bernard P.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053000369",
+            "date": "2025-12-05",
+            "verified": true
+          }
+        }
+      ],
+      "axes": [
+        "La communication des autorités publiques sur une procédure en cours peut-elle porter atteinte à la présomption d'innocence ?",
+        "L'exécution provisoire d'une peine avant son caractère définitif est-elle compatible avec la présomption d'innocence ?",
+        "Les médias engagent-ils leur responsabilité lorsqu'ils relaient une mise en cause avant jugement ?"
+      ],
+      "positions": [
+        {
+          "id": "A",
+          "claim": "La procédure de « jugement des crimes reconnus » est compatible avec le procès équitable, la présomption d'innocence et la publicité des débats.",
+          "holder": "Conseil d'État",
+          "sources": [
+            {
+              "label": "Avis CE (AG), 12 mars 2026, PJL sur la justice criminelle et le respect des victimes",
+              "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-relatif-a-un-projet-de-loi-sur-la-justice-criminelle-et-le-respect-des-victimes",
+              "date": "2026-03-12",
+              "verified": true,
+              "note": "attribution vérifiée (avis du 12 mars 2026, point 13)"
+            }
+          ]
+        }
+      ],
+      "relatedSheets": [],
+      "updatedAt": "2026-03-27"
+    },
+    {
+      "id": "g11-q2-victimes-dans-le-proces-penal",
+      "code": "G11·Q2",
+      "family": "G",
+      "title": "Victimes dans le procès pénal",
+      "question": "Quelle place pour la victime dans un procès conçu entre l'État et l'accusé ?",
+      "summary": "La place de la victime dans le procès pénal reste une question vive à l'occasion de la loi n° 2026-651 du 23 juillet 2026 sur la justice criminelle et le respect des victimes, de la définition prétorienne de la qualité de victime d'un acte de terrorisme, et de décisions récentes sur l'indemnisation et la protection contre la victimisation secondaire.",
+      "keyTexts": [
+        {
+          "label": "Directive 2012/29/UE du 25 octobre 2012",
+          "note": "« établissant des normes minimales concernant les droits, le soutien et la protection des victimes de la criminalité »",
+          "verified": true,
+          "verifyNote": "intitulé vérifié sur EUR-Lex (passe 3)"
+        },
+        {
+          "label": "CPP art. préliminaire",
+          "note": "II : « L'autorité judiciaire veille à l'information et à la garantie des droits des victimes au cours de toute procédure pénale. »",
+          "verified": true,
+          "verifyNote": "II vérifié sur Légifrance, version en vigueur depuis le 1er mars 2022 (passe 3)"
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CEDH, 28 mai 2015, Y. c. Slovénie, n° 41107/10",
+          "principle": "Protection de la victime contre la victimisation secondaire dans la procédure pénale",
+          "verified": true,
+          "note": "HUDOC : violation de l'art. 3 (volet procédural) et de l'art. 8 (obligations positives)",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-155106"
+        }
+      ],
+      "developments": [
+        {
+          "date": "2026-09-09",
+          "text": "La Cour de cassation (chambre criminelle, formation de section) a jugé que, devant la cour d'assises spécialement composée en matière de terrorisme, la partie civile peut agir pour mettre en mouvement ou corroborer l'action publique, mais que, selon les articles 706-16-1 du CPP et L. 217-6 du COJ, l'action civile tendant à l'indemnisation, y compris pour les infractions de droit commun connexes dont la poursuite a été jointe, relève de la compétence exclusive du tribunal judiciaire de Paris ; la cour d'assises spécialement composée n'a donc pas compétence pour statuer sur l'indemnisation (cassation par voie de retranchement).",
+          "source": {
+            "label": "Cass. Crim., 9 sept. 2026, n° 24-82.682 (B)",
+            "url": "https://www.courdecassation.fr/decision/6aa135ef195da062e0d04926",
+            "date": "2026-09-09",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-07-23",
+          "text": "Le législateur a adopté la loi n° 2026-651 du 23 juillet 2026 sur la justice criminelle et le respect des victimes (JORF n° 0171 du 24 juillet 2026). Par la décision n° 2026-909 DC du 23 juillet 2026, le Conseil constitutionnel l'a déclarée partiellement conforme. Il a censuré, au nom du droit au respect de la vie privée, l'analyse d'une trace génétique pour révéler les caractères morphologiques apparents d'une personne inconnue (« portrait-robot génétique », art. 706-56-1-2 CPP) et la généalogie génétique (art. 706-56-1-3 CPP, avec en outre une incompétence négative). Il a aussi censuré, sur le fondement de l'article 16 de la Déclaration de 1789 (contradictoire), le statut de « psychologue de police judiciaire » (art. 8). Il a validé l'appel limité à certaines peines (art. 380-2-1 B CPP), la composition des cours criminelles départementales, les règles de consultation des fichiers (art. 15-5 CPP) et les nouveaux délais de nullité (art. 173-1 CPP), et a formulé des réserves sur l'article 276-1 CPP (§ 10 et 12) et sur l'article L. 125-2 COJ (§ 68).",
+          "source": {
+            "label": "Loi n° 2026-651 du 23 juil. 2026 (JO 24/07) ; CC n° 2026-909 DC du 23 juil. 2026, …",
+            "url": "https://www.legifrance.gouv.fr/eli/loi/2026/7/23/2026-651/jo/texte",
+            "date": "2026-07-23",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-06-05",
+          "text": "Le Conseil constitutionnel a jugé conforme à la Constitution l'article L. 434-1 du code de la justice pénale des mineurs, relatif à l'indemnisation des victimes d'un mineur pénalement irresponsable faute de discernement, au regard du principe d'égalité entre victimes.",
+          "source": {
+            "label": "n° 2026-1202 QPC, Mme Anaël M.",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054293150",
+            "date": "2026-06-05",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-05-12",
+          "text": "L'Assemblée nationale a adopté en première lecture la proposition de loi garantissant l'information et la protection effective des victimes de violences sexistes et sexuelles lors de la libération de leur agresseur. Le texte crée l'article 10-2-1 du CPP, imposant l'information de la victime au plus tard un mois avant toute libération, même temporaire, de l'auteur d'une infraction visée à l'article 706-47 CPP ou relevant de l'article 132-80 du code pénal, ainsi que l'article 712-16-1-1 du CPP, permettant à la victime de présenter des observations écrites sous 15 jours et assortissant toute décision de libération d'une interdiction de contact, sauf décision spécialement motivée.",
+          "source": {
+            "label": "PPL visant à garantir l'information et la protection effective des victimes de violences …",
+            "url": "https://www.senat.fr/dossier-legislatif/ppl25-619.html",
+            "date": "2026-05-12",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-03-30",
+          "text": "Dans sa décision 2026-061 du 30 mars 2026, la Défenseure des droits retient des manquements déontologiques d'une officière de police judiciaire saisie d'une plainte pour viol. Elle relève l'absence de notification de ses droits à la victime lors d'une confrontation avec le mis en cause (art. R. 434-2 CSI) ainsi que des questions culpabilisantes, attentatoires à sa dignité et véhiculant des stéréotypes sexistes (art. R. 434-10, R. 434-14 et R. 434-20 CSI), et elle demande des poursuites disciplinaires. Elle ne retient pas de manquement pour l'organisation même de la confrontation, mais estime qu'en matière de violences sexuelles elle expose la victime à « un risque de victimisation secondaire » et recommande de n'y recourir qu'en cas de stricte nécessité. Elle constate enfin que l'absence d'information de la victime sur les deux classements sans suite méconnaît l'article 56 de la Convention d'Istanbul et les articles préliminaire et 40-2 du CPP, sans manquement imputable à l'enquêtrice.",
+          "source": {
+            "label": "Défenseure des droits, décision 2026-061 du 30 mars 2026",
+            "url": "https://www.defenseurdesdroits.fr/la-defenseure-des-droits-interroge-la-prise-en-charge-des-victimes-de-violences-sexuelles-par-les",
+            "date": "2026-03-30",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-03-12",
+          "text": "Le Conseil d'État (assemblée générale) a rendu un avis sur le projet de loi sur la justice criminelle et le respect des victimes. Il juge que la procédure de « jugement des crimes reconnus » ne porte pas atteinte au principe de publicité des débats (point 10), ne méconnaît pas le droit à un procès équitable et ne porte atteinte ni à la présomption d'innocence ni à l'égalité devant la justice (point 13). Il estime que la cour criminelle départementale, qui peut comprendre au plus deux assesseurs non professionnels, satisfait aux conditions posées par le Conseil constitutionnel à la présence de juges non professionnels dans une formation collégiale.",
+          "source": {
+            "label": "Avis CE (AG), 12 mars 2026, PJL sur la justice criminelle et le respect des victimes",
+            "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-relatif-a-un-projet-de-loi-sur-la-justice-criminelle-et-le-respect-des-victimes",
+            "date": "2026-03-12",
+            "verified": true
+          }
+        },
+        {
+          "date": "2025-11-28",
+          "text": "La Cour de cassation (assemblée plénière) a défini la notion de « victime d'un acte de terrorisme » (art. L. 126-1 du code des assurances, art. 2 CPP) : est victime la personne directement exposée à un péril objectif de mort ou d'atteinte corporelle, ou celle qui, à proximité et consciente d'une action visant à tuer indistinctement, a pu légitimement se croire exposée. Elle a cassé la décision concernant une riveraine cachée dans son appartement situé face aux fenêtres d'où tiraient les terroristes.",
+          "source": {
+            "label": "Cass. Ass. plén., 28 nov. 2025, n° 24-12.555 (B+R)",
+            "url": "https://www.courdecassation.fr/decision/69293ea9b3dd52896a6ece28",
+            "date": "2025-11-28",
+            "verified": true
+          }
+        }
+      ],
+      "axes": [
+        "La victime doit-elle disposer d'un statut autonome face à l'État et à l'accusé dans le procès pénal ?",
+        "Comment prévenir la victimisation secondaire dans la prise en charge judiciaire et policière des victimes ?",
+        "Quelle articulation entre reconnaissance de la qualité de victime et indemnisation, notamment en matière de terrorisme ?",
+        "Quelle place procédurale pour la partie civile devant les juridictions spécialisées en matière de terrorisme ?"
+      ],
+      "positions": [
+        {
+          "id": "A",
+          "claim": "La Défenseure des droits retient des manquements déontologiques d'une officière de police judiciaire dans le traitement d'une plainte pour viol : droits de la victime non notifiés lors de la confrontation, questions culpabilisantes et sexistes. Elle estime que les confrontations en matière de violences sexuelles exposent les victimes à un risque de victimisation secondaire et recommande d'en limiter l'usage.",
+          "holder": "Défenseur des droits",
+          "sources": [
+            {
+              "label": "Défenseure des droits, décision 2026-061 du 30 mars 2026",
+              "url": "https://www.defenseurdesdroits.fr/la-defenseure-des-droits-interroge-la-prise-en-charge-des-victimes-de-violences-sexuelles-par-les",
+              "date": "2026-03-30",
+              "verified": true,
+              "note": "attribution vérifiée (passe 1)"
+            }
+          ]
+        }
+      ],
+      "relatedSheets": [],
+      "updatedAt": "2026-09-09"
+    },
+    {
+      "id": "f1-mesures-de-police-restreignant-la-liberte",
+      "code": "F1",
+      "family": "F",
+      "title": "Mesures de police restreignant la liberté d'aller et venir",
+      "question": "Les couvre-feux, MICAS et interdictions de paraître sont-ils devenus des outils ordinaires ?",
+      "summary": "La question revient parce que plusieurs lois récentes (loi relative à l'organisation des JOP 2030, loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public) créent ou étendent des mesures de police restreignant la liberté d'aller et venir, notamment des interdictions de paraître, et parce que le Conseil d'État, dans son avis du 19 mars 2026, a alerté sur la multiplication de ces mesures. La Défenseure des droits y a, de son côté, vu une « juxtaposition de mesures susceptibles de porter atteinte aux libertés fondamentales ». Le Conseil constitutionnel les valide pour l'essentiel, sous réserves. Le juge des référés du Conseil d'État a suspendu un couvre-feu de mineurs et refusé de rétablir une MICAS visant une mineure, ce qui interroge sur le caractère encore exceptionnel de ces outils.",
+      "keyTexts": [
+        {
+          "label": "CEDH Prot. 4 art. 2",
+          "note": "« Quiconque se trouve régulièrement sur le territoire d'un État a le droit d'y circuler librement et d'y choisir librement sa résidence » (§ 1) ; restrictions possibles si « prévues par la loi » et « nécessaires, dans une société démocratique » (§ 3)",
+          "verified": true,
+          "verifyNote": "vérifié sur le texte officiel de la Convention, echr.coe.int (passe 3)"
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC, n° 2017-691 QPC, 16 févr. 2018, M. Farouk B.",
+          "principle": "Non-conformité partielle de l'art. L. 228-2 CSI (MICAS, obligation de ne pas quitter un périmètre) : censure du délai de recours d'un mois, du délai de jugement de deux mois (§ 18) et de la limitation au seul référé-liberté du recours contre le renouvellement (mots « sur le fondement de l'article L. 521-2 du code de justice administrative », § 19). Le reste est conforme sous deux réserves : la mesure ne peut excéder, de manière continue ou non, une durée totale cumulée de douze mois (§ 17), et le juge administratif doit statuer sur la demande d'annulation « dans de brefs délais » (§ 18).",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2018/2017691QPC.htm",
+          "verified": true,
+          "note": "vérifié sur conseil-constitutionnel.fr (passe 1)"
+        },
+        {
+          "reference": "CE, ord. réf., 9 juill. 2001, n° 235638 (Lebon)",
+          "principle": "Couvre-feu des mineurs de moins de treize ans (arrêté du maire d'Orléans) : « La légalité de mesures restreignant à cette fin la liberté de circulation des mineurs est toutefois subordonnée à la double condition qu'elles soient justifiées par l'existence de risques particuliers dans les secteurs pour lesquels elles sont édictées et qu'elles soient adaptées par leur contenu à l'objectif de protection pris en compte. »",
+          "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000008018956",
+          "verified": true,
+          "note": "principe vérifié sur l'analyse publiée sur Légifrance (passe 3) ; texte intégral de l'ordonnance non affiché"
+        }
+      ],
+      "developments": [
+        {
+          "date": "2026-08-26",
+          "text": "Le juge des référés du Conseil d'État (art. L. 521-2 CJA) a annulé l'ordonnance du tribunal administratif de Limoges et suspendu l'arrêté du maire d'Oradour-sur-Glane instituant, du 17 au 31 août 2026, un couvre-feu de 23 heures à 6 heures pour tous les mineurs non accompagnés. Malgré des nuisances répétées et l'absence de police municipale, l'instruction n'établissait pas « des éléments précis, circonstanciés et antérieurs » caractérisant des troubles à l'ordre public causés ou subis par des mineurs. Compte tenu de sa portée générale (tous les mineurs, tout le territoire communal), la mesure n'était ni nécessaire, ni adaptée, ni proportionnée.",
+          "source": {
+            "label": "JRCE (L. 521-2), n° 518980, Vigie Liberté c/ Commune d'Oradour-sur-Glane",
+            "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-08-26/518980",
+            "date": "2026-08-26",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-08-14",
+          "text": "Par la décision n° 2026-915 DC du 14 août 2026, le Conseil constitutionnel a déclaré partiellement conforme la loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens, promulguée le 18 août 2026 (loi n° 2026-798, JORF du 19 août). Il a notamment censuré la fermeture administrative des établissements commercialisant des produits explosifs, articles pyrotechniques ou précurseurs d'explosifs (art. 1er, I : atteinte manifestement disproportionnée à la liberté d'entreprendre), l'amende forfaitaire pour certains délits relatifs aux articles pyrotechniques (égalité devant la justice), la destruction des véhicules de rodéo saisis sans délai pour le propriétaire (droit de propriété), l'interdiction systématique des permissions de sortir en quartier à régime particulier (art. 39, 4°) et la délégation à des agents privés de prérogatives de police (art. 47, II). Il a validé sous réserves l'interdiction de paraître liée aux manifestations sportives (art. L. 332-16-1 A du code du sport, § 158-159 : l'autorité administrative doit tenir compte de la vie familiale et professionnelle et s'assurer, sous le contrôle du juge, que l'interdiction, limitée par la loi à vingt-quatre heures, n'excède pas la rigueur nécessaire compte tenu des précédentes mesures et de leur nombre) ainsi que la procédure d'urgence pour les caméras aéroportées (drones, § 392 : durée maximale de soixante-douze heures, courant dès la délivrance de l'autorisation et strictement proportionnée à la finalité).",
+          "source": {
+            "label": "Loi n° 2026-798 du 18 août 2026 (JO 19/08) ; CC n° 2026-915 DC du 14 août 2026, …",
+            "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026915DC.htm",
+            "date": "2026-08-14",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-07-01",
+          "text": "La Cour de cassation a jugé que l'interdiction de sortie du territoire de l'enfant peut ne viser que le parent qui risque de rompre les liens avec l'autre, au visa de l'article 373-2-6 du code civil, de l'article 8 de la Convention européenne des droits de l'homme et de l'article 2 du Protocole n° 4.",
+          "source": {
+            "label": "Cass. Civ. 1, 1er juill. 2026, n° 25-21.064 (FS-B), cassation partielle",
+            "url": "https://www.courdecassation.fr/decision/6a44aeb6cdc6046d476bb63a",
+            "date": "2026-07-01",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-06-18",
+          "text": "Le juge des référés du Conseil d'État a rejeté l'appel du ministre de l'intérieur contre l'ordonnance du tribunal administratif d'Amiens qui avait suspendu une mesure individuelle de contrôle administratif et de surveillance (MICAS) visant une mineure de 15 ans. La menace d'une particulière gravité n'était pas caractérisée : les constats dataient de plusieurs mois, l'intéressée avait été relaxée du chef d'apologie du terrorisme, les rapports relevaient une prise de distance et l'absence d'idéologie, et il n'était pas établi que les contacts maintenus avec la personne en cause résultaient de son initiative.",
+          "source": {
+            "label": "JRCE (L. 521-2), n° 516360, Ministre de l'intérieur c/ Mme H… et M. I… (MICAS visant une …",
+            "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-06-18/516360",
+            "date": "2026-06-18",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-06-16",
+          "text": "La Défenseure des droits, dans son avis 26-04, voit dans le projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public une « juxtaposition de mesures susceptibles de porter atteinte aux libertés fondamentales » et alerte sur l'extension de l'amende forfaitaire délictuelle à de nouveaux délits ; elle rappelle les exigences de clarté, de nécessité et de proportionnalité.",
+          "source": {
+            "label": "DDD, avis 26-04",
+            "url": "https://www.defenseurdesdroits.fr/avis-sur-le-projet-de-loi-visant-offrir-des-reponses-immediates-aux-phenomenes-troublant-lordre",
+            "date": "2026-06-16",
+            "verified": true,
+            "note": "Avis 26-04 du 16 juin 2026, mis en ligne le 22 juin 2026"
+          }
+        },
+        {
+          "date": "2026-03-19",
+          "text": "Le Conseil constitutionnel a déclaré conforme à la Constitution, sous les réserves des § 171 et 173, l'interdiction de paraître dans des lieux déterminés prévue par le nouvel article L. 226-2 du code de la sécurité intérieure (art. 46 de la loi relative à l'organisation des JOP 2030). L'autorité administrative doit s'assurer, sous le contrôle du juge, que l'interdiction « n'excède pas la rigueur nécessaire, compte tenu… des précédentes mesures… et de leur durée cumulée ». Cumulée avec des mesures prises sur le fondement des art. L. 228-2 et L. 228-4 CSI (MICAS), elle ne peut excéder « une durée totale cumulée de douze mois ». Le Conseil a également jugé conformes l'extension de l'expérimentation des traitements algorithmiques de vidéoprotection (art. 47), les enquêtes administratives (art. 45) et les dérogations au repos dominical (art. 42). Aucune disposition n'a été censurée.",
+          "source": {
+            "label": "n° 2026-902 DC, Loi relative à l'organisation des JOP 2030",
+            "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053915397",
+            "date": "2026-03-19",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-03-19",
+          "text": "Le Conseil d'État, dans son avis sur le projet de loi renforçant la sécurité du quotidien, a alerté sur la multiplication des mesures de police restreignant significativement les libertés. Il a écarté un régime de fermeture administrative des commerces, jugé disproportionné pour la liberté d'entreprendre, et a appelé à unifier le régime des caméras.",
+          "source": {
+            "label": "Avis CE sur le PJL « renforçant la sécurité du quotidien »",
+            "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-sur-un-projet-de-loi-renforcant-la-securite-du-quotidien",
+            "date": "2026-03-19",
+            "verified": true
+          }
+        }
+      ],
+      "axes": [
+        "Les mesures de police administrative préventive (MICAS, interdictions de paraître, couvre-feux) restent-elles l'exception ou deviennent-elles un instrument ordinaire de maintien de l'ordre ?",
+        "Le régime applicable aux mineurs justifie-t-il un encadrement spécifique des mesures de police restreignant la liberté d'aller et venir ?",
+        "Le contrôle du juge administratif, notamment en référé-liberté, garantit-il une protection suffisante contre les mesures disproportionnées ?",
+        "La multiplication des lois sécuritaires récentes traduit-elle une banalisation des atteintes à la liberté de circulation ?"
+      ],
+      "positions": [
+        {
+          "id": "A",
+          "claim": "Il alerte sur la multiplication des mesures de police restreignant significativement les libertés et appelle à unifier le régime des caméras.",
+          "holder": "Conseil d'État",
+          "sources": [
+            {
+              "label": "Avis CE sur le PJL « renforçant la sécurité du quotidien »",
+              "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-sur-un-projet-de-loi-renforcant-la-securite-du-quotidien",
+              "date": "2026-03-19",
+              "verified": true,
+              "note": "attribution vérifiée (avis du 19 mars 2026)"
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "Elle voit dans le projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public une « juxtaposition de mesures susceptibles de porter atteinte aux libertés fondamentales » et rappelle les exigences de clarté, de nécessité et de proportionnalité.",
+          "holder": "Défenseure des droits",
+          "sources": [
+            {
+              "label": "DDD, avis 26-04",
+              "url": "https://www.defenseurdesdroits.fr/avis-sur-le-projet-de-loi-visant-offrir-des-reponses-immediates-aux-phenomenes-troublant-lordre",
+              "date": "2026-06-16",
+              "verified": true,
+              "note": "Avis 26-04 du 16 juin 2026 (mis en ligne le 22 juin 2026) ; attribution vérifiée (Claire Hédon)"
+            }
+          ]
+        }
+      ],
+      "relatedSheets": [
+        "2026-couvre-feu-mineurs-oradour"
+      ],
+      "updatedAt": "2026-08-26"
+    }
   ]
 }
