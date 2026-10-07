@@ -1,8 +1,606 @@
 {
   "schemaVersion": 1,
-  "weekOf": "2026-09-28",
-  "generatedAt": "2026-10-01T11:20:22.563Z",
+  "weekOf": "2026-10-05",
+  "generatedAt": "2026-10-07T14:22:30.797Z",
   "sheets": [
+    {
+      "id": "2026-casseurs-payeurs-et-responsabilite-collective",
+      "question": "Le projet de loi « casseurs-payeurs », qui fait payer solidairement les membres d'un groupement violent, est-il compatible avec la liberté de manifester et le principe de responsabilité personnelle ?",
+      "shortTitle": "Casseurs-payeurs et responsabilité collective",
+      "tag": "Réunion · manifestation",
+      "liberties": [
+        "reunion",
+        "propriete",
+        "droit-au-juge",
+        "enfant",
+        "egalite"
+      ],
+      "controversial": true,
+      "addedAt": "2026-10-07",
+      "updatedAt": "2026-10-07",
+      "keyEvent": {
+        "label": "Examen au Sénat (1re lecture)",
+        "date": "2026-10-27"
+      },
+      "rights": {
+        "summary": "Liberté de manifester rattachée à la liberté d'expression collective des idées et des opinions (art. 11 DDHC) et à la liberté d'aller et venir · droit de propriété garanti par l'article 17 DDHC · principe de responsabilité civile personnelle (art. 1240 C. civ.) mis en tension avec une responsabilité de groupe · responsabilité civile des parents du fait de leur enfant mineur (art. 1242 C. civ.).",
+        "instruments": [
+          "Projet de loi n° 952 (2025-2026) relatif à la réparation des dommages résultant de violences ou de dégradations commises dans l'espace public et au recouvrement des dommages et intérêts, dit « casseurs-payeurs » : avis du Conseil d'État du 3 septembre 2026, Conseil des ministres et dépôt au Sénat le 16 septembre 2026 (procédure accélérée), séance publique au Sénat à partir du 27 octobre 2026",
+          "Code de la sécurité intérieure, art. L. 211-9 (sommations) et nouvel art. L. 211-9-1 (art. 1er du projet : responsabilité solidaire dans la limite de 10 000 euros)",
+          "Code civil, art. 1240 (responsabilité du fait personnel) et art. 1242 (responsabilité de plein droit des parents, modifié par la loi n° 2025-568 du 23 juin 2025)",
+          "Code des assurances, art. L. 121-8 (exclusion des émeutes et mouvements populaires, sauf convention contraire)"
+        ]
+      },
+      "facts": {
+        "text": "Après les violences qui ont suivi la victoire du PSG en Ligue des champions, le 30 mai 2026, le gouvernement a préparé un projet de loi dit « casseurs-payeurs ». Soumis au Conseil d'État, qui a rendu son avis le 3 septembre 2026, il a été présenté en Conseil des ministres et déposé au Sénat le 16 septembre 2026, en procédure accélérée. Son article 1er crée un article L. 211-9-1 du code de la sécurité intérieure : toute personne ayant participé sciemment à un groupement en vue de commettre des violences, des vols ou des dégradations, ou ayant continué volontairement à participer à un attroupement malgré les sommations alors qu'elle avait connaissance des violences ou dégradations en cours, est tenue solidairement à la réparation des dommages, dans la limite de 10 000 euros, même si elle n'en est pas l'autrice. Le Sénat doit l'examiner en séance à partir du 27 octobre 2026, en plein mouvement lycéen marqué par des dégradations. Pour les mineurs, la question se déplace vers leurs parents, responsables de plein droit (art. 1242 du code civil), alors que l'assurance ne couvre pas, sauf convention contraire, les dommages causés par des émeutes ou des mouvements populaires (art. L. 121-8 du code des assurances).",
+        "sources": [
+          {
+            "label": "Sénat — Dossier législatif du projet de loi n° 952 (2025-2026)",
+            "url": "https://www.senat.fr/dossier-legislatif/pjl25-952.html",
+            "date": "2026-09-16",
+            "verified": true
+          },
+          {
+            "label": "Brut — Le projet de loi « casseurs-payeurs » présenté en Conseil des ministres",
+            "url": "https://www.brut.media/fr/articles/le-projet-de-loi-casseurs-payeurs-presente-en-conseil-des-ministres",
+            "date": "2026-09-16",
+            "verified": true
+          },
+          {
+            "label": "Public Sénat — Nouvelle loi « casseurs-payeurs » : un effet d’annonce ou un nouveau régime…",
+            "url": "https://www.publicsenat.fr/actualites/politique/nouvelle-loi-casseurs-payeurs-un-effet-dannonce-ou-un-nouveau-regime-juridique-de-responsabilite-civile",
+            "date": "2026-10-05",
+            "verified": true
+          },
+          {
+            "label": "Public Sénat — Loi « casseurs-payeurs » : « Si les élèves doivent payer toute leur vie, ça me…",
+            "url": "https://www.publicsenat.fr/actualites/politique/loi-casseurs-payeurs-si-les-eleves-doivent-payer-toute-leur-vie-ca-me-va-indique-edwige-diaz-rn",
+            "date": "2026-10-06",
+            "verified": true
+          },
+          {
+            "label": "Club des juristes — Lycées dégradés : quand les parents doivent-ils payer pour leur enfant ?",
+            "url": "https://www.leclubdesjuristes.com/justice/lycees-degrades-quand-les-parents-doivent-ils-payer-pour-leur-enfant-17693/",
+            "date": "2026-10-07",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "« Quand on casse, on doit en payer les conséquences » : « ceux qui viennent en groupe pour commettre des violences ou des dégradations devront payer jusqu'à 10 000 euros de réparation ».",
+          "holder": "Sébastien Lecornu, Premier ministre (16 septembre 2026)",
+          "sources": [
+            {
+              "label": "Brut — Le projet de loi « casseurs-payeurs » présenté en Conseil des ministres",
+              "url": "https://www.brut.media/fr/articles/le-projet-de-loi-casseurs-payeurs-presente-en-conseil-des-ministres",
+              "date": "2026-09-16",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "« Bloquer, casser, brûler, ce n'est pas une solution. Ce n'est pas aux contribuables de payer. » « Si les élèves doivent payer toute leur vie, ça me va, au moins ça leur servira de leçon. » Elle soutient les revendications des lycéens « mais pas la récupération politique de La France insoumise ».",
+          "holder": "Edwige Diaz, sénatrice RN (Public Sénat, « Bonjour chez vous », 6 octobre 2026)",
+          "sources": [
+            {
+              "label": "Public Sénat — Loi « casseurs-payeurs » : « Si les élèves doivent payer toute leur vie, ça me…",
+              "url": "https://www.publicsenat.fr/actualites/politique/loi-casseurs-payeurs-si-les-eleves-doivent-payer-toute-leur-vie-ca-me-va-indique-edwige-diaz-rn",
+              "date": "2026-10-06",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "Le texte risque de rester un « affichage politique » : « il est probable que le texte devienne lettre morte » (Nicolas Hervieu) ; pour Olivier Cahn, l'avis du Conseil d'État est « très surprenant » car le dispositif crée une « responsabilité civile objective ».",
+          "holder": "Nicolas Hervieu et Olivier Cahn, juristes cités par Public Sénat",
+          "sources": [
+            {
+              "label": "Public Sénat — Nouvelle loi « casseurs-payeurs » : un effet d'annonce ou un nouveau régime juridique de responsabilité civile ?",
+              "url": "https://www.publicsenat.fr/actualites/politique/nouvelle-loi-casseurs-payeurs-un-effet-dannonce-ou-un-nouveau-regime-juridique-de-responsabilite-civile",
+              "date": "2026-10-05",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "D",
+          "claim": "Le projet « entend étendre la responsabilité civile à certaines personnes ayant participé sciemment à un groupement au sein duquel des dégradations ont été commises » ; son adoption « modifierait ainsi sensiblement la situation des parents de mineurs impliqués dans des dégradations collectives », alors que l'assureur ne répond pas, sauf convention contraire, des dommages causés par des émeutes ou des mouvements populaires (art. L. 121-8 du code des assurances).",
+          "holder": "Amandine Cayol, professeure à l'université de Caen (Club des juristes, 7 octobre 2026)",
+          "sources": [
+            {
+              "label": "Club des juristes — Lycées dégradés : quand les parents doivent-ils payer pour leur enfant ?",
+              "url": "https://www.leclubdesjuristes.com/justice/lycees-degrades-quand-les-parents-doivent-ils-payer-pour-leur-enfant-17693/",
+              "date": "2026-10-07",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC, n° 2019-780 DC, 4 avril 2019 (loi visant à renforcer et garantir le maintien de l'ordre public lors des manifestations, dite « loi anticasseurs »)",
+          "principle": "Le Conseil constitutionnel censure l'interdiction administrative de manifester (art. 3 de la loi) : faute d'exiger un lien avec des atteintes graves à l'intégrité physique ou des dommages importants aux biens, et vu l'étendue des interdictions possibles, le législateur a porté au droit d'expression collective des idées et des opinions une atteinte qui n'est pas adaptée, nécessaire et proportionnée. Il valide les fouilles (art. 2) et le délit de dissimulation du visage (art. 6).",
+          "verified": true,
+          "url": "https://www.conseil-constitutionnel.fr/decision/2019/2019780DC.htm"
+        },
+        {
+          "reference": "CC, n° 82-144 DC, 22 octobre 1982 (loi relative au développement des institutions représentatives du personnel)",
+          "principle": "« Nul n'ayant le droit de nuire à autrui, en principe tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé, à le réparer » : le Conseil censure l'immunité civile des grévistes et des syndicats, qui privait les victimes de toute réparation. Repère pour discuter une responsabilité fondée sur la seule participation à un groupement.",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1982/82144DC.htm",
+          "verified": true
+        }
+      ],
+      "decide": [
+        "Une responsabilité financière fondée sur la seule appartenance à un groupement est-elle compatible avec le principe de responsabilité civile personnelle ?",
+        "Les parents d'un mineur, responsables de plein droit (art. 1242 du code civil) mais rarement assurés pour les émeutes, peuvent-ils supporter une dette solidaire plafonnée à 10 000 euros par participant ?",
+        "L'encadrement proposé par le Conseil d'État suffit-il à écarter le risque de censure du Conseil constitutionnel ?"
+      ],
+      "jury": [
+        {
+          "question": "Comment distinguer, juridiquement, la responsabilité individuelle de l'auteur d'une dégradation et la responsabilité collective visée par ce texte ?"
+        },
+        {
+          "question": "Que répondez-vous à l'argument selon lequel ce texte créerait une « usine à contentieux » ?"
+        },
+        {
+          "question": "Quelles garanties l'avis du Conseil d'État a-t-il ajoutées pour éviter une censure du Conseil constitutionnel ?"
+        },
+        {
+          "question": "Vous défendez une personne restée dans un attroupement après les sommations : comment contestez-vous qu'elle avait « connaissance » des violences en cours ?"
+        },
+        {
+          "question": "En quoi la jurisprudence de 2019 sur la loi anticasseurs peut-elle éclairer l'examen de ce nouveau texte ?"
+        }
+      ],
+      "listen": []
+    },
+    {
+      "id": "2026-unites-specialisees-vss-police",
+      "question": "Faut-il créer des unités de police judiciaire spécialisées pour lutter contre les classements sans suite des plaintes pour violences sexuelles ?",
+      "shortTitle": "Unités spécialisées VSS police",
+      "tag": "Égalité · violences sexuelles",
+      "liberties": [
+        "egalite",
+        "droit-au-juge",
+        "surete"
+      ],
+      "controversial": true,
+      "addedAt": "2026-10-07",
+      "updatedAt": "2026-10-07",
+      "keyEvent": {
+        "label": "Adoption de l'article 3 (Assemblée, 1re lecture)",
+        "date": "2026-10-05"
+      },
+      "rights": {
+        "summary": "Droit au recours effectif et accès au juge pour les victimes d'infractions · égalité devant la loi et la justice (art. 6 et 16 DDHC) · effectivité de la réponse pénale face aux violences sexuelles, en tension avec l'organisation des services d'enquête relevant du pouvoir exécutif.",
+        "instruments": [
+          "Proposition de loi n° 3106 apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants, art. 3 (unités et services spécialisés de police judiciaire) ; texte de la commission spéciale n° 3190 ; séance publique depuis le 1er octobre 2026, article 3 adopté dans la nuit du 5 au 6 octobre"
+        ]
+      },
+      "facts": {
+        "text": "Dans la nuit du lundi 5 au mardi 6 octobre 2026, l'Assemblée nationale adopte en première lecture l'article 3 de la proposition de loi « intégrale » contre les violences sexuelles et sexistes (n° 3106), qui crée des unités et services spécialisés de police judiciaire chargés de recueillir les plaintes et de mener les enquêtes, pour réduire les classements sans suite. Laurent Nuñez, ministre de l'Intérieur, avait déposé un amendement de suppression, jugeant la mesure contre-productive et impossible à pourvoir (12 500 enquêteurs, environ 1,7 milliard d'euros) ; il est rejeté à l'unanimité moins deux voix. L'article est toutefois amoindri par un amendement de Laure Miller (Ensemble pour la République) : la méconnaissance de l'obligation de saisir ces services « ne pourra pas constituer une cause de nullité de la procédure ». L'examen du texte se poursuit ; ce n'est pas encore une loi.",
+        "sources": [
+          {
+            "label": "Club des juristes — Loi intégrale VSS : adoption de la création d’unités spécialisées au sein de la…",
+            "url": "https://www.leclubdesjuristes.com/en-bref/loi-integrale-vss-adoption-de-la-creation-dunites-specialisees-au-sein-de-la-police-17674/",
+            "date": "2026-10-06",
+            "verified": true
+          },
+          {
+            "label": "LCP — Loi intégrale : l'article sur les unités spécialisées au sein de la police judiciaire adopté, dans une version amoindrie, par l'Assemblée",
+            "url": "https://lcp.fr/actualites/loi-integrale-l-article-sur-les-unites-specialisees-au-sein-de-la-police-judiciaire",
+            "date": "2026-10-06",
+            "verified": true
+          },
+          {
+            "label": "Assemblée nationale — Compte rendu de la deuxième séance du lundi 5 octobre 2026",
+            "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-lundi-05-octobre-2026",
+            "date": "2026-10-05",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "L'article 3 crée des unités et services spécialisés de police judiciaire, formés, chargés de recueillir les plaintes des victimes de violences sexuelles, sexistes et intrafamiliales et de conduire les enquêtes ; les députés rejettent la suppression demandée par le gouvernement à l'unanimité moins deux voix et adoptent l'article à la quasi-unanimité.",
+          "holder": "Les auteurs de la proposition de loi (rapporteure générale Céline Thiébault-Martinez) et la quasi-totalité des députés",
+          "sources": [
+            {
+              "label": "LCP — Loi intégrale : l'article sur les unités spécialisées au sein de la police judiciaire adopté, dans une version amoindrie, par l'Assemblée",
+              "url": "https://lcp.fr/actualites/loi-integrale-l-article-sur-les-unites-specialisees-au-sein-de-la-police-judiciaire",
+              "date": "2026-10-06",
+              "verified": true
+            },
+            {
+              "label": "Assemblée nationale — Compte rendu de la deuxième séance du lundi 5 octobre 2026",
+              "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-lundi-05-octobre-2026",
+              "date": "2026-10-05",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "La mesure « risquerait de se révéler contre-productive » : généraliser les unités spécialisées supposerait « de dégager 12 500 enquêteurs, pour un coût qui avoisine 1,7 milliard » ; le gouvernement demande la suppression de l'article (amendement n° 1215, rejeté).",
+          "holder": "Laurent Nuñez, ministre de l'Intérieur (séance du 5 octobre 2026)",
+          "sources": [
+            {
+              "label": "LCP — Loi intégrale : l'article sur les unités spécialisées au sein de la police judiciaire adopté, dans une version amoindrie, par l'Assemblée",
+              "url": "https://lcp.fr/actualites/loi-integrale-l-article-sur-les-unites-specialisees-au-sein-de-la-police-judiciaire",
+              "date": "2026-10-06",
+              "verified": true
+            },
+            {
+              "label": "Assemblée nationale — Compte rendu de la deuxième séance du lundi 5 octobre 2026",
+              "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-lundi-05-octobre-2026",
+              "date": "2026-10-05",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "La méconnaissance de l'obligation de saisir les services spécialisés « ne pourra pas constituer une cause de nullité de la procédure » : sans cette précision, « l'ensemble de la procédure pénale pourrait être fragilisée ». LCP et le Club des juristes y voient un article « amoindri », « partiellement vidé de sa substance ».",
+          "holder": "Laure Miller, députée Ensemble pour la République, autrice de l'amendement",
+          "sources": [
+            {
+              "label": "LCP — Loi intégrale : l'article sur les unités spécialisées au sein de la police judiciaire adopté, dans une version amoindrie, par l'Assemblée",
+              "url": "https://lcp.fr/actualites/loi-integrale-l-article-sur-les-unites-specialisees-au-sein-de-la-police-judiciaire",
+              "date": "2026-10-06",
+              "verified": true
+            },
+            {
+              "label": "Club des juristes — Loi intégrale VSS : adoption de la création d’unités spécialisées au sein de la…",
+              "url": "https://www.leclubdesjuristes.com/en-bref/loi-integrale-vss-adoption-de-la-creation-dunites-specialisees-au-sein-de-la-police-17674/",
+              "date": "2026-10-06",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CEDH, M.C. c. Bulgarie, n° 39272/98, 4 décembre 2003",
+          "principle": "Violation des articles 3 et 8 : les États ont l'obligation positive d'adopter des dispositions pénales réprimant effectivement le viol et de les appliquer par une enquête et des poursuites effectives ; fondement conventionnel de l'exigence d'effectivité des enquêtes sur les violences sexuelles.",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-66079",
+          "verified": true
+        }
+      ],
+      "decide": [
+        "Le Parlement peut-il imposer une réforme de l'organisation des services de police contre l'avis de l'exécutif qui en a la charge opérationnelle ?",
+        "La spécialisation des enquêteurs suffit-elle à réduire les classements sans suite, ou faut-il d'autres leviers (moyens, formation, magistrats) ?",
+        "Sans nullité en cas de non-saisine des unités spécialisées, l'obligation reste-t-elle effective pour les victimes ?"
+      ],
+      "jury": [
+        {
+          "question": "Qu'est-ce qu'un classement sans suite et quelles voies de recours existent aujourd'hui pour la victime (plainte avec constitution de partie civile, citation directe) ?"
+        },
+        {
+          "question": "Le gouvernement peut-il refuser de mettre en œuvre une mesure votée par les députés si elle ne lui paraît pas opérationnelle ?"
+        },
+        {
+          "question": "Vous conseillez une victime dont la plainte a été classée sans suite : quelles démarches lui proposez-vous ?"
+        },
+        {
+          "question": "En quoi consiste concrètement une unité de police judiciaire spécialisée, et quels moyens suppose-t-elle ?"
+        }
+      ],
+      "listen": []
+    },
+    {
+      "id": "2026-reserve-des-magistrats-et-lyceens",
+      "question": "Un magistrat porte-t-il atteinte à son devoir de réserve en exprimant publiquement une opinion critique sur la répression du mouvement lycéen ?",
+      "shortTitle": "Réserve des magistrats et lycéens",
+      "tag": "Expression · déontologie des magistrats",
+      "liberties": [
+        "expression",
+        "droit-au-juge",
+        "reunion"
+      ],
+      "controversial": true,
+      "addedAt": "2026-10-07",
+      "updatedAt": "2026-10-07",
+      "keyEvent": {
+        "label": "Avis du Collège de déontologie (diffusion)",
+        "date": "2026-10-05"
+      },
+      "rights": {
+        "summary": "Liberté d'expression du magistrat, fondée notamment sur l'art. 11 DDHC et l'art. 10 CEDH, mise en balance avec le devoir de réserve et l'exigence d'impartialité attachés à la fonction juridictionnelle ; la question porte sur la limite entre expression syndicale ou associative et prise de position partisane susceptible d'affecter l'image de neutralité de la justice.",
+        "instruments": [
+          "Ordonnance n° 58-1270 du 22 décembre 1958, art. 10 : interdiction aux magistrats de « toute démonstration de nature politique incompatible avec la réserve que leur imposent leurs fonctions » ; leur expression publique ne doit porter atteinte ni à l'exercice impartial de leurs fonctions ni à l'indépendance de la justice (rédaction en vigueur depuis le 30 juin 2024)",
+          "Avis du Conseil supérieur de la magistrature du 13 décembre 2023 sur la liberté d'expression des magistrats : le droit syndical confère « un droit d'expression plus étendu encore que celui qui résulte du droit commun », y compris « la possibilité d'adopter un ton polémique »",
+          "Convention européenne des droits de l'homme, art. 10"
+        ]
+      },
+      "facts": {
+        "text": "Le vendredi 2 octobre 2026, le Syndicat de la magistrature, deuxième syndicat de magistrats, publie un communiqué intitulé « Cessons de réprimer la jeunesse pour la faire taire » : il dénonce la « réponse brutale » du gouvernement au mouvement lycéen, l'usage d'« armes sublétales mutilantes » et la dépêche du garde des Sceaux Gérald Darmanin enjoignant aux procureurs « de faire preuve de la plus grande fermeté ». Le dimanche 4 octobre, Laurent Nuñez, ministre de l'Intérieur, dénonce des « accusations graves et sans fondement », le Syndicat des commissaires de la police nationale parle d'une « honte » et réclame la saisine du Conseil supérieur de la magistrature, et le syndicat Unité Magistrats FO se désolidarise « de toute posture politique ou militante ». Le mardi 6 octobre, la Conférence nationale des procureurs généraux « désapprouve » des communiqués « qui jettent le discrédit sur la justice en général et le ministère public en particulier ». Entre-temps, le lundi 5 octobre, le Collège de déontologie des magistrats de l'ordre judiciaire a diffusé un avis daté du 18 septembre 2026 (n° 2026-34), rendu dans une tout autre affaire : un magistrat qui relaie publiquement les positions partisanes d'une association dont il se présente comme membre fondateur contrevient à son devoir de réserve, à son apparence d'impartialité et à l'image de la justice.",
+        "sources": [
+          {
+            "label": "Actu-Juridique — Colère des lycéens : deux visions de la magistrature s’affrontent en marge des…",
+            "url": "https://www.actu-juridique.fr/justice/justice-justice/colere-des-lyceens-deux-visions-de-la-magistrature-saffrontent-en-marge-des-violences/",
+            "date": "2026-10-05",
+            "verified": true
+          },
+          {
+            "label": "Actu-Juridique — FLASH : La Conférence nationale des procureurs généraux désapprouve les prises…",
+            "url": "https://www.actu-juridique.fr/justice/justice-justice/flash-la-conference-generale-des-procureurs-generaux-desapprouve-les-prises-de-position-du-syndicat-de-la-magistrature/",
+            "date": "2026-10-06",
+            "verified": true
+          },
+          {
+            "label": "Actu-Juridique — FLASH : Le collège de déontologie des magistrats rend un avis sur la liberté…",
+            "url": "https://www.actu-juridique.fr/professions/magistrats/flash-le-college-de-deontologie-des-magistrats-rend-un-avis-sur-la-liberte-dexpression-et-lapparence-dimpartialite/",
+            "date": "2026-10-05",
+            "verified": true
+          },
+          {
+            "label": "Syndicat de la magistrature — Communiqué « Cessons de réprimer la jeunesse pour la faire taire »",
+            "url": "https://www.syndicat-magistrature.fr/notre-action/defense-des-libertes/atteintes-a-l-action-syndicale-et-au-mouvement-social/cessons-de-r%C3%A9primer-la-jeunesse-pour-la-faire-taire/",
+            "date": "2026-10-02",
+            "verified": true
+          },
+          {
+            "label": "Actu17 — Mouvement lycéen : Laurent Nuñez dénonce les « accusations graves et sans fondement » du Syndicat de la magistrature",
+            "url": "https://actu17.fr/societe/mouvement-lyceen-laurent-nunez-denonce-les-accusations-graves-et-sans-fondement-du-syndicat-de-la-magistrature.html",
+            "date": "2026-10-05",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "« Cessons de réprimer la jeunesse pour la faire taire » : la stratégie de maintien de l'ordre « n'a pas été adaptée à la particulière vulnérabilité de ce mouvement composé essentiellement d'enfants » (« gazage des élèves, interpellations brutales, utilisation d'armes sublétales mutilantes ») et le ministre de la Justice enjoint aux procureurs « de faire preuve de la plus grande fermeté » pour des infractions au « caractère excessivement flou et arbitraire ».",
+          "holder": "Syndicat de la magistrature (communiqué du 2 octobre 2026)",
+          "sources": [
+            {
+              "label": "Syndicat de la magistrature — Communiqué « Cessons de réprimer la jeunesse pour la faire taire »",
+              "url": "https://www.syndicat-magistrature.fr/notre-action/defense-des-libertes/atteintes-a-l-action-syndicale-et-au-mouvement-social/cessons-de-r%C3%A9primer-la-jeunesse-pour-la-faire-taire/",
+              "date": "2026-10-02",
+              "verified": true
+            },
+            {
+              "label": "Actu-Juridique — Colère des lycéens : deux visions de la magistrature s’affrontent en marge des…",
+              "url": "https://www.actu-juridique.fr/justice/justice-justice/colere-des-lyceens-deux-visions-de-la-magistrature-saffrontent-en-marge-des-violences/",
+              "date": "2026-10-05",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "La Conférence « désapprouve les communiqués et commentaires de certains, notamment le Syndicat de la magistrature, qui jettent le discrédit sur la justice en général et le ministère public en particulier en prétendant que les interpellations et mesures de garde à vue […] ne seraient pas légalement fondées ou seraient animées par une volonté discriminatoire, voire du racisme, […] ou que les parquets n'obéiraient qu'à un dessein répressif, sans discernement ».",
+          "holder": "Conférence nationale des procureurs généraux (communiqué du 6 octobre 2026)",
+          "sources": [
+            {
+              "label": "Actu-Juridique — FLASH : La Conférence nationale des procureurs généraux désapprouve les prises…",
+              "url": "https://www.actu-juridique.fr/justice/justice-justice/flash-la-conference-generale-des-procureurs-generaux-desapprouve-les-prises-de-position-du-syndicat-de-la-magistrature/",
+              "date": "2026-10-06",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "« L'engagement public de Monsieur [A] et sa participation aux activités de [l'association], alors qu'il fait état, même indirectement, de sa qualité de magistrat, paraît, dès lors, contrevenir à son devoir de réserve » ; les prises de position de l'association, « par leur nature partisane, peuvent porter atteinte à l'image de l'institution aux yeux du public ».",
+          "holder": "Collège de déontologie des magistrats de l'ordre judiciaire, avis n° 2026-34 du 18 septembre 2026 (autre affaire, diffusé le 5 octobre)",
+          "sources": [
+            {
+              "label": "Actu-Juridique — FLASH : Le collège de déontologie des magistrats rend un avis sur la liberté…",
+              "url": "https://www.actu-juridique.fr/professions/magistrats/flash-le-college-de-deontologie-des-magistrats-rend-un-avis-sur-la-liberte-dexpression-et-lapparence-dimpartialite/",
+              "date": "2026-10-05",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "D",
+          "claim": "Le syndicat réaffirme « son soutien aux forces de l'ordre dans l'exercice légitime de leurs missions » et se désolidarise « de toute posture politique ou militante susceptible de porter atteinte à l'image de la magistrature et à sa mission essentielle : appliquer la loi avec indépendance, impartialité et égale exigence pour tous ».",
+          "holder": "Unité Magistrats FO (communiqué du 4 octobre 2026)",
+          "sources": [
+            {
+              "label": "Actu-Juridique — Colère des lycéens : deux visions de la magistrature s’affrontent en marge des…",
+              "url": "https://www.actu-juridique.fr/justice/justice-justice/colere-des-lyceens-deux-visions-de-la-magistrature-saffrontent-en-marge-des-violences/",
+              "date": "2026-10-05",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CEDH, Baka c. Hongrie, Gr. Ch., n° 20261/12, 23 juin 2016",
+          "principle": "Violation de l'article 10 : la cessation anticipée du mandat du président de la Cour suprême, après ses critiques publiques de réformes judiciaires, sanctionnait l'exercice de sa liberté d'expression. Les questions touchant au fonctionnement de la justice relèvent de l'intérêt général ; un magistrat qui s'exprime sur elles bénéficie d'une protection élevée, à condition de garder la mesure qu'impose la confiance du public dans la justice.",
+          "verified": true,
+          "url": "https://hudoc.echr.coe.int/fre?i=001-164530"
+        },
+        {
+          "reference": "CEDH, Wille c. Liechtenstein [GC], n° 28396/95, 28 octobre 1999",
+          "principle": "Violation de l'article 10 : le prince avait annoncé qu'il ne renommerait pas le président du tribunal administratif à cause d'une conférence où il défendait une interprétation constitutionnelle contestée. Un magistrat conserve sa liberté d'expression sur des questions constitutionnelles ; le devoir de réserve ne justifie une ingérence que si l'autorité et l'impartialité du pouvoir judiciaire sont réellement en jeu.",
+          "verified": true,
+          "url": "https://hudoc.echr.coe.int/fre?i=001-62920"
+        },
+        {
+          "reference": "CEDH, Eminağaoğlu c. Turquie, n° 76521/12, 9 mars 2021",
+          "principle": "Violation de l'article 10 : la mutation disciplinaire d'un magistrat, président d'une association de magistrats, pour ses déclarations publiques critiquant des procédures judiciaires, n'était pas nécessaire dans une société démocratique ; cas le plus proche d'une expression syndicale ou associative d'un magistrat.",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-208410",
+          "verified": true
+        }
+      ],
+      "decide": [
+        "Le fait de cofonder une association dont les positions sont publiquement reprises par un magistrat suffit-il à caractériser un manquement au devoir de réserve ?",
+        "La critique d'une politique pénale ou de maintien de l'ordre relève-t-elle de la liberté syndicale ou de l'obligation de réserve propre à la fonction de juger ?",
+        "Le Collège de déontologie peut-il, par un simple avis, fixer une doctrine opposable à l'ensemble des magistrats sans intervention du Conseil supérieur de la magistrature ?"
+      ],
+      "jury": [
+        {
+          "question": "Comment définiriez-vous le devoir de réserve des magistrats, et sur quel texte repose-t-il ?"
+        },
+        {
+          "question": "Quelle différence faites-vous entre l'expression syndicale d'un magistrat et une prise de position partisane ?"
+        },
+        {
+          "question": "Quelle est la portée juridique d'un avis du Collège de déontologie : s'impose-t-il disciplinairement ?"
+        },
+        {
+          "question": "Vous conseillez un magistrat poursuivi disciplinairement pour ses propos : quels moyens de défense tirés de la liberté d'expression invoqueriez-vous ?"
+        }
+      ],
+      "listen": [
+        {
+          "title": "Communiqué du Syndicat de la magistrature : «C’est une insulte pour les 460 policiers blessés», regrette Frédéric Lauze, secrétaire général des commissaires de la police nationale",
+          "source": "Eliot Deval et vous",
+          "url": "https://podcasts.apple.com/fr/podcast/communiqu%C3%A9-du-syndicat-de-la-magistrature-cest-une/id6811900207?i=1000793091788",
+          "type": "intervention",
+          "date": "2026-10-04",
+          "duration": 13,
+          "stance": "neutre",
+          "why": "Réaction d'un syndicat de commissaires de police au communiqué du Syndicat de la magistrature, jugé insultant pour les policiers blessés : le point de vue policier sur la polémique."
+        }
+      ]
+    },
+    {
+      "id": "2026-lettres-des-prefets-aux-parents",
+      "question": "L'envoi par les préfets de lettres aux parents de lycéens placés en garde à vue est-il une pratique administrative légitime ou une pression excessive sur des mineurs ?",
+      "shortTitle": "Lettres des préfets aux parents",
+      "tag": "Sûreté · mineurs mobilisés",
+      "liberties": [
+        "surete",
+        "enfant",
+        "reunion"
+      ],
+      "controversial": true,
+      "addedAt": "2026-10-07",
+      "updatedAt": "2026-10-07",
+      "keyEvent": {
+        "label": "Lettres des préfets aux parents",
+        "date": "2026-10-03"
+      },
+      "rights": {
+        "summary": "Liberté individuelle et sûreté du mineur gardé à vue (art. 2, 7 et 9 DDHC) · droit d'expression collective des idées et des opinions (art. 11 DDHC), dont découle la liberté de manifester · protection spécifique des mineurs : pas de garde à vue avant 13 ans, seulement une retenue exceptionnelle de 10 à 13 ans (code de la justice pénale des mineurs, art. L. 413-1 et L. 413-6) · responsabilité de plein droit des parents (art. 1242 du code civil) · protection des données issues de la procédure pénale (finalité des fichiers, loi du 6 janvier 1978) et séparation des autorités administrative et judiciaire.",
+        "instruments": [
+          "Code civil, art. 1242, al. 4 : responsabilité de plein droit des parents, fondée sur l'exercice de l'autorité parentale depuis la loi n° 2025-568 du 23 juin 2025",
+          "Code de la justice pénale des mineurs, art. L. 413-1 (retenue des 10-13 ans) et L. 413-6 (garde à vue à partir de 13 ans)",
+          "Dépêche du garde des Sceaux aux procureurs (29 septembre 2026) et bilan du ministère de la Justice du 5 octobre 2026 : « la plus grande fermeté » et consigne d'« engager la responsabilité civile des parents » des mineurs interpellés"
+        ]
+      },
+      "facts": {
+        "text": "Le mouvement lycéen, né mi-septembre 2026 dans le Val-de-Marne, a pris de l'ampleur le 29 septembre et s'accompagne de dégradations et de violences. Selon le ministère de la Justice (bilan du 5 octobre 2026), 5 060 personnes ont été placées en garde à vue depuis le début de la mobilisation, dont 87 % de mineurs (4 406), et 1 802 font l'objet de poursuites ; le garde des Sceaux Gérald Darmanin a demandé aux procureurs « la plus grande fermeté » et d'« engager la responsabilité civile des parents ». Au 3 octobre, au moins deux préfets, François-Xavier Lauch (Pas-de-Calais) et Pierre Regnault de la Mothe (Pyrénées-Orientales), ont adressé une lettre individuelle aux parents de mineurs gardés à vue pour leur rappeler qu'ils sont civilement responsables des dommages causés par leurs enfants et leur demander d'empêcher de nouvelles exactions. Un collectif de 52 avocats des barreaux de Paris et de la Seine-Saint-Denis dénonce des « entraves répétées aux droits de la défense » et des « pressions pour renoncer au droit d'être assisté d'un avocat » pendant ces gardes à vue ; le Club des juristes rapporte le 7 octobre que les avocats disent voir des mineurs « terrorisés ».",
+        "sources": [
+          {
+            "label": "Liberté, Libertés chéries — Les lettres des préfets aux parents des lycéens gardés à vue",
+            "url": "https://libertescheries.blogspot.com/2026/10/les-lettres-des-prefets-aux-parents-des.html",
+            "date": "2026-10-03",
+            "verified": true
+          },
+          {
+            "label": "Club des juristes — Mobilisation lycéenne : les avocats dénoncent des GAV pour « terroriser »",
+            "url": "https://www.leclubdesjuristes.com/en-bref/mobilisation-lyceenne-les-avocats-denoncent-des-gav-pour-terroriser-17685/",
+            "date": "2026-10-07",
+            "verified": true
+          },
+          {
+            "label": "Ministère de la Justice — Bilan judiciaire des violences urbaines en marge du mouvement lycéen",
+            "url": "https://www.justice.gouv.fr/actualites/espace-presse/bilan-judiciaire-violences-urbaines-marge-du-mouvement-lyceen",
+            "date": "2026-10-05",
+            "verified": true
+          },
+          {
+            "label": "Décideurs juridiques — Des avocats et des magistrats dénoncent la répression lycéenne",
+            "url": "https://www.decideurs-juridiques.com/affaires-juridiques/65373-des-avocats-et-des-magistrats-denoncent-la-repression-lyceenne.html",
+            "date": "2026-10-04",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "« Le procédé semble simple, voire marqué par le bon sens. Il suscite toutefois des questions juridiques » : les lettres sont des actes non décisoires, mais elles utilisent des données (identités, adresses) recueillies en garde à vue, ce qui pose la question du détournement de finalité (loi du 6 janvier 1978) et de la séparation des pouvoirs.",
+          "holder": "Roseline Letteron (Liberté, Libertés chéries)",
+          "sources": [
+            {
+              "label": "Liberté, Libertés chéries — Les lettres des préfets aux parents des lycéens gardés à vue",
+              "url": "https://libertescheries.blogspot.com/2026/10/les-lettres-des-prefets-aux-parents-des.html",
+              "date": "2026-10-03",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "Un usage « massif » de la garde à vue comme « outil de répression », des « entraves répétées aux droits de la défense » et des « pressions pour renoncer au droit d'être assisté d'un avocat » : « l'avocat n'est pas un obstacle à l'enquête, mais la condition de sa régularité ».",
+          "holder": "Collectif de 52 avocats des barreaux de Paris et de la Seine-Saint-Denis",
+          "sources": [
+            {
+              "label": "Décideurs juridiques — Des avocats et des magistrats dénoncent la répression lycéenne",
+              "url": "https://www.decideurs-juridiques.com/affaires-juridiques/65373-des-avocats-et-des-magistrats-denoncent-la-repression-lyceenne.html",
+              "date": "2026-10-04",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "Les préfets « se sont bornés à rappeler aux parents qu'ils sont civilement responsables des dommages causés par leurs enfants mineurs » et leur demandent d'empêcher de nouvelles exactions ; le texte des lettres n'est pas publié.",
+          "holder": "Préfets du Pas-de-Calais et des Pyrénées-Orientales, d'après Liberté, Libertés chéries",
+          "sources": [
+            {
+              "label": "Liberté, Libertés chéries — Les lettres des préfets aux parents des lycéens gardés à vue",
+              "url": "https://libertescheries.blogspot.com/2026/10/les-lettres-des-prefets-aux-parents-des.html",
+              "date": "2026-10-03",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "D",
+          "claim": "Les procureurs doivent faire preuve de « la plus grande fermeté », privilégier les procédures de jugement rapide et « engager la responsabilité civile des parents » des mineurs interpellés.",
+          "holder": "Gérald Darmanin, garde des Sceaux (bilan du ministère de la Justice, 5 octobre 2026)",
+          "sources": [
+            {
+              "label": "Ministère de la Justice — Bilan judiciaire des violences urbaines en marge du mouvement lycéen",
+              "url": "https://www.justice.gouv.fr/actualites/espace-presse/bilan-judiciaire-violences-urbaines-marge-du-mouvement-lyceen",
+              "date": "2026-10-05",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CE, Ass., 21 mars 2016, Fairvesta International GmbH, n° 368082",
+          "principle": "Les avis, recommandations, mises en garde et prises de position d'une autorité peuvent être déférés au juge de l'excès de pouvoir lorsqu'ils sont de nature à produire des effets notables ou ont pour objet d'influer de manière significative sur les comportements : repère pour qualifier une lettre préfectorale non décisoire.",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2016-03-21/368082",
+          "verified": true
+        }
+      ],
+      "decide": [
+        "Une lettre préfectorale rappelant la responsabilité parentale est-elle un acte administratif susceptible de recours, ou une simple démarche informelle ?",
+        "Les gardes à vue de lycéens respectent-elles le régime des mineurs (pas de garde à vue avant 13 ans, avocat obligatoire, information des parents) ?",
+        "Le cumul garde à vue et lettre aux parents constitue-t-il une pression disproportionnée sur l'exercice du droit de manifester par des mineurs ?"
+      ],
+      "jury": [
+        {
+          "question": "Quelles sont les conditions légales de la garde à vue d'un mineur, et sont-elles respectées dans ces mobilisations lycéennes ?"
+        },
+        {
+          "question": "Une lettre préfectorale aux parents peut-elle faire grief et ouvrir un recours pour excès de pouvoir ?"
+        },
+        {
+          "question": "Vous défendez un lycéen placé en garde à vue : quels moyens tirez-vous de la protection spécifique des mineurs ?"
+        },
+        {
+          "question": "Comment distinguer prévention légitime et pression excessive dans l'action de l'administration envers des mineurs mobilisés ?"
+        }
+      ],
+      "listen": []
+    },
     {
       "id": "2026-maire-mariage-et-oqtf",
       "question": "Un maire officier d'état civil peut-il refuser de célébrer le mariage d'un étranger sous obligation de quitter le territoire français ?",
