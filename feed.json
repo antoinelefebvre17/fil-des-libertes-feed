@@ -1,8 +1,152 @@
 {
   "schemaVersion": 1,
   "weekOf": "2026-10-05",
-  "generatedAt": "2026-10-07T14:22:30.797Z",
+  "generatedAt": "2026-10-12T16:30:00.000Z",
   "sheets": [
+    {
+      "id": "2026-test-dissolution-egalite-et-reconciliation",
+      "question": "TEST · Peut-on dissoudre Égalité et Réconciliation pour les idées qu'elle propage ?",
+      "shortTitle": "TEST · Dissolution d'Égalité et Réconciliation",
+      "tag": "Association · dissolution administrative",
+      "liberties": [
+        "association",
+        "expression",
+        "egalite",
+        "droit-au-juge"
+      ],
+      "controversial": true,
+      "addedAt": "2026-10-12",
+      "updatedAt": "2026-10-12",
+      "keyEvent": {
+        "label": "Procédure de dissolution notifiée",
+        "date": "2026-10-09"
+      },
+      "rights": {
+        "summary": "EN JEU · Liberté d'association (principe fondamental reconnu par les lois de la République, CC n° 71-44 DC ; CEDH art. 11) · liberté d'expression (art. 11 DDHC ; CEDH art. 10). LIMITES · ordre public ; lutte contre la haine et les discriminations ; l'abus de droit n'est pas protégé (CEDH art. 17). POUVOIRS · dissolution par décret du Président de la République délibéré en conseil des ministres (CSI, art. L. 212-1), après procédure contradictoire ; c'est une mesure de police, pas une sanction (CC n° 2021-823 DC) ; contrôle entier du Conseil d'État : la mesure doit présenter « un caractère adapté, nécessaire et proportionné à la gravité des troubles susceptibles d'être portés à l'ordre public ».",
+        "instruments": [
+          "CSI, art. L. 212-1, 6° : « Ou qui, soit provoquent ou contribuent par leurs agissements à la discrimination, à la haine ou à la violence envers une personne ou un groupe de personnes à raison de leur origine, de leur sexe, de leur orientation sexuelle, de leur identité de genre ou de leur appartenance ou de leur non-appartenance, vraie ou supposée, à une ethnie, une nation, une prétendue race ou une religion déterminée, soit propagent des idées ou théories tendant à justifier ou encourager cette discrimination, cette haine ou cette violence ».",
+          "CSI, art. L. 212-1-1 : « Pour l'application de l'article L. 212-1, sont imputables à une association ou à un groupement de fait les agissements mentionnés au même article L. 212-1 commis par un ou plusieurs de leurs membres agissant en cette qualité ou directement liés aux activités de l'association ou du groupement, dès lors que leurs dirigeants, bien qu'informés de ces agissements, se sont abstenus de prendre les mesures nécessaires pour les faire cesser, compte tenu des moyens dont ils disposaient ».",
+          "Code pénal, art. 431-15 : « Le fait de participer au maintien ou à la reconstitution, ouverte ou déguisée, d'une association ou d'un groupement dissous en application de l'article L. 212-1 du code de la sécurité intérieure est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. »",
+          "CRPA, art. L. 121-1 et L. 122-1 : une mesure de police individuelle doit être motivée (L. 211-2, 1°) et précédée d'une procédure contradictoire : la personne visée présente des observations écrites et, sur sa demande, orales, assistée du conseil de son choix. Ici, dix jours ont été laissés à l'association.",
+          "Loi du 1er juillet 1901 ; DDHC art. 11 ; CEDH art. 10, 11 et 17."
+        ]
+      },
+      "facts": {
+        "text": "Par une lettre du 9 octobre 2026, le ministère de l'Intérieur a notifié à l'association Égalité et Réconciliation (E&R), fondée en 2007 par Alain Soral, l'ouverture d'une procédure de dissolution sur le fondement de l'article L. 212-1 du code de la sécurité intérieure. Une phase contradictoire de dix jours s'ouvre : l'association peut présenter ses arguments, puis le ministère décide s'il soumet un décret de dissolution au conseil des ministres. Selon Libération, cité par l'AFP, la lettre reproche à E&R de reprendre « en réalité le courant de votre pensée national-socialiste » et de propager « des idées tendant à justifier ou encourager un discours discriminatoire, haineux » et des appels à la violence envers les juifs, les immigrés, les femmes et les personnes LGBT. Alain Soral, condamné à plusieurs reprises en France et en Suisse pour des propos antisémites et homophobes, dit s'être réfugié en Russie en février 2026. Le ministère a confirmé la procédure à l'AFP le 11 octobre.",
+        "sources": [
+          {
+            "label": "AFP (via Bourse Direct)",
+            "url": "https://www.boursedirect.fr/fr/actualites/categorie/politique/extreme-droite-procedure-de-dissolution-engagee-contre-l-association-d-alain-soral-afp-ea87dfc01f22c0390292a61ae5e90c805eb99626",
+            "date": "2026-10-11",
+            "verified": true
+          },
+          {
+            "label": "Le Club des juristes",
+            "url": "https://www.leclubdesjuristes.com/en-bref/enclenchement-dune-procedure-de-dissolution-envers-lassociation-egalite-et-reconciliation-fondee-par-alain-soral-17790/",
+            "date": "2026-10-12",
+            "verified": true
+          }
+        ]
+      },
+      "positions": [
+        {
+          "id": "A",
+          "claim": "E&R « reprend en réalité le courant de votre pensée national-socialiste » et propage des idées justifiant la haine : la dissolution est envisagée.",
+          "holder": "Ministère de l'Intérieur (lettre du 9 octobre, citée par Libération)",
+          "sources": [
+            {
+              "label": "AFP (via Bourse Direct)",
+              "url": "https://www.boursedirect.fr/fr/actualites/categorie/politique/extreme-droite-procedure-de-dissolution-engagee-contre-l-association-d-alain-soral-afp-ea87dfc01f22c0390292a61ae5e90c805eb99626",
+              "date": "2026-10-11",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "Une persécution « inique » qui poussera son organisation à la clandestinité.",
+          "holder": "Alain Soral, fondateur d'E&R",
+          "sources": [
+            {
+              "label": "Le Club des juristes",
+              "url": "https://www.leclubdesjuristes.com/en-bref/enclenchement-dune-procedure-de-dissolution-envers-lassociation-egalite-et-reconciliation-fondee-par-alain-soral-17790/",
+              "date": "2026-10-12",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "claim": "La dissolution est « efficace contre les associations légalement constituées », moins contre les groupements de fait ; elle doit être complétée par le délit de reconstitution.",
+          "holder": "Didier Truchet, professeur émérite (Paris-Panthéon-Assas)",
+          "sources": [
+            {
+              "label": "Le Club des juristes",
+              "url": "https://www.leclubdesjuristes.com/politique/la-dissolution-est-elle-efficace-pour-lutter-contre-les-groupements-violents-14626/",
+              "date": "2026-02-27",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC, n° 71-44 DC, 16 juillet 1971",
+          "principle": "La liberté d'association est un principe fondamental reconnu par les lois de la République : pas de contrôle préalable à la constitution d'une association.",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1971/7144DC.htm",
+          "verified": true
+        },
+        {
+          "reference": "CC, n° 2021-823 DC, 13 août 2021 (loi confortant le respect des principes de la République)",
+          "principle": "Dissolution pour provocation à des agissements violents et imputation des actes des membres (L. 212-1-1) : conformes (§ 37 à 42) ; la dissolution est une mesure de police, pas une sanction (§ 41). Censure de la suspension conservatoire de trois mois renouvelable (§ 44 à 47).",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2021/2021823DC.htm",
+          "verified": true
+        },
+        {
+          "reference": "CE, 9 nov. 2023, Alvarium, n° 460457 ; Coordination contre le racisme et l'islamophobie (CRI), n° 459704",
+          "principle": "Dissolutions validées sur le 6° : messages justifiant la haine envers les étrangers (Alvarium) ; propos suscitant des commentaires haineux et antisémites ni contredits ni supprimés (CRI).",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2023-11-09/460457",
+          "verified": true
+        },
+        {
+          "reference": "CE, 9 nov. 2023, Les Soulèvements de la Terre, n° 476384",
+          "principle": "Dissolution annulée : la mesure doit présenter « un caractère adapté, nécessaire et proportionné à la gravité des troubles susceptibles d'être portés à l'ordre public » (point 6).",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2023-11-09/476384",
+          "verified": true
+        },
+        {
+          "reference": "CE, 30 déc. 2024, Civitas, n° 489498",
+          "principle": "Dissolution validée (exaltation de la collaboration, propos antisémites réguliers de ses responsables) ; un parti politique constitué en association n'échappe pas à l'art. L. 212-1.",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2024-12-30/489498",
+          "verified": true
+        },
+        {
+          "reference": "CEDH, 8 oct. 2020, Ayoub et autres c. France, n° 77400/14 et 2 autres",
+          "principle": "Dissolution de Troisième Voie : pas de violation de l'art. 11. Œuvre française et Jeunesses nationalistes : requêtes irrecevables, abus de droit (art. 17).",
+          "verified": true,
+          "url": "https://hudoc.echr.coe.int/fre?i=001-204822"
+        }
+      ],
+      "decide": [
+        "POUR la dissolution : le 6° vise expressément la propagation d'idées qui justifient la haine ; le Conseil d'État a validé sur ce motif Alvarium et le CRI (2023), puis Civitas pour les propos antisémites réguliers de ses responsables (2024) ; la CEDH écarte l'art. 11 en cas d'abus de droit (Ayoub).",
+        "CONTRE : la liberté d'association est un principe fondamental (CC, 1971) ; punir des idées relève d'abord du juge pénal (loi de 1881), pas de la police administrative ; risque de clandestinité et d'effet de martyr, avec un dirigeant hors de France.",
+        "À trancher : les propos d'Alain Soral, condamné à titre personnel, sont-ils imputables à l'association (L. 212-1-1) ? La dissolution est-elle encore nécessaire si l'activité est surtout en ligne ?"
+      ],
+      "jury": [
+        {
+          "question": "La dissolution administrative est-elle une sanction ? → Piste : non, une mesure de police (CC n° 2021-823 DC, § 41) ; donc pas les garanties de l'art. 8 DDHC, mais procédure contradictoire, décret motivé et contrôle entier du juge."
+        },
+        {
+          "question": "Vous êtes l'avocat d'E&R : quel recours, devant quel juge, avec quels moyens ? → Piste : recours pour excès de pouvoir contre le décret devant le Conseil d'État, compétent en premier et dernier ressort (CJA, R. 311-1, 1°), avec un référé-suspension (CJA, L. 521-1) ; moyens : imputabilité des propos (L. 212-1-1), actualité des faits, proportionnalité (Soulèvements de la Terre, 2023)."
+        },
+        {
+          "question": "Cette dissolution est-elle compatible avec la Convention européenne ? → Piste : ingérence dans l'art. 11 lu avec l'art. 10, prévue par la loi, but légitime, nécessaire ; Ayoub c. France (2020) ; l'art. 17 exclut la protection des activités visant à détruire les droits d'autrui."
+        },
+        {
+          "question": "Que se passe-t-il si les membres continuent après la dissolution ? → Piste : délit de maintien ou de reconstitution (C. pén., art. 431-15 : trois ans d'emprisonnement et 45 000 € d'amende) ; limite pratique pour un groupement actif en ligne (Truchet)."
+        }
+      ]
+    },
     {
       "id": "2026-casseurs-payeurs-et-responsabilite-collective",
       "question": "Le projet de loi « casseurs-payeurs », qui fait payer solidairement les membres d'un groupement violent, est-il compatible avec la liberté de manifester et le principe de responsabilité personnelle ?",
@@ -3555,6 +3699,203 @@
         "2026-couvre-feu-mineurs-oradour"
       ],
       "updatedAt": "2026-08-26"
+    },
+    {
+      "id": "test-i1-droit-a-l-aide-a-mourir",
+      "code": "I1",
+      "family": "I",
+      "title": "TEST · Droit à l'aide à mourir",
+      "question": "TEST · Le droit à l'aide à mourir est-il conciliable avec le droit à la vie et la dignité ?",
+      "summary": "ÉTAT DU DROIT · Avant 2026, loi Claeys-Leonetti (n° 2016-87 du 2 février 2016) : refus de l'obstination déraisonnable, directives anticipées contraignantes, sédation profonde et continue jusqu'au décès, sans geste létal. La proposition de loi de 2025 (1re lecture à l'Assemblée le 27 mai 2025, 305 voix contre 199), rejetée deux fois par le Sénat (28 janvier et 12 mai 2026), sans accord en commission mixte paritaire (19 mai 2026), est adoptée définitivement le 15 juillet 2026 (291 contre 241) : loi n° 2026-794 du 18 août 2026, validée sous trois réserves (CC, n° 2026-910 DC). AU 12 OCTOBRE 2026 · la loi est en vigueur mais pas encore applicable : le décret en Conseil d'État (art. L. 1111-12-11), le décret sur la commission de contrôle et le système d'information n'ont pas été publiés à cette date ; application attendue début 2027. LIMITES · cinq conditions cumulatives : 18 ans ; nationalité française ou résidence stable et régulière ; affection grave et incurable engageant le pronostic vital, en phase avancée ou terminale ; souffrance réfractaire aux traitements ou insupportable ; volonté libre et éclairée. Une souffrance psychologique seule ne suffit pas. POUVOIRS · le médecin décide après un collège pluriprofessionnel ; auto-administration en principe ; contrôle a posteriori par une commission ; recours devant le juge administratif.",
+      "keyTexts": [
+        {
+          "label": "CEDH, art. 2",
+          "note": "Droit à la vie : n'implique pas un droit à mourir (Pretty), n'interdit pas en soi une dépénalisation encadrée (Mortier).",
+          "verified": true
+        },
+        {
+          "label": "CEDH, art. 8",
+          "note": "Vie privée : droit de décider de quelle manière et à quel moment mettre fin à sa vie, si l'on peut former librement sa volonté (Haas).",
+          "verified": true
+        },
+        {
+          "label": "DDHC, art. 1er, 2 et 4 ; Préambule de 1946",
+          "note": "Liberté personnelle et sauvegarde de la dignité : les deux fondements retenus par le Conseil constitutionnel (n° 2026-910 DC, § 19-20).",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026910DC.htm",
+          "verified": true
+        },
+        {
+          "label": "CSP, art. L. 1110-5-2",
+          "note": "Sédation profonde et continue jusqu'au décès (loi Claeys-Leonetti, 2016).",
+          "verified": true
+        },
+        {
+          "label": "CSP, art. L. 1111-12-1 et suivants",
+          "note": "Droit à l'aide à mourir : conditions, procédure, collège, commission (loi n° 2026-794).",
+          "url": "https://www.legifrance.gouv.fr/eli/loi/2026/8/18/2026-794/jo/texte",
+          "verified": true
+        },
+        {
+          "label": "CSP, art. L. 1111-12-12",
+          "note": "Clause de conscience des médecins et infirmiers, étendue aux pharmaciens par réserve ; obligation d'orienter vers un professionnel volontaire.",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026910DC.htm",
+          "verified": true
+        },
+        {
+          "label": "Code pénal, art. 122-4",
+          "note": "La loi le dit expressément (CSP, L. 1111-12-1, II) : les personnes qui participent à la procédure ne sont pas pénalement responsables.",
+          "verified": true
+        }
+      ],
+      "caseLaw": [
+        {
+          "reference": "CC, n° 2026-910 DC, 14 août 2026",
+          "principle": "Loi conforme sous trois réserves : majeur protégé, le médecin tient compte des observations du protecteur (§ 121) ; les pharmaciens ne peuvent être tenus de participer (§ 166) ; un établissement privé peut refuser si l'acte est « manifestement contraire » à ses missions ou à son projet et si d'autres établissements répondent aux besoins locaux (§ 188).",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026910DC.htm",
+          "verified": true
+        },
+        {
+          "reference": "CC, n° 2017-632 QPC, 2 juin 2017, UNAFTC",
+          "principle": "Arrêt des traitements d'un patient hors d'état d'exprimer sa volonté : procédure collégiale conforme, sous réserve d'un recours effectif des proches.",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017632QPC.htm",
+          "verified": true
+        },
+        {
+          "reference": "CC, n° 2022-1022 QPC, 10 nov. 2022",
+          "principle": "Le médecin peut écarter des directives anticipées « manifestement inappropriées » : conforme.",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2022/20221022QPC.htm",
+          "verified": true
+        },
+        {
+          "reference": "CC, n° 2001-446 DC, 27 juin 2001",
+          "principle": "IVG : la liberté de conscience des soignants est individuelle (art. 10 DDHC, al. 5 Préambule 1946).",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2001/2001446DC.htm",
+          "verified": true
+        },
+        {
+          "reference": "CE, ass., 24 juin 2014, Mme Lambert, n° 375081",
+          "principle": "L'arrêt de l'alimentation et de l'hydratation artificielles d'un patient hors d'état de s'exprimer peut être légal en cas d'obstination déraisonnable.",
+          "verified": true,
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2014-06-24/375081"
+        },
+        {
+          "reference": "CEDH, gde ch., 5 juin 2015, Lambert et autres c. France, n° 46043/14",
+          "principle": "Pas de violation de l'art. 2 : large marge d'appréciation des États sur la fin de vie, cadre légal et contrôle juridictionnel suffisants.",
+          "verified": true,
+          "url": "https://hudoc.echr.coe.int/fre?i=001-155264"
+        },
+        {
+          "reference": "CEDH, 29 avril 2002, Pretty c. Royaume-Uni, n° 2346/02",
+          "principle": "L'art. 2 ne crée pas un droit à mourir ; l'interdiction du suicide assisté peut être justifiée au regard de l'art. 8.",
+          "verified": true,
+          "url": "https://hudoc.echr.coe.int/fre?i=001-65003"
+        },
+        {
+          "reference": "CEDH, 20 janv. 2011, Haas c. Suisse, n° 31322/07",
+          "principle": "L'art. 8 couvre le droit de décider de quelle manière et à quel moment mettre fin à sa vie, sans obliger l'État à fournir la substance létale.",
+          "verified": true,
+          "url": "https://hudoc.echr.coe.int/fre?i=001-102939"
+        },
+        {
+          "reference": "CEDH, 4 oct. 2022, Mortier c. Belgique, n° 78017/17",
+          "principle": "L'art. 2 n'interdit pas en soi la dépénalisation de l'euthanasie si des garanties suffisantes l'encadrent ; violation procédurale (contrôle a posteriori insuffisant).",
+          "url": "https://hudoc.echr.coe.int/fre?i=001-219559",
+          "verified": true
+        },
+        {
+          "reference": "CEDH, 13 juin 2024, Dániel Karsai c. Hongrie, n° 32312/23",
+          "principle": "Pas d'obligation de légaliser le suicide médicalement assisté : non-violation de l'art. 8.",
+          "verified": true,
+          "url": "https://hudoc.echr.coe.int/fre?i=001-234586"
+        }
+      ],
+      "developments": [
+        {
+          "date": "2026-08-18",
+          "text": "Loi n° 2026-794 du 18 août 2026 relative au droit à l'aide à mourir, publiée au JO du 19 août. Elle ne sera applicable qu'après publication de ses décrets d'application.",
+          "source": {
+            "label": "AP-HP, affaires juridiques",
+            "url": "https://affairesjuridiques.aphp.fr/textes/loi-n-2026-794-du-18-aout-2026-relative-au-droit-a-laide-a-mourir/",
+            "date": "2026-08-18",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-09-29",
+          "text": "La loi ne s'appliquera pas avant début 2027 : les décrets d'application (procédure, commission, système d'information) sont en préparation.",
+          "source": {
+            "label": "Mutuelle MCF",
+            "url": "https://www.mutuellemcf.fr/2026/09/29/loi-sur-laide-a-mourir-quelles-procedures-quelles-conditions/",
+            "date": "2026-09-29",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-08-14",
+          "text": "Le Conseil constitutionnel déclare la loi conforme sous trois réserves (majeurs protégés, pharmaciens, établissements privés) ; la loi ne méconnaît ni la dignité ni la liberté personnelle.",
+          "source": {
+            "label": "CC, n° 2026-910 DC",
+            "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026910DC.htm",
+            "date": "2026-08-14",
+            "verified": true
+          }
+        },
+        {
+          "date": "2026-07-15",
+          "text": "Adoption définitive par l'Assemblée nationale (dernier mot) : 291 voix contre 241 et 29 abstentions.",
+          "source": {
+            "label": "LexisVeille",
+            "url": "https://lexisveille.fr/fin-de-vie-la-proposition-de-loi-relative-au-droit-laide-mourir-definitivement-adoptee",
+            "date": "2026-07-16",
+            "verified": true
+          }
+        }
+      ],
+      "axes": [
+        "Droit à la vie (CEDH art. 2) contre autonomie (art. 8, Haas) : la CEDH laisse le choix aux États (Pretty, Karsai) mais exige des garanties (Mortier).",
+        "Dignité : invoquée par les deux camps ; le Conseil constitutionnel juge que la loi ne la méconnaît pas.",
+        "Liberté de conscience des soignants : clause individuelle (IVG, 2001), étendue aux pharmaciens ; un établissement privé peut refuser sous conditions.",
+        "POUR : liberté personnelle (art. 1er, 2 et 4 DDHC) ; égalité avec ceux qui partent en Suisse ou en Belgique ; encadrement strict (cinq conditions, collège, commission, recours).",
+        "CONTRE : protection des personnes vulnérables ; pressions sociales ou économiques ; critère « insupportable selon la personne » subjectif ; un seul médecin décide ; le contrôle a posteriori a été jugé insuffisant en Belgique (Mortier).",
+        "Pas de délit d'entrave ni d'incitation dans la loi : introduits par les députés en 2024 sur le modèle de l'IVG, supprimés en nouvelle lecture (juin 2026) ; seuls restent le signalement au procureur en cas de pression (L. 1111-12-8) et l'art. 40 CPP pour la commission.",
+        "JURY · La CEDH impose-t-elle à la France d'autoriser l'aide à mourir ? → Piste : non (Pretty, Haas, Karsai) et elle ne l'interdit pas (Mortier) : c'est un choix du législateur, sous garanties.",
+        "JURY · Sédation profonde et continue ou aide à mourir : quelle différence ? → Piste : la sédation altère la conscience jusqu'au décès, la mort vient de la maladie (2016) ; l'aide à mourir provoque la mort par une substance létale (2026).",
+        "JURY · Une clinique confessionnelle peut-elle refuser ? → Piste : oui si l'acte est manifestement contraire à ses missions ou à son projet et si d'autres établissements répondent aux besoins locaux (CC, § 188) ; comparer avec l'IVG (2001-446 DC).",
+        "JURY · Un patient peut-il demander l'aide à mourir aujourd'hui ? → Piste : non, tant que le décret en Conseil d'État prévu à l'art. L. 1111-12-11 (procédure, vérification des conditions) n'est pas publié ; application attendue début 2027.",
+        "JURY · Un majeur sous tutelle peut-il y accéder ? → Piste : oui, le consentement reste strictement personnel ; le médecin doit tenir compte des observations du protecteur (réserve, § 121) ; le protecteur peut contester l'autorisation devant le juge administratif dans les deux jours (L. 1111-12-10)."
+      ],
+      "positions": [
+        {
+          "id": "A",
+          "claim": "La décision du Conseil constitutionnel « parachève un débat démocratique exemplaire ».",
+          "holder": "L'Élysée",
+          "sources": [
+            {
+              "label": "franceinfo",
+              "url": "https://www.franceinfo.fr/societe/euthanasie/aide-a-mourir-le-conseil-constitutionnel-valide-la-loi-avec-quelques-reserves-emmanuel-macron-salue-une-decision-qui-paracheve-un-debat-democratique-exemplaire_8147588.html",
+              "date": "2026-08-14",
+              "verified": true
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "claim": "Les trois réserves « rejoignent les alertes portées par la SFAP », mais ses autres griefs (pas d'accès préalable effectif aux soins palliatifs, délai de deux jours, « un seul médecin décide ») ont été écartés.",
+          "holder": "SFAP (soins palliatifs)",
+          "sources": [
+            {
+              "label": "SFAP, communiqué (PDF)",
+              "url": "https://www.sfap.org/app/uploads/2026/08/CP-SFAP-CC-1408.pdf",
+              "date": "2026-08-14",
+              "verified": true
+            }
+          ]
+        }
+      ],
+      "relatedSheets": [
+        "2026-aide-a-mourir-etablissements"
+      ],
+      "updatedAt": "2026-10-12"
     }
   ]
 }
